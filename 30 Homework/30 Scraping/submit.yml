@@ -1,0 +1,10 @@
+name: hw2
+required:
+    - design_critique.pdf
+    - exercise.py
+    - tvscraper.py
+    - tvseries.html
+    - tvseries.csv
+    - cleanedData.csv
+    - cleanup_justifications.pdf
+    - cleanup.py

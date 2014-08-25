@@ -1,0 +1,6 @@
+name: hw3
+required:
+    - imdb-crawler.py
+    - top250movies.csv
+    - index.html 
+    - movie-083.html

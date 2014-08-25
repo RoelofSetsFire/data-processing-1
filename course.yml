@@ -1,0 +1,37 @@
+course:
+    title: Data Toolkit
+    short: Data Toolkit
+    submit: Data
+
+acknowledgements:
+    - 'Based on CS171 from http://cs171.org/ -- Copyright 2011--2013, Hanspeter Pfister.'
+
+license: All rights reserved.
+
+cdn: http://cdn.mprog.nl/dataviz
+
+tracks:
+    processing:
+        name: Data Processing
+        requirements:
+            - hw2
+            - hw3
+            - hw5
+            - hw6
+            - hw7
+            - hw8
+            - r2
+            - r3
+            - r4
+            - r5
+            - r6
+            - zz1
+        final: zz1
+    project:
+        name: Data Project
+        requirements:
+            - pr1
+            - pr2
+            - pr3
+            - zz2
+        final: zz2
