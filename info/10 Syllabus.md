@@ -1,4 +1,4 @@
-*Edition: Semester 2, February 2014*
+*Edition: September 2014 (beta version)*
 
 The amount and complexity of information produced in science, engineering,
 business, and everyday human activity is increasing at staggering rates. The
