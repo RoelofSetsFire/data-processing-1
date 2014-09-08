@@ -25,60 +25,7 @@ us something interesting about yourself (e.g., an unusual hobby, past travels,
 or a cool project you did, etc.). Also tell us whether you have experience with
 visualization.
 
-## Problem 2: Installing Tableau
-
-Tableau runs natively *only* on Microsoft Windows, so if at all possible, try
-to find a Windows PC for this assignment. Users of Intel­-based Macintosh
-computers (e.g., MacBook and MacBook Pro) with sufficient system resources can
-also run Tableau from within a Windows XP virtual machine using VirtualBox. An
-alternative is VMware, which you may use if you prefer, but you have to do so
-at your own risk.
-
-Tableau's data visualization software is provided through the Tableau for
-Teaching program.
-
-### Windows users
-
-Go to the [Tableau Landing Page] and fill out the form on the
-right hand side of the page. Download, and install.
-
-[Tableau Landing Page]: http://www.tableausoftware.com/academic/students
-
-While waiting for the code, you can start downloading at the [download page](http://www.tableausoftware.com/products/desktop/download-academic).
-
-### Mac OS X users
-
-1. Make sure your Mac meets these system requirements. Having ~10 GB of free
-   disk space in which to store the Windows VM is crucial!
-
-2. Download and install VirtualBox.
-
-3. (The virtual machine will be provided later on.)
-
-4. Follow Glenn's download and installation instructions.
-
-5. Install Tableau in the Windows VM as described above.
-
-Note: We will do our best to support Mac users, but we ask you to refer to the
-VirtualBox documentation and community forum as much as possible!
-
-### Linux users
-
-1. Make sure your computer meets these system requirements. Having ~10 GB of
-   free disk space in which to store the Windows VM is crucial!
-
-2. Download and install VirtualBox.
-
-3. (The virtual machine will be provided later on.)
-
-4. Follow Glenn’s download and installation instructions.
-
-5. Install Tableau in the Windows VM as described above.
-
-Note: We will not be offering support for running Windows on Linux machines, so
-proceed at your own risk.
-
-## Problem 3: Installing Python and the Pattern Library
+## Problem 2: Installing Python and the Pattern Library
 
 We will be using Python as our language of choice in this class. For those of
 you unfamiliar with it, we will be introducing python and the pattern library

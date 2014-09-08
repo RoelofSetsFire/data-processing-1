@@ -6,47 +6,8 @@ you!
 Note: This homework comes with supplementary files which you can download
 [here](hw5files.zip).
 
-## Problem 1: Sketching (25%)
 
-Have a look at this [movie from the Open University] UK that demonstrates well
-what we mean by sketching.
-
-[movie from the Open University]: http://www.open.edu/openlearn/science-maths-technology/engineering-and-technology/design-and-designing?track=109fd90ba3
-
-Perform the following exercises on letter-sized white paper using a Sharpie or
-a similar pen.
-
-* 1 page of straight lines
-* 1 page of arcs
-* 1 page of circles
-* 1 page of ellipses
-* 1 page of textures/patterns
-
-The goal of drawing textures is to practice various methods to fill in spaces,
-to show a differentiation between spaces. It is encouraged for people to
-experiment in styles. For instructions, have a look at the video about [Tone]
-from the Open University.
-
-[Tone]: http://www.open.edu/openlearn/science-maths-technology/engineering-and-technology/design-and-designing?track=3894637be0
-
-* 1 page of icons -- draw things from around the house/cafe/etc and turn them
-  into simple icons.
-
-* 3 pages of graphic layouts
-
-The goal of graphic layouts is to practice using the previous techniques
-(lines, arcs, circles, textures, etc) in an applied manner. It is recommended
-to start out by looking at a layout that already exists (ie website, magazine,
-newspaper, etc) and copy it in a basic layout representation. From there,
-experiment with various ways to change it. Try one page of copied layouts and
-variations, and two pages of original layouts and variations.
-
-Provide digital images (scans or photos) of your sketching practice. Please
-take care to avoid shadows, bad color balance, etc. Include these in your
-homework submission. Put the file(s) in a folder titled sketches, to be
-included in your submission.
-
-## Problem 2: HTML/CSS (25%)
+## Problem 1: HTML/CSS
 
 Read Lessons 1--3 from "A Beginner's Guide to HTML & CSS" by Shay Howe:
 
@@ -81,7 +42,7 @@ for each question will suffice.
 			  search bar
 			  search button
 
-## Problem 3: Implementing a Layout (50%)
+## Problem 2: Implementing a Layout
 
 It's time to start working with HTML and CSS! Your task for this problem is to
 choose a website and reimplement a basic, non-functional version of its user

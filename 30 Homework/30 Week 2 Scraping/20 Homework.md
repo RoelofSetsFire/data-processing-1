@@ -16,35 +16,8 @@ scaffolding and automated tests that are also used when grading the homework.
 [tvscraper.py]: tvscraper.py
 [test-tvscraper.py]: test-tvscraper.py
 
-## Problem 1: Design Critique (20%)
 
-Take a look at the following visualizations, pick one of them, and answer the
-questions below in a document called `design_critique.pdf`:
-
-* [Guardian]
-* [peoplemovin]
-* [Eigenfactor]
-
-[Guardian]: http://www.theguardian.com/politics/interactive/2010/nov/19/government-data-interactive-guide
-[peoplemovin]: http://www.peoplemov.in/
-[Eigenfactor]: http://well-formed.eigenfactor.org/radial.html
-
-Note that Flash is required for most of these: you might get a blank screen if
-you haven't got it installed.
-
-### Questions
-
-1. Who is the targeted audience?
-2. What tasks does the visualization enable?
-3. What data is represented in this visualization? Be specific.
-4. How is each data type visually encoded? Do you think the encodings are appropriate?
-5. Does the visualization have graphical integrity? Why or why not?
-6. What design principles are at work in this visualization? List as many as you can, and be specific.
-7. Do they support the tasks and enhance the meaning of the visualization?
-8. Do you like or dislike the visualization?
-9. What would you do differently to better support understanding?
-
-## Problem 2: Python Exercise (20%)
+## Problem 1: Python Exercise (20%)
 
 Welcome to Python! At this point, we hope you have Python up and running. If
 you're having a lot of trouble, please come see us at Office Hours or post your
@@ -93,7 +66,7 @@ problem if you cannot understand everything in PEP8 yet.
 Note: DO NOT USE `split()`, but you can import other libraries (i.e. regular
 expressions) There are many solutions so as long as it works!
 
-## Problem 3: DOM scraping and traversal (40%)
+## Problem 2: DOM scraping and traversal (40%)
 
 To scrape data, we will be using Pattern, a Python web mining module. Its
 description is as follows:
@@ -188,60 +161,31 @@ This is taken from the documentation, which you should learn to read!
 	The tag name passed to Element.by_tag()
 	can include a class ("div.message") or an id ("div#header").
 
-## Problem 4: Cleaning Data (20%)
 
-*See also the alternative assignment below, where you use Python to do the actual
-cleaning of the data.*
-Cleaning data can be a long and grueling process, and a bigger part of your
-projects than you can imagine. In this exercise, you will install Google Refine.
-Then use it to clean up [massachusetts-crime.csv] and
-[massachusetts-unemployment.csv] we have provided.
-Then you will merge datasets with Google Fusion Tables.
+## Problem 3: Questions about the readings.
 
-[massachusetts-crime.csv]: massachusetts-crime.csv
-[massachusetts-unemployment.csv]: massachusetts-unemployment.csv
+The following questions are for [week 2's readings].
+Find a visualization not discussed in class or used in a homework and answer
+the following questions pertaining to that visualization. Attach the
+visualization as a screenshot in your submission.
 
-### Instructions
+1. Consider Bertin's characterization of visual variables (position, size,
+   shape, value, color, orientation, and texture). Pick 2 of Bertin's visual
+   variables, and discuss them in relation to your visualization.
 
-1. Install [Google Refine](http://code.google.com/p/google-refine/downloads/list?can=1)
-2. Clean `massachusetts­crime.csv` and `massachusetts­unemployment.csv`
-3. Merge the two datasets with Google Fusion Tables by the `City` column. You may have
-some cities for which you have no data.
-4. You will have to scroll down to the bottom of the page and click "Create a New Table"
-under "Fusion Tables (experimental)"
-5. Write up your justifications for your steps for how you cleaned and merged the data in
-`cleanup_justifications.pdf`.
-6. Take this as an opportunity to explore all 3.
+2. Munzner proposed a nested model for visualization design and validation.
+   Discuss/validate your visualization with respect to domain problem
+   characterization and data/operation abstraction design.
 
-Warning: if you have a modern Mac OS X installation, the program may appear
-damaged. In this case, go to your System Security settings and allow running
-applications from any source.
+3. Based on Cleveland and McGill’s results, does your visualization embody good
+   practices (i.e. can people accurately perform the tasks based on the 
+   encodings?)
 
-Warning: the submission page will ask for `cleanup.py` just hand in the original file
-provided below (without changing it).
+4. Do you agree that visualization is a functional art? Explain.
 
-### General guidelines
+5. Ask yourself what the designer is trying to convey and think of three to
+   four possible tasks this visualization should help you with. Does the
+   visualization achieve any of your tasks? (To view an example, see Albert 
+   Cairo, pages 26-­28.)
 
-1. Look at the `City` column (for both files), there are some cities with
-   states, some without. You should make it uniform by deleting the `MA's`.
-2. Column `Population` has commas which can be interpreted as text. Get rid of
-   commas!
-3. Fix anything else you think would make the data more useful. But
-   really this exercise is to get you exposed to the different data­cleaning
-   programs out there.
-
-## Problem 4: Cleaning Data, DIY Python alternative (20%)
-
-In stead of using Google Refine, for this alternative exercise we are going to
-use Python. For this exercise we will again use the standard `csv` Python 
-module. A partial script [cleanup.py] and a test script [test-cleanup.py]
-are provided for this exercise. It is up to you to complete the implementations
-for the two cleanup functions in `cleanup.py` and to figure out how to write 
-a header to the output CSV file.
-
-- Write up your justifications for your steps for how you cleaned and merged the
-data in `cleanup_justifications.pdf`.
-
-[cleanup.py]: cleanup.py
-[test-cleanup.py]: test-cleanup.py
-
+[week 2's readings]: /readings/reading-2
