@@ -58,6 +58,8 @@ complex enough, please ask in class.*
 
 ## Problem 2: Questions about the readings.
 
+The following questions are for [week 3's readings][1].
+
 1. Ware describes bottom up and top down processing of visual information in
    the brain. Give a concrete and detailed example of how bottom up processing is
    influenced by top down processing, leading to a potentially wrong
@@ -70,3 +72,4 @@ complex enough, please ask in class.*
    do you think is the biggest issue/flaw with Many Eyes? What improvements might
    you suggest to Many Eyes to address these issues/flaws?
 
+[1]: /readings/reading-3
