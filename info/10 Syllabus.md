@@ -26,7 +26,7 @@ to a student assistant or the instructor at the lab.
 ### Instructor
 
 Thijs Coenen  
-<t.coenen@uva.nl>  
+<data@mprog.nl>
 
 ## Goals for this course
 
@@ -55,73 +55,7 @@ improve on your work.
 
 ## Grades
 
-Your final grade will be determined by the number of points you collect. You
-can collect various amounts of points for the different parts of the class:
-
-<div class="row">
-<div class="col-lg-6">
-
-The grade of **Data Processing** will be determined using the following weights:
-
-* Homework: 90%, assessed on your individual and on your group reflection
-  submission, as stated above.
-
-* Participation: 10% assessed on participation on Piazza and lecture and lab
-  attendance.
-
-</div>
-
-<div class="col-lg-6">
-
-The grade of **Data Project** will be determined using the following weights:
-
-* Projects, as assessed on meeting the project criteria as described in the
-  project handouts.
-
-</div>
-</div>
-
-Homework, projects, and participation will be graded on a 5 point scale in 0.5
-increments using the following scale:
-
-* 5 = Exceptional / above and beyond (we will only give out these for best projects)
-* 4 = Solid / no mistakes (or really minor)
-* 3 = Good / some mistakes
-* 2 = Fair / some major conceptual errors
-* 1 = Poor / did not finish
-* 0 = Did not participate / did not hand in
-
-A 4 constitutes a perfect grade, and getting all 4s is equivalent to an A. A
-combination of 4s and 3s end up being A- to B, and so on. Course assistants will
-evaluate your work holistically beyond mechanical correctness and focus on the
-overall quality of the work. In addition to the scores the course assistants
-will give detailed feedback.
-
-Keep in mind that your grade is also determined by your (genuine) effort, not
-only on correctness. There are several reasons for this approach. First, in
-design activities, risk-taking and wrong turns are a fact of life. Penalizing
-mistakes discourages risk-taking and creativity. Second, this approach allows
-you to control your effort better compared to trying to get open-ended problems
-right. Third, any anxiety associated with getting things right interferes with
-learning. If you enjoy this course, you will learn so much more!
-
-The course is not graded on a curve. The course does not have pre-determined
-cutoffs for final grades. Scores on projects' milestones may be normalized
-across graders at term's end. Each student's final grade is individually
-determined after input from the teaching fellows. Prior experience, remarkable
-effort, and upward trending may be considered.
-
-## Book
-
-![book cover](book-visual.jpg){:.inline}
-
-[Visual Thinking for Design](http://www.amazon.de/Visual-Thinking-Kaufmann-Interactive-Technologies/dp/0123708966/), Colin Ware, Morgan Kaufman (2008)
-
-All the clanking gears are here: variable resolution image detection, eye
-movements, environmental information statistics, bottom-up/top-down control
-structures, working memory, the nexus of meaning, and specialized brain areas
-and pathways. By the time he’s done, Ware has reconstructed cognitive
-psychology, perception, information visualization, and design into an
-integrated modern form. This book is scary good. --- Stuart Card, Senior
-Research Fellow, and manager of the User Interface Research group at the Palo
-Alto Research Center
+The grades will be awarded on the standard Dutch 1-10 scale. There are 7
+homework assignments that will be graded, all mandatory and to be handed
+in on schedule. Class participation is required (both the reading sessions
+and the desiggn critique sessions). 
