@@ -1,4 +1,4 @@
-In this homework, you will practice sketching and begin working with HTML/CSS.
+In this homework, you will  begin working with HTML/CSS.
 As always, if you need help, the first place you should check is Piazza because
 someone else may have already posted about the same problems or questions as
 you!
