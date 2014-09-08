@@ -14,7 +14,7 @@ Read the following articles and answer these questions in `reading3.pdf`.
 
 * [See the week 3 homework for the questions.][2]
 
-[1]: Viegas_ManyEyes.pdf
+[1]: cdn://excerpts/w3/Viegas_ManyEyes.pdf
 [2]: /homework/week-3-crawling
 
 

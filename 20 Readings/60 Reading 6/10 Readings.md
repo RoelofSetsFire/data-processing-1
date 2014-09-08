@@ -11,8 +11,8 @@ Read the following and answer the accompanying questions in `reading6.pdf`.
 * J. Heer, M. Bostock, and V. Ogievetsky, "[A tour through the visualization
   zoo][2]," Commun. ACM, vol. 53, no. 6, pp. 59–67, Jun. 2010.
 
-[1]: Bostock_D3.pdf
-[2]: Heer_tour_through_the_visualization_zoo.pdf
+[1]: cdn://excerpts/w6/Bostock_D3.pdf
+[2]: cdn://excerpts/w6/Heer_tour_through_the_visualization_zoo.pdf
 
 ## Recommended Readings (linked for your convenience):
 

@@ -11,8 +11,8 @@ Read the following and answer the accompanying questions in `reading5.pdf`.
   [overview+detail][2], zooming, and focus+context interfaces," ACM Computing
   Surveys (CSUR), vol. 41, no. 1, pp. 1–31, 2008.
 
-[1]: p30-heer.pdf
-[2]: Cockburn_overview_detail.pdf
+[1]: cdn://excerpts/w5/p30-heer.pdf
+[2]: cdn://excerpts/w5/Cockburn_overview_detail.pdf
 
 ## Recommended Readings
 
@@ -24,8 +24,8 @@ Read the following and answer the accompanying questions in `reading5.pdf`.
   Visualization," in State-of-the-Art Proceedings of EUROGRAPHICS 2003 (EG
   2003), 2003, pp. 123–137.
 
-[3]: Heer_Animated_Transitions.pdf
-[4]: Kosara_Interaction_View.pdf
+[3]: cdn://excerpts/w5/Heer_Animated_Transitions.pdf
+[4]: cdn://excerpts/w5/Kosara_Interaction_View.pdf
 
 ## Questions
 

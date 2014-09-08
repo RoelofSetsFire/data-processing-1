@@ -9,7 +9,7 @@ in `reading4.pdf`.
   Harmful," IEEE Computer Graphics and Applications, vol. 27, no. 2, pp. 14–17,
   2007.
 
-[1]: Borland_Rainbow_Color_Map.pdf
+[1]: cdn://excerpts/w4/Borland_Rainbow_Color_Map.pdf
 
 ## Recommended
 
@@ -22,8 +22,8 @@ These are not required for homework questions, but linked here for convenience:
 * B. E. Rogowitz, L. A. Treinish, and S. Bryson, "[How not to lie][3] with
   visualization," Computers in Physics, vol. 10, no. 3, pp. 268–273, 1996.
 
-[2]: Zeileis_Escaping_RGBland.pdf
-[3]: Rogowitz_How_not_to_lie.pdf
+[2]: cdn://excerpts/w4/Zeileis_Escaping_RGBland.pdf
+[3]: cdn://excerpts/w4/Rogowitz_How_not_to_lie.pdf
 
 ## Questions
 
