@@ -56,5 +56,17 @@ just scrape a single web page. If you are in doubt your data source is
 complex enough, please ask in class.*
 
 
+## Problem 2: Questions about the readings.
 
+1. Ware describes bottom up and top down processing of visual information in
+   the brain. Give a concrete and detailed example of how bottom up processing is
+   influenced by top down processing, leading to a potentially wrong
+   interpretation of "reality" by the viewer. Your example can include a
+   screenshot, photo, or web site URL to refer to the scene that is being viewed.
+
+2. Go to the Many Eyes website and browse around the visualizations. Click
+   through a few and look at the comments. How successful do you think Many Eyes
+   has been in achieving its original design purpose according to the paper? What
+   do you think is the biggest issue/flaw with Many Eyes? What improvements might
+   you suggest to Many Eyes to address these issues/flaws?
 
