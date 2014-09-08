@@ -1,6 +1,7 @@
-I this assignment, you will develop the very basics necessary in preparation for
-Project I: design evaluation, traversing the Document Object Model (DOM), and
-cleaning data. As always if you need help, the first place you should check is 
+In this assignment you will learn to use the Document Object Model (DOM) using
+Python via the Pattern library, in a few weeks you will also access the DOM
+from Javascript.
+As always if you need help, the first place you should check is 
 Piazza because likely someone else will have had the same problems as you!
 For the programming excercises in this homework, we provide both some
 scaffolding and automated tests that are also used when grading the homework.
