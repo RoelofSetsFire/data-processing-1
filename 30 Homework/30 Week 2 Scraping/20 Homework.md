@@ -17,7 +17,7 @@ scaffolding and automated tests that are also used when grading the homework.
 [test-tvscraper.py]: test-tvscraper.py
 
 
-## Problem 1: Python Exercise (20%)
+## Problem 1: Python Exercise
 
 Welcome to Python! At this point, we hope you have Python up and running. If
 you're having a lot of trouble, please come see us at Office Hours or post your
@@ -66,7 +66,7 @@ problem if you cannot understand everything in PEP8 yet.
 Note: DO NOT USE `split()`, but you can import other libraries (i.e. regular
 expressions) There are many solutions so as long as it works!
 
-## Problem 2: DOM scraping and traversal (40%)
+## Problem 2: DOM scraping and traversal
 
 To scrape data, we will be using Pattern, a Python web mining module. Its
 description is as follows:
