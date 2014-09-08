@@ -13,7 +13,7 @@ Read the following chapters and answer the accompanying questions in
 
 ## Questions
 
-* [See homework of week 1.][3]
+* [See homework of week 2.][3]
 
 [1]: Carpendale_Considering_Visual_Variables.pdf
 [2]: Cleveland_Graphical_Perception_Theory.pdf
