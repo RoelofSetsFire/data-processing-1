@@ -3,7 +3,7 @@ in `reading4.pdf`.
 
 ## Readings
 
-* Colin Ware, Chapter 2, Chapter 3, Chapter 4
+* Colin Ware, Chapter 3, Chapter 4
 
 * D. Borland and R. M. Taylor II, "[Rainbow Color Map][1] (Still) Considered
   Harmful," IEEE Computer Graphics and Applications, vol. 27, no. 2, pp. 14–17,
