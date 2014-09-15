@@ -4,5 +4,4 @@ required:
     - tvscraper.py
     - tvseries.html
     - tvseries.csv
-    - cleanedData.csv
     - reading2.pdf
