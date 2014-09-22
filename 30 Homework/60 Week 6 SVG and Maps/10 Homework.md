@@ -40,35 +40,8 @@ The [Resources Page] with many more resources for the curious!
 
 [Resources Page]: /resources/cs171-resources
 
-## Problem 1: Readings on D3 and SVG
 
-Please read this [blog post about D3], [Three Little Circles], [A Bar Chart
-Part 1] and answer the following questions. For further reference a short list
-of D3 and SVG resources is included below. Please take a look, as these may be
-helpful for this homework or future projects!
-
-[blog post about D3]: http://www.jeromecukier.net/blog/2013/03/05/d3-tutorial-at-strata-redux/
-[Three Little Circles]: http://mbostock.github.io/d3/tutorial/circle.html
-[A Bar Chart Part 1]: http://mbostock.github.io/d3/tutorial/bar-1.html
-
-1. How can D3 access and change the DOM? What do `select` and `selectAll` do?
-
-2. What are the `d` and `i` in `function(d){}` and `function(d, i){}`?
-
-3. Write sample lines of JavaScript to add a `div` element with class
-   "barChart1" and to add an svg element with class "barChart2" with square
-   dimensions.
-
-4. Describe `append`, `update`, `enter`, and `exit` at a high level. What does
-   "selectAll + data + enter + append" refer to?
-
-5. What are the main differences between drawing a bar chart with HTML and SVG?
-
-6. In drawing the simple bar chart with D3 and SVG, what elements were
-   appended, and to what parts of the graph did these element correspond?
-
-
-## Problem 2: SVG Maps
+## Problem 1: SVG Maps
 
 SVG, as described in class, is a vector­based alternative to the raster­based
 Canvas. It is especially useful in cases where you want to interactively modify
@@ -132,7 +105,7 @@ Submit your completed files in a folder titled 2 containing `svg2.html`,
 `svg2.css`, and `main2.js`. Don't forget to change the references in
 `svg2.html` to reflect the changed stylesheet and js file names!
 
-## Problem 3: Analyze Geographical Data with SVG
+## Problem 2: Analyze Geographical Data with SVG
 
 In Problem 3, you will extend Problem 2 by preparing a dataset of
 geographically indexed data in the JSON format and using this data set to
@@ -203,6 +176,34 @@ category in your encoding.
 Submit your completed files in a folder titled 3 containing `svg3.html`,
 `svg3.css`, and `main3.js`. Note that you may not need `svg3.css` here unless
 you would like to change additional styling with regard to text, margins, etc.
+
+## Problem 3: Readings on D3 and SVG
+
+Please read this [blog post about D3], [Three Little Circles], [A Bar Chart
+Part 1] and answer the following questions. For further reference a short list
+of D3 and SVG resources is included below. Please take a look, as these may be
+helpful for this homework or future projects!
+
+[blog post about D3]: http://www.jeromecukier.net/blog/2013/03/05/d3-tutorial-at-strata-redux/
+[Three Little Circles]: http://mbostock.github.io/d3/tutorial/circle.html
+[A Bar Chart Part 1]: http://mbostock.github.io/d3/tutorial/bar-1.html
+
+1. How can D3 access and change the DOM? What do `select` and `selectAll` do?
+
+2. What are the `d` and `i` in `function(d){}` and `function(d, i){}`?
+
+3. Write sample lines of JavaScript to add a `div` element with class
+   "barChart1" and to add an svg element with class "barChart2" with square
+   dimensions.
+
+4. Describe `append`, `update`, `enter`, and `exit` at a high level. What does
+   "selectAll + data + enter + append" refer to?
+
+5. What are the main differences between drawing a bar chart with HTML and SVG?
+
+6. In drawing the simple bar chart with D3 and SVG, what elements were
+   appended, and to what parts of the graph did these element correspond?
+
 
 
 ## Submission check
