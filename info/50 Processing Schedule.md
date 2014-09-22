@@ -41,7 +41,7 @@ This is the general schedule for data-processing.
 * Javascript documentation relevant to weeks 4 and 5:
     * [Week 6, Project 1 Review](http://data.mprog.nl/lectures/week-6#project-1-review)
     * [Week 7, Javascript](http://data.mprog.nl/lectures/week-7#javascript)
-    * [Javascript the good parts](http://www.livestream.com/etsy/video?clipId=pla_1463e546-47ed-4a93-b59a-bd52b236e8b8
+    * [Javascript the good parts](http://www.livestream.com/etsy/video?clipId=pla_1463e546-47ed-4a93-b59a-bd52b236e8b8)
     * [Mozilla Developer Network - Javascript](https://developer.mozilla.org/nl/docs/Web/JavaScript)
 
 ## Week 5
