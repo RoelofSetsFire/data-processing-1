@@ -1,5 +1,15 @@
-In this homework you will manipulate basic web technologies such as CSS3, HTML5
-and Canvas, as well as answer questions on the readings.
+
+This homework is split over week 4 and 5 of the data-processing course. The total
+exercise consists of ingesting a data set encoded as CSV (Comma Separated Values)
+and one encoded as JSON (Javascript Object Notation), plotting the two data sets
+on a so-called Canvas element, and then to add interactivity to that plot using
+Javascript techniques. For some of you this excercise will be your first 
+introduction to Javascript. 
+
+The first part of the exercise (week 4) comprises only the loading of the data
+and plotting the two data sets (statically). The second part (week 5) comprises
+the the interactivity. The deadline for week 4 is soft (you are allowed to hand
+in the complete exercise in week 5).
 
 As always if you need help, the first place you should check is Piazza because
 likely someone else will have had the same problems as you!
@@ -218,42 +228,4 @@ or the javascript split, as discussed previously), iterate over the data points
 You must implement the drawing in a generic function and call it twice (once
 for each data set).
 
-## Interactivity
-
-*Techniques demonstrated: hover (onMouseOver), Tooltip*
-
-Providing the user with a line chart is great, but often the resolution is
-insufficient for the user to figure out the points of interest. It's much
-easier to add interactivity, by allowing the user to hover over the data points
-and show more detail – such as the exact point value or any additional
-information. This is where the "comments" fields in your data come in.
-
-Add interactivity to your canvas by installing a handler on its mouse move
-event. As shown in the lecture and the lab, this involves setting the
-Javascript "onmousemove". When the user moves the mouse, change the cursor into
-a cross hair, and extend the cross hair both horizontally and vertically, so
-that the user can easily see its position. Where the cross hair extension
-intersects with the graph (by the same x-coordinate) is the point of interest,
-as shown in the next figure.
-
-![Chart example 2](chart2.png)
-
-Display the details of this point – its x, y values and any additional comments
-– in the details div, below or above the chart (using innerHTML, as discussed
-in lecture) -see figure above ("Feb 27,2013").
-
-In addition you should implement a tool tip showing the same information as
-demonstrated in lecture and the lab. A tool tip is nothing more than a styled
-floating `<div>` element, positioned on the fly at (or close to) the current
-mouse coordinates. It makes sense to display the tooltip, however, only after a
-very short timeout, since otherwise it will follow the mouse around (which can
-get quite annoying). A good trick for tooltips is to use setTimeout() to
-schedule a tooltip, but keep canceling the timeout as long as the mouse is
-moving (using clearTimeout in the mouse move handler).
-
-
-## Submitting
-
-Your submission should be in `hw6.zip` and include the following items:
-
-* Your code for problem 2: `index.html`, `style.css` and other files as needed inside a folder `lastname_hw5`.
+Submitting: see week 5.
