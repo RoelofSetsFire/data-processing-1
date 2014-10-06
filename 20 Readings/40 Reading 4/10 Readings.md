@@ -24,7 +24,7 @@ These are not required for homework questions, but linked here for convenience:
 
 ## Questions
 
-* [See homework of week 2.][4]
+* [See homework of week 4.][4]
 
 [2]: cdn://excerpts/w4/Zeileis_Escaping_RGBland.pdf
 [3]: cdn://excerpts/w4/Rogowitz_How_not_to_lie.pdf
