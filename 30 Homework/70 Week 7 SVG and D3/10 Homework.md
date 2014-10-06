@@ -30,8 +30,35 @@ have already posted about the same problems or questions as you!
 Note: This homework comes with supplementary files which you can download
 [here](HW_8_Supplementary_Files.zip).
 
+## Problem 1: Readings on D3 and SVG
 
-## Problem 1: Implement a Line Graph with D3
+Please read this [blog post about D3], [Three Little Circles], [A Bar Chart
+Part 1] and answer the following questions. For further reference a short list
+of D3 and SVG resources is included below. Please take a look, as these may be
+helpful for this homework or future projects!
+
+[blog post about D3]: http://www.jeromecukier.net/blog/2013/03/05/d3-tutorial-at-strata-redux/
+[Three Little Circles]: http://mbostock.github.io/d3/tutorial/circle.html
+[A Bar Chart Part 1]: http://mbostock.github.io/d3/tutorial/bar-1.html
+
+1. How can D3 access and change the DOM? What do `select` and `selectAll` do?
+
+2. What are the `d` and `i` in `function(d){}` and `function(d, i){}`?
+
+3. Write sample lines of JavaScript to add a `div` element with class
+   "barChart1" and to add an svg element with class "barChart2" with square
+   dimensions.
+
+4. Describe `append`, `update`, `enter`, and `exit` at a high level. What does
+   "selectAll + data + enter + append" refer to?
+
+5. What are the main differences between drawing a bar chart with HTML and SVG?
+
+6. In drawing the simple bar chart with D3 and SVG, what elements were
+   appended, and to what parts of the graph did these element correspond?
+
+
+## Problem 2: Implement a Line Graph with D3
 
 For this assignment you will create a line graph that is not interactive. The
 data you use for this assignment is up to you (as long as the data points have
@@ -83,7 +110,8 @@ and maximum element from its argument. Consider what each attr does.
 Submit your completed files in a folder titled `d3line` containing `d3line.html` and
 `d3line.css`.
 
-## Problem 2: D3 scatter plot
+
+## Problem 3: D3 scatter plot
 
 For this problem you will create a scatter plot using D3. The data you use
 can be same data as you used for the line graph, or it can be some new
@@ -94,7 +122,7 @@ as the size of your marks. While you can choose what marks to use for each
 of the data points it is suggested you use circles.
 
 
-## Problem 3: Interactive map with D3
+## Problem 4: Interactive map with D3
 
 In this problem you will be analyzing your geographical data with D3, the idea
 is to find a data set that has data for each country (or most countries) in the
@@ -158,8 +186,9 @@ following items:
 
 
 1. Your map from each stage of the process, contained in a folder:
-   * 1: d3line.html, d3line.css, and d3line.js
-   * 2: d3scatter.html and d3scatter.css
-   * 3: d3map.html, d3map.css, and d3map.js
+   * 1: d3questions.pdf
+   * 2: d3line.html, d3line.css, and d3line.js
+   * 3: d3scatter.html and d3scatter.css
+   * 4: d3map.html, d3map.css, and d3map.js
 
 2. Any libraries used, including d3 if linked to a local copy.

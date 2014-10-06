@@ -27,23 +27,4 @@ Read the following and answer the accompanying questions in `reading5.pdf`.
 [3]: cdn://excerpts/w5/Heer_Animated_Transitions.pdf
 [4]: cdn://excerpts/w5/Kosara_Interaction_View.pdf
 
-## Questions
-
-1. Ware argues that human perception involves 2.5 dimensions. Given this
-   assertion, when might a 3D visualization be useful and why?
-
-2. In Chapter 6, Ware presents some implications of pattern recognition and
-   visual working memory on design. Provide an example that harnesses some of
-   these principles (perhaps an advertisement, visualization, or interface) and
-   discuss how the design takes these principles into account. Please include a
-   screenshot, photo, or website URL.
-
-3. Pick three concepts covered in Lecture 9 - Interaction (e.g., Brushing &
-   Linking) and relate them to the taxonomy presented in Heer & Shneiderman Table
-   1. How do the interaction concepts fit to their taxonomy?
-
-4. Cockburn et al. describe various interface design paradigms, among them the
-   “fisheye view.” How would the fisheye view improve the usability of a
-   visualization, and under what circumstances might it not?
-
 

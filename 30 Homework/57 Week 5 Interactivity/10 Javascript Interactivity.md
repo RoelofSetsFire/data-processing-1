@@ -68,10 +68,33 @@ crosshair cursor – just the extension lines. In other words, when the checkbox
 is clicked your event handler (onclick) should toggle some global variable
 enabling or enabling the logic you have added.
 
+## Problem 2: Questions for the reading of week 5
+
+1. Ware argues that human perception involves 2.5 dimensions. Given this
+   assertion, when might a 3D visualization be useful and why?
+
+2. In Chapter 6, Ware presents some implications of pattern recognition and
+   visual working memory on design. Provide an example that harnesses some of
+   these principles (perhaps an advertisement, visualization, or interface) and
+   discuss how the design takes these principles into account. Please include a
+   screenshot, photo, or website URL.
+
+3. Pick three concepts covered in Lecture 9 - Interaction (e.g., Brushing &
+   Linking) and relate them to the taxonomy presented in Heer & Shneiderman Table
+   1. How do the interaction concepts fit to their taxonomy?
+
+4. Cockburn et al. describe various interface design paradigms, among them the
+   “fisheye view.” How would the fisheye view improve the usability of a
+   visualization, and under what circumstances might it not?
+
 ## Submitting
 
 Your submission should be in `hw5.zip` and include the following items:
 
 * Include your HTML, CSS, Javascript, any needed images in your submission. 
+* Include a document `reading4.pdf` containing the answers to the questions
+  about reading 4.
+* Include a document `reading5.pdf` containing the answers to the questions
+  about reading 5.
 * You can include a README.txt describing the system and browser you 
   developed on.

@@ -25,24 +25,4 @@ These are not required for homework questions, but linked here for convenience:
 [2]: cdn://excerpts/w4/Zeileis_Escaping_RGBland.pdf
 [3]: cdn://excerpts/w4/Rogowitz_How_not_to_lie.pdf
 
-## Questions
-
-1. Patterns and colors are essential to maps. Compare a search for Harvard
-   University on two interactive maps (e.g., Google Maps, Bing Maps, Yahoo! Maps,
-   Apple Maps, map.harvard.edu). Answer the following questions, making references
-   to concepts explained in Ware such as pattern recognition and properties of
-   color. Please include screenshots of the examples you are comparing.
-
-    a. Which map promotes an easier visual search for buildings?
-    b. Which map more effectively visualizes routes from a random point A to point B?
-    c. Which map is an overall better visualization, and why?
-
-2. Find a rainbow color map visualization on the web. Please include a
-   screenshot and link of the visualization.
-
-   a. Briefly summarize its intended objective and audience. Does it fail to
-      successfully convey information? If so, why? Is there a good reason for this
-      specific visualization to use a rainbow color scheme?
-   
-   b. Propose an alternative color scheme to replace the rainbow color map.
 

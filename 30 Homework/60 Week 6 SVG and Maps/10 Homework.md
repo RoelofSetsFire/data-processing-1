@@ -1,7 +1,3 @@
-## Note about the new schedule
-
-_This homework assignment is for week 7 of block 4_
-
 ## Introduction
 
 In this homework you will learn to manipulate maps using Javascript. The maps
@@ -107,7 +103,7 @@ Submit your completed files in a folder titled 2 containing `svg2.html`,
 
 ## Problem 2: Analyze Geographical Data with SVG
 
-In Problem 3, you will extend Problem 2 by preparing a dataset of
+In Problem 2, you will extend Problem 1 by preparing a dataset of
 geographically indexed data in the JSON format and using this data set to
 create a color­encoded map of your continent. Create new files, svg3.html,
 svg3.css, and main3.js, based on your problem 2 solution.
@@ -177,37 +173,34 @@ Submit your completed files in a folder titled 3 containing `svg3.html`,
 `svg3.css`, and `main3.js`. Note that you may not need `svg3.css` here unless
 you would like to change additional styling with regard to text, margins, etc.
 
-## Problem 3: Readings on D3 and SVG
+## Problem 3: Questions about the readings of week 6
 
-Please read this [blog post about D3], [Three Little Circles], [A Bar Chart
-Part 1] and answer the following questions. For further reference a short list
-of D3 and SVG resources is included below. Please take a look, as these may be
-helpful for this homework or future projects!
+1. According to Bostock et. al., what are the primary advantages of D3? Based
+on your reading of the article, please provide an example of a type of
+visualization that would be easier and better implemented in D3 as opposed to
+HTML5, JSON, and Javascript. Please list the pros and cons of choosing D3 over
+pure HTML5, JSON and Javascript.
 
-[blog post about D3]: http://www.jeromecukier.net/blog/2013/03/05/d3-tutorial-at-strata-redux/
-[Three Little Circles]: http://mbostock.github.io/d3/tutorial/circle.html
-[A Bar Chart Part 1]: http://mbostock.github.io/d3/tutorial/bar-1.html
+2. Of the visualization figures presented in Heer et. al., which do you find
+the most difficult to comprehend? Does the complexity of the figure interfere
+with the goal of visualization as described in the article? Include a
+screenshot of the figure you have chosen in your response and use principles
+that you have learned so far (i.e., from design, perception, and cognition) to
+justify your choice.
 
-1. How can D3 access and change the DOM? What do `select` and `selectAll` do?
-
-2. What are the `d` and `i` in `function(d){}` and `function(d, i){}`?
-
-3. Write sample lines of JavaScript to add a `div` element with class
-   "barChart1" and to add an svg element with class "barChart2" with square
-   dimensions.
-
-4. Describe `append`, `update`, `enter`, and `exit` at a high level. What does
-   "selectAll + data + enter + append" refer to?
-
-5. What are the main differences between drawing a bar chart with HTML and SVG?
-
-6. In drawing the simple bar chart with D3 and SVG, what elements were
-   appended, and to what parts of the graph did these element correspond?
-
+3. Play around with the interactive graphs included in the Heer article. You
+need to open this page in a browser that runs Java. Focus on Figure 1A. To what
+extent do interactivity and transitions, elements that D3 optimizes, add to the
+clarity and message of the visualization? With the element of interactivity in
+mind, redesign and sketch the contents of figure 1A with one of the other
+visualization types described in the Heer article. Include a picture of a
+sketch of your idea, and describe how it supports comprehension and data
+exploration.
 
 
 ## Submission check
 
-For problem 1 you should submit a PDF file with the answers to the questions.
-For problem 2 and problem 3 you should submit one map each (those maps consist
+For problem 1 and problem 1 you should submit one map each (those maps consist
 of a HTML file, a CSS file and a Javascript file).
+For problem 3 you should submit a PDF file with the answers to the questions.
+
