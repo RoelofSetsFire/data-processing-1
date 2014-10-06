@@ -6,6 +6,7 @@ create a number of graphs and implement an interactive map.
 [D3website]: http://d3js.org/
 
 ## Resources
+
 ### The D3 library
 
 * [D3 for Mere Mortals] by *Luke Francl*: A single, relatively short tutorial

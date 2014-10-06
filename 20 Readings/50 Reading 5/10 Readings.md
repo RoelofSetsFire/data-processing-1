@@ -24,7 +24,11 @@ Read the following and answer the accompanying questions in `reading5.pdf`.
   Visualization," in State-of-the-Art Proceedings of EUROGRAPHICS 2003 (EG
   2003), 2003, pp. 123–137.
 
+## Questions
+
+* [See the homework of week 5.][5]
+
 [3]: cdn://excerpts/w5/Heer_Animated_Transitions.pdf
 [4]: cdn://excerpts/w5/Kosara_Interaction_View.pdf
-
+[5]: /homework/week-5-interactivity
 

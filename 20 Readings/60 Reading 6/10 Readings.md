@@ -23,4 +23,8 @@ Dec. 2007. (project page with video)
 * R. Kosara, H. Hauser, and D. L. Gresh, “An Interaction View on Information Visualization,”
 in State-of-the-Art Proceedings of EUROGRAPHICS 2003 (EG 2003), 2003, pp. 123–137.
 
+## Questions
 
+* [See the homework of week 6][1]
+
+[1]: /homework/week-6-svg-and-maps

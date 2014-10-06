@@ -22,7 +22,12 @@ These are not required for homework questions, but linked here for convenience:
 * B. E. Rogowitz, L. A. Treinish, and S. Bryson, "[How not to lie][3] with
   visualization," Computers in Physics, vol. 10, no. 3, pp. 268–273, 1996.
 
+## Questions
+
+* [See homework of week 2.][4]
+
 [2]: cdn://excerpts/w4/Zeileis_Escaping_RGBland.pdf
 [3]: cdn://excerpts/w4/Rogowitz_How_not_to_lie.pdf
+[4]: /homework/week-4-javascript
 
 
