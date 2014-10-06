@@ -79,6 +79,5 @@ documentation of HTML elements, CSS properties, etc.
 Your submission should be in `hw5.zip` and include the
 following items:
 
-1. Folder titled sketches containing your sketch scans or photos.
-2. Answers to questions in `hw5htmlcss.pdf`.
-3. Folder titled `website` containing `index.html` and `style.css`.
+1. Answers to questions in `hw5htmlcss.pdf`.
+2. Folder titled `website` containing `index.html` and `style.css`.
