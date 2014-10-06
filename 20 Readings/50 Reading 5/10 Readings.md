@@ -1,4 +1,4 @@
-Read the following and answer the accompanying questions in `reading5.pdf`.
+Read the following and answer the accompanying questions.
 
 ## Readings
 

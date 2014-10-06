@@ -1,5 +1,4 @@
-Instructions: Read the following articles and answer the accompanying questions
-in `reading4.pdf`.
+Instructions: Read the following articles and answer the accompanying questions.
 
 ## Readings
 

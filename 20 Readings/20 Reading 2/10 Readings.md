@@ -1,5 +1,4 @@
-Read the following chapters and answer the accompanying questions in
-`reading2.pdf`. The questions also pertain to the readings of last week!
+Read the following chapters and answer the accompanying questions.
 
 ## Readings
 

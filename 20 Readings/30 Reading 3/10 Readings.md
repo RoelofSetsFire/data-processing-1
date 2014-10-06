@@ -1,4 +1,4 @@
-Read the following articles and answer these questions in `reading3.pdf`.
+Read the following articles and answer these questions.
 
 ## Readings
 
