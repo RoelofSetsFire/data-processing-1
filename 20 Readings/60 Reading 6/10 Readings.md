@@ -25,6 +25,6 @@ in State-of-the-Art Proceedings of EUROGRAPHICS 2003 (EG 2003), 2003, pp. 123–
 
 ## Questions
 
-* [See the homework of week 6][1]
+* [See the homework of week 6][3]
 
-[1]: /homework/week-6-svg-and-maps
+[3]: /homework/week-6-svg-and-maps
