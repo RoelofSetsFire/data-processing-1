@@ -52,8 +52,8 @@ This is the general schedule for data-processing.
       * [Javascript](l/homework/week-4-javascript)
 
 * Javascript documentation relevant to weeks 4 and 5:
-   * [Week 6, Project 1 Review](http://data.mprog.nl/lectures/week-6#project-1-review)
-   * [Week 7, Javascript](http://data.mprog.nl/lectures/week-7#javascript)
+   * [Week 6, Project 1 Review](/lectures/week-6#project-1-review)
+   * [Week 7, Javascript](/lectures/week-7#javascript)
    * [Javascript the good parts](http://www.livestream.com/etsy/video?clipId=pla_1463e546-47ed-4a93-b59a-bd52b236e8b8)
    * [Mozilla Developer Network - Javascript](https://developer.mozilla.org/nl/docs/Web/JavaScript)
 
@@ -62,7 +62,7 @@ This is the general schedule for data-processing.
    * Reading session:
       * [Reading 4](/readings/reading-4)
       * [Reading 5](/readings/reading-5)
-      * [Lectures of week 4](http://data.mprog.nl/lectures/week-4)
+      * [Lectures of week 4](/lectures/week-4)
    * Tutorial
 * **Thursday 27-11, 13:00-17:00**
    * Design critique session:
@@ -75,7 +75,7 @@ This is the general schedule for data-processing.
 * **Monday 01-12, 11:00-15:00**
    * Reading session:
       * [Reading 6](/readings/reading-6)
-      * [Lectures of week 5](http://data.mprog.nl/lectures/week-5)
+      * [Lectures of week 5](/lectures/week-5)
    * Tutorial
 * **Thursday 04-12, 13:00-17:00**
    * Design critique session:
@@ -88,7 +88,7 @@ This is the general schedule for data-processing.
 * **Monday 08-12, 11:00-15:00**
    * Reading session:
       * [Reading 7](/readings/reading-7)
-      * [Lectures of week 7, D3 Guest Lecture](http://data.mprog.nl/lectures/week-7#d3-guest-lecture)
+      * [Lectures of week 7, D3 Guest Lecture](/lectures/week-7#d3-guest-lecture)
    * Tutorial
 * **Thursday 11-12, 13:00-17:00**
    * Design critique session:
