@@ -2,22 +2,24 @@ This is the general schedule for data-processing.
 
 ## Week 1
 
-* **Monday 27-10, 11-15**  Introductory meeting + computer tutorial:
+* **Monday 27-10, 11:00-15:00** 
+    * Introductory meeting + tutorial:
     * Intoduction + [Reading 1](/readings/reading-1)
     * [Week 1 lectures](/lectures/week-1)
-* Thursday 31-10 - Design critique session:
-    * See [Piazza] forum.
-* Homework:
-    * [HTML / CSS starter](/homework/week-1-html-and-css)
+* **Thursday 31-10, 13:00-17:00** 
+    * Design critique + tutorial:
+    	* See [Piazza] forum.
+    * Homework deadline:
+    	* [HTML / CSS starter](/homework/week-1-html-and-css)
 
 ## Week 2
 
-* Reading session:
+* **Monday 3-11, 11:00-15:00** Reading session + tutorial:
     * [Reading 2](/readings/reading-2)
     * [Week 2 lectures](/lectures/week-2)
     * Make sure you have watched the first week's lectures as well.
-* Design critique session:
-    * See [Piazza] forum.
+* **Wednesday 5-11, 11:00-13:00** Tutorial
+* **Thurday 6-11, 09:00-18:00** Excursion to National eScience Symposium
 * Homework:
     * [Scraping IMDB + questions about the readings.](/homework/week-2-scraping)
 
