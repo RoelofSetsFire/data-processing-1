@@ -2,10 +2,10 @@ This is the general schedule for data-processing.
 
 ## Week 1
 
-* Reading session:
+* Monday 27-10 - Introductory meeting:
     * Intoduction + [Reading 1](/readings/reading-1)
     * [Week 1 lectures](/lectures/week-1)
-* Design critique session:
+* Thursday 31-10 - Design critique session:
     * See [Piazza] forum.
 * Homework:
     * [HTML / CSS starter](/homework/week-1-html-and-css)
