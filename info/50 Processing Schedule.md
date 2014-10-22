@@ -3,15 +3,13 @@ This is the general schedule for data-processing.
 ## Week 1
 
 * **Monday 27-10, 11:00-15:00** 
-    * Introductory meeting
-    * Tutorial
+   * Introductory meeting
+   * Tutorial
 * **Thursday 31-10, 13:00-17:00** 
-    * Design critique + tutorial:
-
-    	* See [Piazza] forum.
-    * Homework deadline:
-
-    	* [HTML / CSS starter](/homework/week-1-html-and-css)
+   * Design critique + tutorial:
+      * See [Piazza] forum.
+   * Homework deadline:
+      * [HTML / CSS starter](/homework/week-1-html-and-css)
 
 ## Week 2
 
