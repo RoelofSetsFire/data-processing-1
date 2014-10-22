@@ -1,4 +1,4 @@
-This is the general schedule for data-processing. 
+This is the general schedule for data-processing **BLOCK 2, 2013-2014 (November-December)**
 
 ## Week 1
 
@@ -21,7 +21,7 @@ This is the general schedule for data-processing.
 * **Wednesday 5-11, 11:00-13:00** 
    * Tutorial
 * **Thurday 6-11, 09:00-18:00**
-   * Excursion to National eScience Symposium
+   * Excursion to [National eScience Symposium](http://www.esciencecenter.nl/symposium/)
    * Homework deadline:
       * [Scraping IMDB + questions about the readings.](/homework/week-2-scraping)
 
