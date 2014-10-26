@@ -68,33 +68,34 @@ crosshair cursor – just the extension lines. In other words, when the checkbox
 is clicked your event handler (onclick) should toggle some global variable
 enabling or enabling the logic you have added.
 
-## Problem 2: Questions for the reading of week 5
+## Problem 2: Questions for the [reading 4][]
 
-1. Ware argues that human perception involves 2.5 dimensions. Given this
-   assertion, when might a 3D visualization be useful and why?
+1. Patterns and colors are essential to maps. Compare a search for Harvard
+   University on two interactive maps (e.g., Google Maps, Bing Maps, Yahoo! Maps,
+   Apple Maps, map.harvard.edu). Answer the following questions, making references
+   to concepts explained in Ware such as pattern recognition and properties of
+   color. Please include screenshots of the examples you are comparing.
 
-2. In Chapter 6, Ware presents some implications of pattern recognition and
-   visual working memory on design. Provide an example that harnesses some of
-   these principles (perhaps an advertisement, visualization, or interface) and
-   discuss how the design takes these principles into account. Please include a
-   screenshot, photo, or website URL.
+    a. Which map promotes an easier visual search for buildings?
+    b. Which map more effectively visualizes routes from a random point A to point B?
+    c. Which map is an overall better visualization, and why?
 
-3. Pick three concepts covered in Lecture 9 - Interaction (e.g., Brushing &
-   Linking) and relate them to the taxonomy presented in Heer & Shneiderman Table
-   1. How do the interaction concepts fit to their taxonomy?
+2. Find a rainbow color map visualization on the web. Please include a
+   screenshot and link of the visualization.
 
-4. Cockburn et al. describe various interface design paradigms, among them the
-   “fisheye view.” How would the fisheye view improve the usability of a
-   visualization, and under what circumstances might it not?
+   a. Briefly summarize its intended objective and audience. Does it fail to
+      successfully convey information? If so, why? Is there a good reason for this
+      specific visualization to use a rainbow color scheme?
+   
+   b. Propose an alternative color scheme to replace the rainbow color map.
+
+[reading 4]: /readings/reading-4
 
 ## Submitting
 
 Your submission should be in `hw5.zip` and include the following items:
 
 * Include your HTML, CSS, Javascript, any needed images in your submission. 
-* Include a document `reading4.pdf` containing the answers to the questions
   about reading 4.
-* Include a document `reading5.pdf` containing the answers to the questions
-  about reading 5.
 * You can include a README.txt describing the system and browser you 
   developed on.

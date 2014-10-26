@@ -26,9 +26,9 @@ Read the following and answer the accompanying questions.
 
 ## Questions
 
-* [See the homework of week 5.][5]
+* See [homework 6]
 
 [3]: cdn://excerpts/w5/Heer_Animated_Transitions.pdf
 [4]: cdn://excerpts/w5/Kosara_Interaction_View.pdf
-[5]: /homework/week-5-interactivity
+[homework 6]: /homework/week-6-svg-and-maps
 

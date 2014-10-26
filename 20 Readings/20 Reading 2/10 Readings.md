@@ -12,8 +12,9 @@ Read the following chapters and answer the accompanying questions.
 
 ## Questions
 
-* [See homework of week 2.][3]
+* See [homework 3][]
 
 [1]: cdn://excerpts/w2/Carpendale_Considering_Visual_Variables.pdf
 [2]: cdn://excerpts/w2/Cleveland_Graphical_Perception_Theory.pdf
-[3]: /homework/week-2-scraping
+
+[homework 3]: /homework/week-2-scraping

@@ -23,10 +23,10 @@ These are not required for homework questions, but linked here for convenience:
 
 ## Questions
 
-* [See homework of week 4.][4]
+* See [homework 5][]
 
 [2]: cdn://excerpts/w4/Zeileis_Escaping_RGBland.pdf
 [3]: cdn://excerpts/w4/Rogowitz_How_not_to_lie.pdf
-[4]: /homework/week-4-javascript
+[homework 5]: /homework/week-5-interactivity
 
 

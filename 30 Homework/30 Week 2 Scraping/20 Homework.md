@@ -162,31 +162,3 @@ This is taken from the documentation, which you should learn to read!
 	The tag name passed to Element.by_tag()
 	can include a class ("div.message") or an id ("div#header").
 
-
-## Problem 3: Questions about the readings.
-
-The following questions are for [week 2's readings].
-Find a visualization not discussed in class or used in a homework and answer
-the following questions pertaining to that visualization. Attach the
-visualization as a screenshot in your submission.
-
-1. Consider Bertin's characterization of visual variables (position, size,
-   shape, value, color, orientation, and texture). Pick 2 of Bertin's visual
-   variables, and discuss them in relation to your visualization.
-
-2. Munzner proposed a nested model for visualization design and validation.
-   Discuss/validate your visualization with respect to domain problem
-   characterization and data/operation abstraction design.
-
-3. Based on Cleveland and McGill’s results, does your visualization embody good
-   practices (i.e. can people accurately perform the tasks based on the 
-   encodings?)
-
-4. Do you agree that visualization is a functional art? Explain.
-
-5. Ask yourself what the designer is trying to convey and think of three to
-   four possible tasks this visualization should help you with. Does the
-   visualization achieve any of your tasks? (To view an example, see Albert 
-   Cairo, pages 26-­28.)
-
-[week 2's readings]: /readings/reading-2

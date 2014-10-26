@@ -12,9 +12,9 @@ Read the following articles and answer these questions.
 
 ## Questions
 
-* [See the week 3 homework for the questions.][2]
+* See [homework 4][]
 
 [1]: cdn://excerpts/w3/Viegas_ManyEyes.pdf
-[2]: /homework/week-3-crawling
+[week 4]: /homework/week-4-javascript
 
 

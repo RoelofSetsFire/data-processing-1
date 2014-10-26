@@ -55,21 +55,32 @@ all information you should at least follow links to other web pages (not
 just scrape a single web page. If you are in doubt your data source is 
 complex enough, please ask in class.*
 
+## Problem 2: Questions about the reading 1 and 2
 
-## Problem 2: Questions about the readings.
+The following questions are for [reading 1][] and [reading 2][].
+Find a visualization not discussed in class or used in a homework and answer
+the following questions pertaining to that visualization. Attach the
+visualization as a screenshot in your submission.
 
-The following questions are for [week 3's readings][1].
+1. Consider Bertin's characterization of visual variables (position, size,
+   shape, value, color, orientation, and texture). Pick 2 of Bertin's visual
+   variables, and discuss them in relation to your visualization.
 
-1. Ware describes bottom up and top down processing of visual information in
-   the brain. Give a concrete and detailed example of how bottom up processing is
-   influenced by top down processing, leading to a potentially wrong
-   interpretation of "reality" by the viewer. Your example can include a
-   screenshot, photo, or web site URL to refer to the scene that is being viewed.
+2. Munzner proposed a nested model for visualization design and validation.
+   Discuss/validate your visualization with respect to domain problem
+   characterization and data/operation abstraction design.
 
-2. Go to the Many Eyes website and browse around the visualizations. Click
-   through a few and look at the comments. How successful do you think Many Eyes
-   has been in achieving its original design purpose according to the paper? What
-   do you think is the biggest issue/flaw with Many Eyes? What improvements might
-   you suggest to Many Eyes to address these issues/flaws?
+3. Based on Cleveland and McGill’s results, does your visualization embody good
+   practices (i.e. can people accurately perform the tasks based on the 
+   encodings?)
 
-[1]: /readings/reading-3
+4. Do you agree that visualization is a functional art? Explain.
+
+5. Ask yourself what the designer is trying to convey and think of three to
+   four possible tasks this visualization should help you with. Does the
+   visualization achieve any of your tasks? (To view an example, see Albert 
+   Cairo, pages 26-­28.)
+
+[reading 1]: /readings/reading-1
+[reading 2]: /readings/reading-2
+

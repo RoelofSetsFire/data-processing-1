@@ -179,6 +179,31 @@ Submit your completed files in a folder titled 5 containing d3map.html,
 d3map.css, and d3map.js. Note that you may not need d3map.css here unless you
 would like to change additional styling with regard to text, margins, etc.
 
+## Problem 5: Questions about the readings of [week 6][]
+
+1. According to Bostock et. al., what are the primary advantages of D3? Based
+on your reading of the article, please provide an example of a type of
+visualization that would be easier and better implemented in D3 as opposed to
+HTML5, JSON, and Javascript. Please list the pros and cons of choosing D3 over
+pure HTML5, JSON and Javascript.
+
+2. Of the visualization figures presented in Heer et. al., which do you find
+the most difficult to comprehend? Does the complexity of the figure interfere
+with the goal of visualization as described in the article? Include a
+screenshot of the figure you have chosen in your response and use principles
+that you have learned so far (i.e., from design, perception, and cognition) to
+justify your choice.
+
+3. Play around with the interactive graphs included in the Heer article. You
+need to open this page in a browser that runs Java. Focus on Figure 1A. To what
+extent do interactivity and transitions, elements that D3 optimizes, add to the
+clarity and message of the visualization? With the element of interactivity in
+mind, redesign and sketch the contents of figure 1A with one of the other
+visualization types described in the Heer article. Include a picture of a
+sketch of your idea, and describe how it supports comprehension and data
+exploration.
+
+[reading 6]: /readings/reading-6
 
 ## Submitting
 
