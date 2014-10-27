@@ -1,11 +1,11 @@
-This is the general schedule for data-processing **BLOCK 2, 2013-2014 (November-December)**
+This is the general schedule for data-processing **BLOCK 2, 2014-2015 (November-December)**
 
 ## Week 1
 
 * **Monday 27-10, 11:00-15:00** 
    * Introductory meeting
    * Tutorial
-* **Thursday 31-10, 13:00-17:00** 
+* **Thursday 30-10, 13:00-17:00** 
    * Design critique + tutorial:
       * See [Piazza] forum.
    * Homework deadline:
@@ -20,10 +20,10 @@ This is the general schedule for data-processing **BLOCK 2, 2013-2014 (November-
    * Tutorial
 * **Wednesday 5-11, 11:00-13:00** 
    * Tutorial
+   * Homework deadline:
+      * [Scraping IMDB](/homework/week-2-scraping)
 * **Thurday 6-11, 09:00-18:00**
    * Excursion to [National eScience Symposium](http://www.esciencecenter.nl/symposium/)
-   * Homework deadline:
-      * [Scraping IMDB + questions about the readings.](/homework/week-2-scraping)
 
 ## Week 3
 * **Monday 10-11, 11:00-15:00**
@@ -36,7 +36,7 @@ This is the general schedule for data-processing **BLOCK 2, 2013-2014 (November-
       * See [Piazza] forum.
    * Tutorial
    * Homework deadline: 
-      * [Crawling IMDB + questions about the readings.](/homework/week-3-crawling)
+      * [Crawling IMDB + Questions about reading 1 and 2](/homework/week-3-crawling)
 
 ## Week 4
 * **Monday 17-11, 11:00-13:00**
@@ -49,7 +49,7 @@ This is the general schedule for data-processing **BLOCK 2, 2013-2014 (November-
       * See [Piazza] forum.
    * Tutorial
    * Homework deadline:
-      * [Javascript](l/homework/week-4-javascript)
+      * [Javascript + Questions about reading 3](l/homework/week-4-javascript)
 
 * Javascript documentation relevant to weeks 4 and 5:
    * [Week 6, Project 1 Review](/lectures/week-6#project-1-review)
@@ -69,7 +69,7 @@ This is the general schedule for data-processing **BLOCK 2, 2013-2014 (November-
       * See [Piazza] forum.
    * Tutorial
    * Homework deadline:
-      * [Javascript interactivity](/homework/week-5-interactivity)
+      * [Javascript interactivity + Questions about reading 4](/homework/week-5-interactivity)
 
 ## Week 6
 * **Monday 01-12, 11:00-15:00**
@@ -82,7 +82,7 @@ This is the general schedule for data-processing **BLOCK 2, 2013-2014 (November-
       * See [Piazza] forum.
    * Tutorial
    * Homework deadline:
-      * [SVG and maps](/homework/week-6-svg-and-maps)
+      * [SVG and maps + Questions about reading 5](/homework/week-6-svg-and-maps)
 
 ## Week 7
 * **Monday 08-12, 11:00-15:00**
@@ -95,12 +95,10 @@ This is the general schedule for data-processing **BLOCK 2, 2013-2014 (November-
       * See [Piazza] forum.
    * Tutorial
    * Homework deadline:
-      * [D3 + questions about D3](/homework/week-7-svg-and-d3)
+      * [D3 + Questions about D3 + Questions about reading 6](/homework/week-7-svg-and-d3)
 
 ## Week 8
 * **Monday 15-12, 11:00-15:00**
-   * Reading session:
-      * Recap / questions.
-   * Tutorial
+   * Recap / Questions / Feedback about the course.
 
 [Piazza]: http://piazza.com
