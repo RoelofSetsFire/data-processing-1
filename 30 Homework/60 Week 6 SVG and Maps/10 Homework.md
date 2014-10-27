@@ -196,7 +196,9 @@ you would like to change additional styling with regard to text, margins, etc.
 
 ## Submission check
 
-For problem 1 and problem 1 you should submit one map each (those maps consist
-of a HTML file, a CSS file and a Javascript file).
-For problem 3 you should submit a PDF file with the answers to the questions.
+Your submissions should a `zip` file, `week7.zip`, that contains:
+
+* The HTML, CSS and Javascript files that belong to two maps for problems 1 and
+  2, each in their own subdirectory.
+* A file called `reading5.pdf` that contains the answers to reading 5's questions.
 

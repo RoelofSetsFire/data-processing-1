@@ -1,8 +1,8 @@
 This homework is the second part of the Javascript, Canvas and Interactivity
-exercise (you cannot work on this exercise without having finished the homework
-of week 4).
+exercise. You should base your work on the visualization you created in the
+last week. 
 
-## Interactivity
+## Problem 1: Interactivity
 
 *Techniques demonstrated: hover (onMouseOver), Tooltip*
 
@@ -93,9 +93,8 @@ enabling or enabling the logic you have added.
 
 ## Submitting
 
-Your submission should be in `hw5.zip` and include the following items:
+Your submission should be in `week5.zip` and include the following items:
 
-* Include your HTML, CSS, Javascript, any needed images in your submission. 
-  about reading 4.
-* You can include a README.txt describing the system and browser you 
-  developed on.
+* A subdirectory `javascript2` that contains the HTML, CSS, Javascript needed
+  to create the interactive visualization.
+* A file called `reading4.pdf` for the answers to the fourth reading's questions.

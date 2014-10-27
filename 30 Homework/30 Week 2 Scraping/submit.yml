@@ -1,7 +1,3 @@
 name: w2
 required:
-    - exercise.py
-    - tvscraper.py
-    - tvseries.html
-    - tvseries.csv
-    - reading2.pdf
+    - week2.zip

@@ -244,9 +244,10 @@ for each data set).
 
 [reading 3]: /readings/reading-3
 
-
 ## Submitting
 
-* Include a document `reading4.pdf` containing the answers to the questions
-  about reading 4.
+Your submission should be a `zip` file containing the following:
 
+* A directory called `javascript1` containing all the files that belong to 
+  the static visualization created using Javascript.
+* The answers to the questions for reading 3 in a file called `reading3.pdf`

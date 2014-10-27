@@ -207,14 +207,15 @@ exploration.
 
 ## Submitting
 
-Your submission should be in `hw8.zip` and include the
+Your submission should be in `week8.zip` and include the
 following items:
 
 
 1. Your map from each stage of the process, contained in a folder:
-   * 1: d3questions.pdf
-   * 2: d3line.html, d3line.css, and d3line.js
-   * 3: d3scatter.html and d3scatter.css
-   * 4: d3map.html, d3map.css, and d3map.js
+   * 1: `d3questions.pdf`
+   * 2: `d3line.html`, `d3line.css`, and `d3line.js`
+   * 3: `d3scatter.html` and `d3scatter.css`
+   * 4: `d3map.html`, `d3map.css`, and `d3map.js`
+   * 5: `reading6.pdf` with the answers to reading 6's questions.
 
 2. Any libraries used, including d3 if linked to a local copy.

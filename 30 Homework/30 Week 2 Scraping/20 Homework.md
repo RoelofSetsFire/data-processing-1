@@ -162,3 +162,12 @@ This is taken from the documentation, which you should learn to read!
 	The tag name passed to Element.by_tag()
 	can include a class ("div.message") or an id ("div#header").
 
+## Submitting
+
+Your submission should be a `zip` file containing:
+
+1. `exercise.py`
+2. `tvscraper.py`
+3. `tvseries.html`
+4. `tvseries.csv`
+
