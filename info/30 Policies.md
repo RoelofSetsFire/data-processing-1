@@ -34,18 +34,19 @@ view visualization. You may use parts out of such examples.
 
 The data processing course consists of several parts. The online video 
 lectures, the reading assignments and the questions that go with them and
-normal homework assignments. Attendence to the reading group meetings is
-mandatory (you are allowed to miss 1 without sanctions), attendence to the
-design critique sessions is also mandatory (and again you are allowed to
-miss 1). Homework is to be handed in according to the [schedule], the 
-homework can be handed in on thursday evening at the latest also referr
-to the instructions about the formats that are allowed.
+normal homework assignments. Attendence is required at the reading sessions, 
+design critique sesssions and tutuorials. You are allowed to be absent only
+once without sanctions, further absence may result in extra work being
+assigned. Homework is to be handed in according to the [schedule], you are
+allowed one slipped deadline (sunday in stead of thursday).
 
 If circumstances force you to miss a reading group meeting, a design critique
 session or a homework deadline be sure to mention this to the instructors 
-ahead of time. Feel free to discuss any issues that come up.
+ahead of time use our [email]. Feel free to discuss any issues that come up 
+(you may be referred to our coordinator).
 
-[schedule]: http://data3.mprog.nl/#processing-schedule
+[email]: mailto:data@mprog.nl
+[schedule]: /#processing-schedule
 
 ## Homework formats
 
