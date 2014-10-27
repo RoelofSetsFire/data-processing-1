@@ -15,6 +15,4 @@ Read the following articles and answer these questions.
 * See [homework 4][]
 
 [1]: cdn://excerpts/w3/Viegas_ManyEyes.pdf
-[week 4]: /homework/week-4-javascript
-
-
+[homework 4]: /homework/week-4-javascript

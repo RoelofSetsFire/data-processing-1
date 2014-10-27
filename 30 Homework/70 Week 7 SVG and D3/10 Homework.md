@@ -179,7 +179,7 @@ Submit your completed files in a folder titled 5 containing d3map.html,
 d3map.css, and d3map.js. Note that you may not need d3map.css here unless you
 would like to change additional styling with regard to text, margins, etc.
 
-## Problem 5: Questions about the readings of [week 6][]
+## Problem 5: Questions about the readings of [reading 6][]
 
 1. According to Bostock et. al., what are the primary advantages of D3? Based
 on your reading of the article, please provide an example of a type of

@@ -7,6 +7,6 @@
 
 ## Questions
 
-* None, but check the [homework of week 7][1] for some questions about D3.
+* None, but check the [week 7][] for some questions about D3.
 
-[1]: /homework/week-7-svg-and-d3
+[week 7]: /homework/week-7-svg-and-d3
