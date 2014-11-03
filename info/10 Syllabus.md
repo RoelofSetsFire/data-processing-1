@@ -28,6 +28,8 @@ to a student assistant or the instructor at the lab.
 Thijs Coenen  
 <data@mprog.nl>
 
+Harrie Oosterhuis
+
 ## Goals for this course
 
 After successful completion of this course, you will be able to...
