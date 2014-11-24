@@ -61,7 +61,6 @@ This is the general schedule for data-processing **BLOCK 2, 2014-2015 (November-
 * **Monday 24-11, 11:00-15:00**
    * Reading session:
       * [Reading 4](/readings/reading-4)
-      * [Reading 5](/readings/reading-5)
       * [Lectures of week 4](/lectures/week-4)
    * Tutorial
 * **Thursday 27-11, 13:00-17:00**
@@ -74,7 +73,7 @@ This is the general schedule for data-processing **BLOCK 2, 2014-2015 (November-
 ## Week 6
 * **Monday 01-12, 11:00-15:00**
    * Reading session:
-      * [Reading 6](/readings/reading-6)
+      * [Reading 5](/readings/reading-5)
       * [Lectures of week 5](/lectures/week-5)
    * Tutorial
 * **Thursday 04-12, 13:00-17:00**
@@ -87,7 +86,7 @@ This is the general schedule for data-processing **BLOCK 2, 2014-2015 (November-
 ## Week 7
 * **Monday 08-12, 11:00-15:00**
    * Reading session:
-      * [Reading 7](/readings/reading-7)
+      * [Reading 6](/readings/reading-6)
       * [Lectures of week 7, D3 Guest Lecture](/lectures/week-7#d3-guest-lecture)
    * Tutorial
 * **Thursday 11-12, 13:00-17:00**
@@ -99,6 +98,7 @@ This is the general schedule for data-processing **BLOCK 2, 2014-2015 (November-
 
 ## Week 8
 * **Monday 15-12, 11:00-15:00**
+   * [Reading 7](/readings/reading-7)
    * Recap / Questions / Feedback about the course.
 
 [Piazza]: http://piazza.com
