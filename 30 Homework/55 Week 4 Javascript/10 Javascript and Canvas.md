@@ -8,8 +8,7 @@ introduction to Javascript.
 
 The first part of the exercise (week 4) comprises only the loading of the data
 and plotting the two data sets (statically). The second part (week 5) comprises
-the the interactivity. The deadline for week 4 is soft (you are allowed to hand
-in the complete exercise in week 5).
+the the interactivity. 
 
 As always if you need help, the first place you should check is Piazza because
 likely someone else will have had the same problems as you!
