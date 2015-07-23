@@ -1,8 +1,6 @@
 In this assignment you will learn to use the Document Object Model (DOM) using
 Python via the Pattern library, in a few weeks you will also access the DOM
 from Javascript.
-As always if you need help, the first place you should check is 
-Piazza because likely someone else will have had the same problems as you!
 For the programming excercises in this homework, we provide both some
 scaffolding and automated tests that are also used when grading the homework.
 
@@ -21,8 +19,7 @@ scaffolding and automated tests that are also used when grading the homework.
 ## Problem 1: Python Exercise
 
 Welcome to Python! At this point, we hope you have Python up and running. If
-you're having a lot of trouble, please come see us at Office Hours or post your
-problem on Piazza. Reinstalling Python can fix certain strange issues you might
+you're having a lot of trouble, please come see us at Office Hours. Reinstalling Python can fix certain strange issues you might
 come across.
 
 1. Open up `exercise.py`
