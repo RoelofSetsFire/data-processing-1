@@ -23,11 +23,11 @@ Due to the size of the course, we can't usually respond to email inquiries
 about your problem sets or organizational matters. You are encouraged to speak
 to a student assistant or the instructor at the lab.
 
-Gosia Migut  
-*instructor*
+Gosia Migut <br/>
+*instructor* <br/>
 <data@mprog.nl>
 
-Jasper Linmans
+Jasper Linmans<br/>
 *teaching assistant*
 
 ## Goals for this course
