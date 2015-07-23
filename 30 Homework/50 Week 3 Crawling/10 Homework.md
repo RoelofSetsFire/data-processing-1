@@ -3,9 +3,6 @@
 In this homework you will get more experience scraping data from the web as
 well as answer questions on the readings.
 
-As always if you need help, the first place you should check is Piazza because
-likely someone else will have had the same problems as you!
-
 ## Problem 1: Web Crawling & HTML Scraping
 
 For this exercise, we will practice scraping from multiple websites using
