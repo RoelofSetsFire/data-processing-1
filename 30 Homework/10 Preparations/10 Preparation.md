@@ -8,25 +8,6 @@ homework has no group reflection phase, however it is essential that you
 complete it timely since it will enable us to set up your accounts. You do not
 have to hand anything in.
 
-## Problem 1: Piazza
-
-Go to [Piazza](http://piazza.com/uva.nl/fall2013/data) and sign up.
-
-You will use Piazza as a forum for discussion, to find team members, to arrange
-appointments, and to ask questions. Piazza should be your primary form of
-communication with the staff. Use the staff e­mail only for individual
-requests, e.g., to excuse yourself from a mandatory guest lecture. All
-readings, homeworks, and project descriptions will be posted on Piazza first.
-
-Once you are signed up to the Piazza course forum, introduce yourself to your
-classmates and course staff, as a follow­up to the introduction thread. Include
-your name/nickname, your affiliation, why you are taking this course, and tell
-us something interesting about yourself (e.g., an unusual hobby, past travels,
-or a cool project you did, etc.). Also tell us whether you have experience with
-visualization.
-
-## Problem 2: Installing Python and the Pattern Library
-
 We will be using Python as our language of choice in this class. For those of
 you unfamiliar with it, we will be introducing python and the pattern library
 in the first two labs.
