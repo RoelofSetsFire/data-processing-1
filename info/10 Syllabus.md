@@ -23,12 +23,12 @@ Due to the size of the course, we can't usually respond to email inquiries
 about your problem sets or organizational matters. You are encouraged to speak
 to a student assistant or the instructor at the lab.
 
-### Instructor
-
-Thijs Coenen  
+Gosia Migut  
+*instructor*
 <data@mprog.nl>
 
-Harrie Oosterhuis
+Jasper Linmans
+*teaching assistant*
 
 ## Goals for this course
 
