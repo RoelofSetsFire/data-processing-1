@@ -15,11 +15,11 @@ relevant materials.
 ![Colin Ware](book-visual.jpg){:.inline}
 
 On top of the video lectures there are reading assignments each week that are
-taken from scientific literature and books about data visualizations. The 
-contents of each weeks reading assignment will be treated during that week's
-reading group meeting (see [schedule]). The homework assignments will contain
-questions about the mandatory readings. When answering those please be brief
-and to the point!
+taken from scientific literature, and from the book *Visual thinking for
+design* by Colin Ware. The contents of each weeks reading assignment will be
+treated during that week's reading group meeting. The homework assignments will
+contain questions about the mandatory readings. When answering those please be
+brief and to the point!
 
 ## Reading group meetings and design critique sessions
 
