@@ -26,7 +26,7 @@ to a student assistant or the instructor at the lab.
 
 Gosia Migut  
 *instructor*  
-<data@mprog.nl>
+<help@mprog.nl>
 
 Jasper Linmans  
 *teaching assistant*
