@@ -12,6 +12,8 @@ relevant materials.
 
 ## Reading assignments
 
+![Colin Ware](book-visual.jpg){:.inline}
+
 On top of the video lectures there are reading assignments each week that are
 taken from scientific literature and books about data visualizations. The 
 contents of each weeks reading assignment will be treated during that week's

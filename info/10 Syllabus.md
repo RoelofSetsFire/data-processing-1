@@ -44,7 +44,9 @@ After successful completion of this course, you will be able to...
 
 ## Prerequisites
 
-You'll need programming experience in a language like C, Ruby or Python.
+You'll need programming experience in a language like C, Ruby or Python, an
+understanding of object-oriented basics, experience with reading and writing
+data files.
 
 ## Expectations
 
