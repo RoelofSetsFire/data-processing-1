@@ -1,5 +1,4 @@
-*Edition: September 2014 (beta version)*
-*Currently being edited (2014-09-07)*
+*Edition: September 2015, under construction*
 
 The amount and complexity of information produced in science, engineering,
 business, and everyday human activity is increasing at staggering rates. The
@@ -23,11 +22,11 @@ Due to the size of the course, we can't usually respond to email inquiries
 about your problem sets or organizational matters. You are encouraged to speak
 to a student assistant or the instructor at the lab.
 
-Gosia Migut <br/>
-*instructor* <br/>
+Gosia Migut  
+*instructor*  
 <data@mprog.nl>
 
-Jasper Linmans<br/>
+Jasper Linmans  
 *teaching assistant*
 
 ## Goals for this course
