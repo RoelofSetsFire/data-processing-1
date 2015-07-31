@@ -48,29 +48,6 @@ ahead of time use our [email]. Feel free to discuss any issues that come up
 [email]: mailto:data@mprog.nl
 [schedule]: /#processing-schedule
 
-## Homework formats
-
-When handing in homework make sure to always do the following:
-
-* For reports or answers to questions (both for the readings and the homework)
-  hand them in as A4 sized PDF files. Include your name and student number on
-  the top of the first page, and include a title that makes clear which 
-  homework assignment / project proposals / project reports / reading it is
-  about. When using Microsoft office export your document to PDF (or use the
-  print to PDF function).
-
-* For programs, include you name and student number in the a comment on top
-  of each of the files you wrote. (Do not change external libraries that you
-  use to include your name, obviously). Include all needed files into a zipfile
-  or a tarball.
-
-* For Javascript programs and webpages use local (and relative) links only. Do
-  not link to a CDN (like Google's). 
-
-* For webpages include your name and student number somewhere on the page (but
-  well visible).
-
-
 ## Regulations
 
 All forms of academic dishonesty are dealt with harshly. If the course refers

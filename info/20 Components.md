@@ -2,24 +2,53 @@
 
 ## Video lectures
 
-For the data processing course there are two video lectures per week. Students
-are expected to watch these and take notes. The contents of the video lectures
-will be treated during the reading group meetings (see below, and the [schedule]
-for the exact dates). The class activities are designed to help you master the
-relevant materials.
+There are two video lectures per week. We expect you to watch these and take
+notes. The content of the video lectures will be discussed during the reading
+groups. Class activities are designed to help you master the relevant materials.
 
-[schedule]: http://data3.mprog.nl/#processing-schedule
+## Homework
+
+The path to a good visualization design in your projects is likely to involve
+mistakes and wrong turns. It is therefore important to recognize that mistakes
+are valuable in finding the path to a solution, to broadly explore the design
+space, and to iterate designs to improve possible solutions. Weekly homework is
+going to provide an opportunity to learn these design skills and to test your
+understanding of the material. The homework is designed to support you in
+developing later projects.
+
+## Homework formats
+
+When handing in homework make sure to always do the following:
+
+* For reports or answers to questions (both for the readings and the homework)
+  hand them in as A4 sized PDF files. Include your name and student number on
+  the top of the first page, and include a title that makes clear which 
+  homework assignment / project proposals / project reports / reading it is
+  about. When using Microsoft office export your document to PDF (or use the
+  print to PDF function).
+
+* For programs, include you name and student number in the a comment on top
+  of each of the files you wrote. (Do not change external libraries that you
+  use to include your name, obviously). Include all needed files into a zipfile
+  or a tarball.
+
+* For Javascript programs and webpages use local (and relative) links only. Do
+  not link to a CDN (like Google's). 
+
+* For webpages include your name and student number somewhere on the page (but
+  well visible).
 
 ## Reading assignments
 
 ![Colin Ware](book-visual.jpg){:.inline}
 
-On top of the video lectures there are reading assignments each week that are
-taken from scientific literature, and from the book *Visual thinking for
-design* by Colin Ware. The contents of each weeks reading assignment will be
-treated during that week's reading group meeting. The homework assignments will
-contain questions about the mandatory readings. When answering those please be
-brief and to the point!
+There are reading assignments each week, taken from scientific literature and
+from the book *Visual thinking for design* by Colin Ware. The content of each
+week's reading assignment will be discussed during that week's reading group
+meeting.
+
+The homework assignments will contain questions about the mandatory readings.
+When answering those please be brief and to the point!
 
 ## Reading group meetings and design critique sessions
 
@@ -36,39 +65,7 @@ bring along visualizations they deem interesting.
 
 ## Labs
 
-In the original course at Harvard, there are weekly lab sessions for students
-to practice skills and get assistance with their visualizations. We have
-replaced the guided practice sessions with specific materials to be able to
-practice on your own. Other than that, we strongly recommend that you regularly
-attend the lab to confer with the teaching assistant(s) and get help with your
-assignments.
-
-## Projects
-
-In the original version of this course the projects are spread out over the
-whole course. For the UvA the course is split in two: Data processing and
-Data project. All three projects are part of the Data project course, and
-it is recommended that you only start the Data project course after 
-finishing the Data processing course.
-
-The first project is an individual effort. For the second and third projects
-you may work closely with another classmate in a **two-person project team**.
-You can come up with your own teams and use Piazza to find prospective team
-members. We recognize that individual schedules, different time zones,
-preferences, and other constraints might limit your ability to work in a team.
-If this the case, ask us for permission to work alone.
-
-## Homework
-
-The path to a good visualization design in your projects is likely to involve
-mistakes and wrong turns. It is therefore important to recognize that mistakes
-are valuable in finding the path to a solution, to broadly explore the design
-space, and to iterate designs to improve possible solutions. Weekly homework
-is going to provide an opportunity to learn these design skills and to test
-your understanding of the material. The homework is designed to support you in
-developing the projects. You should be able to benefit immensely from synergies!
-
-Make sure to check the [policies] page for the homework rules.
-
-[policies]: http://data3.mprog.nl/#processing-schedule
- 
+On Monday, there is a lab session where you can discuss your work with the
+course's staff and get feedback on your earlier work. It is recommended that
+you attend labs to get to know your fellow students and make use of each
+other's understanding of the homework assignments and lectures.

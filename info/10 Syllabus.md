@@ -52,15 +52,12 @@ data files.
 
 ## Expectations
 
-You are required to work in the lab for some amount of time during the week, as
-agreed upon before starting the course. You are expected to watch all lectures
-and sections, submit all homework assignments, and submit three projects. You
-are also expected to meet a course assistant to discuss each deliverable and
-improve on your work.
+We require you to attend the weekly discussion meetings. We expect you to watch
+all lectures in preparation of the meetings. We expect you to submit all
+homework assignments, including answers to the reading questions.
 
 ## Grades
 
-The grades will be awarded on the standard Dutch 1-10 scale. There are 7
-homework assignments that will be graded, all mandatory and to be handed
-in on schedule. Class participation is required (both the reading sessions
-and the desiggn critique sessions). 
+Final grades are determined based on the grades you have received for each of
+the seven homework assignments. Class participation is required to receive a
+passing grade for the course.
