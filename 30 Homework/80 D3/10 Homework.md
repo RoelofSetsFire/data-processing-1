@@ -1,4 +1,4 @@
-## D3
+# D3
 
 For this week's homework you will work with the [D3 library][D3website] to
 create a number of graphs and implement an interactive map.
