@@ -1,13 +1,13 @@
-In this homework, you will  begin working with HTML/CSS.
-As always, if you need help, the first place you should check is Piazza because
-someone else may have already posted about the same problems or questions as
-you!
+# HTML and CSS
+
+In this homework, you will begin working with HTML/CSS. As always, if you need
+help, the first place you should check is Piazza because someone else may have
+already posted about the same problems or questions as you!
 
 Note: This homework comes with supplementary files which you can download
 [here](hw5files.zip).
 
-
-## Problem 1: HTML/CSS
+## Introduction
 
 Read Lessons 1--3 from "A Beginner's Guide to HTML & CSS" by Shay Howe:
 
@@ -42,7 +42,7 @@ for each question will suffice.
 			  search bar
 			  search button
 
-## Problem 2: Implementing a Layout
+## Implementing a Layout
 
 It's time to start working with HTML and CSS! Your task for this problem is to
 choose a website and reimplement a basic, non-functional version of its user
@@ -74,10 +74,9 @@ other Lessons of "A Beginner's Guide to HTML & CSS" (see Problem 2) for
 sections that may be of use. w3schools.com also provides extensive
 documentation of HTML elements, CSS properties, etc.
 
-# Submitting
+## Submit instructions
 
 Your submission should be in `hw5.zip` and include the
 following items:
 
-1. Answers to questions in `hw5htmlcss.pdf`.
-2. Folder titled `website` containing `index.html` and `style.css`.
+1. Folder titled `website` containing `index.html` and `style.css`.

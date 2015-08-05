@@ -1,10 +1,10 @@
-## Introduction
+## SVG
 
 In this homework you will learn to manipulate maps using Javascript. The maps
-for the assignments below are in the Scalable Vector Graphics (SVG) format. Much
-like HTML SVG can be manipulated from Javascript through the Document Object
-Model (DOM). For this week's homework you will create 3 static maps using 
-SVG, CSS and Javascript.
+for the assignments below are in the Scalable Vector Graphics (SVG) format.
+Much like HTML SVG can be manipulated from Javascript through the Document
+Object Model (DOM). For this week's homework you will create 3 static maps
+using SVG, CSS and Javascript.
 
 Note: This homework comes with supplementary files which you can download
 [here](hw7files.zip). Another file that is very useful is the mapping between
@@ -172,33 +172,3 @@ category in your encoding.
 Submit your completed files in a folder titled 3 containing `svg3.html`,
 `svg3.css`, and `main3.js`. Note that you may not need `svg3.css` here unless
 you would like to change additional styling with regard to text, margins, etc.
-
-## Problem 4: Questions for the [reading 5][]
-
-1. Ware argues that human perception involves 2.5 dimensions. Given this
-   assertion, when might a 3D visualization be useful and why?
-
-2. In Chapter 6, Ware presents some implications of pattern recognition and
-   visual working memory on design. Provide an example that harnesses some of
-   these principles (perhaps an advertisement, visualization, or interface) and
-   discuss how the design takes these principles into account. Please include a
-   screenshot, photo, or website URL.
-
-3. Pick three concepts covered in Lecture 9 - Interaction (e.g., Brushing &
-   Linking) and relate them to the taxonomy presented in Heer & Shneiderman Table
-   1. How do the interaction concepts fit to their taxonomy?
-
-4. Cockburn et al. describe various interface design paradigms, among them the
-   “fisheye view.” How would the fisheye view improve the usability of a
-   visualization, and under what circumstances might it not?
-
-[reading 5]: /readings/reading-5
-
-## Submission check
-
-Your submissions should a `zip` file, `week7.zip`, that contains:
-
-* The HTML, CSS and Javascript files that belong to two maps for problems 1 and
-  2, each in their own subdirectory.
-* A file called `reading5.pdf` that contains the answers to reading 5's questions.
-

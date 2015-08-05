@@ -1,8 +1,10 @@
+# Interactivity in Javascript
+
 This homework is the second part of the Javascript, Canvas and Interactivity
 exercise. You should base your work on the visualization you created in the
 last week. 
 
-## Problem 1: Interactivity
+## Interactivity
 
 *Techniques demonstrated: hover (onMouseOver), Tooltip*
 
@@ -67,34 +69,3 @@ extension lines. This should not disable the tooltip functionality, nor the
 crosshair cursor – just the extension lines. In other words, when the checkbox
 is clicked your event handler (onclick) should toggle some global variable
 enabling or enabling the logic you have added.
-
-## Problem 2: Questions for the [reading 4][]
-
-1. Patterns and colors are essential to maps. Compare a search for Harvard
-   University on two interactive maps (e.g., Google Maps, Bing Maps, Yahoo! Maps,
-   Apple Maps, map.harvard.edu). Answer the following questions, making references
-   to concepts explained in Ware such as pattern recognition and properties of
-   color. Please include screenshots of the examples you are comparing.
-
-    a. Which map promotes an easier visual search for buildings?
-    b. Which map more effectively visualizes routes from a random point A to point B?
-    c. Which map is an overall better visualization, and why?
-
-2. Find a rainbow color map visualization on the web. Please include a
-   screenshot and link of the visualization.
-
-   a. Briefly summarize its intended objective and audience. Does it fail to
-      successfully convey information? If so, why? Is there a good reason for this
-      specific visualization to use a rainbow color scheme?
-   
-   b. Propose an alternative color scheme to replace the rainbow color map.
-
-[reading 4]: /readings/reading-4
-
-## Submitting
-
-Your submission should be in `week5.zip` and include the following items:
-
-* A subdirectory `javascript2` that contains the HTML, CSS, Javascript needed
-  to create the interactive visualization.
-* A file called `reading4.pdf` for the answers to the fourth reading's questions.

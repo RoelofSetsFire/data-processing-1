@@ -1,8 +1,10 @@
+# Scraping
+
 In this assignment you will learn to use the Document Object Model (DOM) using
 Python via the Pattern library, in a few weeks you will also access the DOM
-from Javascript.
-For the programming excercises in this homework, we provide both some
-scaffolding and automated tests that are also used when grading the homework.
+from Javascript. For the programming excercises in this homework, we provide
+both some scaffolding and automated tests that are also used when grading the
+homework.
 
 * The Python module that you will need to complete for the first programming
   exercise: [exercise.py]
@@ -15,8 +17,7 @@ scaffolding and automated tests that are also used when grading the homework.
 [tvscraper.py]: tvscraper.py
 [test-tvscraper.py]: test-tvscraper.py
 
-
-## Problem 1: Python Exercise
+## Python Exercise
 
 Welcome to Python! At this point, we hope you have Python up and running. If
 you're having a lot of trouble, please come see us at Office Hours. Reinstalling Python can fix certain strange issues you might
@@ -64,7 +65,7 @@ problem if you cannot understand everything in PEP8 yet.
 Note: DO NOT USE `split()`, but you can import other libraries (i.e. regular
 expressions) There are many solutions so as long as it works!
 
-## Problem 2: DOM scraping and traversal
+## DOM scraping and traversal
 
 To scrape data, we will be using Pattern, a Python web mining module. Its
 description is as follows:
@@ -87,9 +88,7 @@ get started, you should look at the `examples` folder within `patterns­2.5`
 Under `01-web` folder, look at example `07-dom.py`. If you have `pattern2.6`
 the example is in directory `01-web` in the file `12-dom.py`.
 
-
-The documentation on the
-website is also useful.
+The documentation on the website is also useful.
 
 3. To get you started we have provided you with a script [tvscraper.py] that 
 loads the correct IMDB address, makes a local backup of it (`tvseries.html`)
@@ -167,4 +166,3 @@ Your submission should be a `zip` file containing:
 2. `tvscraper.py`
 3. `tvseries.html`
 4. `tvseries.csv`
-

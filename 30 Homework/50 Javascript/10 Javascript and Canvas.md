@@ -1,10 +1,11 @@
+# Javascript
 
-This homework is split over week 4 and 5 of the data-processing course. The total
-exercise consists of ingesting a data set encoded as CSV (Comma Separated Values)
-and one encoded as JSON (Javascript Object Notation), plotting the two data sets
-on a so-called Canvas element, and then to add interactivity to that plot using
-Javascript techniques. For some of you this excercise will be your first 
-introduction to Javascript. 
+This homework is split over week 4 and 5 of the data-processing course. The
+total exercise consists of ingesting a data set encoded as CSV (Comma Separated
+Values) and one encoded as JSON (Javascript Object Notation), plotting the two
+data sets on a so-called Canvas element, and then to add interactivity to that
+plot using Javascript techniques. For some of you this excercise will be your
+first introduction to Javascript.
 
 The first part of the exercise (week 4) comprises only the loading of the data
 and plotting the two data sets (statically). The second part (week 5) comprises
@@ -223,27 +224,3 @@ or the javascript split, as discussed previously), iterate over the data points
 
 You must implement the drawing in a generic function and call it twice (once
 for each data set).
-
-## Problem 2: Questions about the [reading 3][]
-
-1. Ware describes bottom up and top down processing of visual information in
-   the brain. Give a concrete and detailed example of how bottom up processing is
-   influenced by top down processing, leading to a potentially wrong
-   interpretation of "reality" by the viewer. Your example can include a
-   screenshot, photo, or web site URL to refer to the scene that is being viewed.
-
-2. Go to the Many Eyes website and browse around the visualizations. Click
-   through a few and look at the comments. How successful do you think Many Eyes
-   has been in achieving its original design purpose according to the paper? What
-   do you think is the biggest issue/flaw with Many Eyes? What improvements might
-   you suggest to Many Eyes to address these issues/flaws?
-
-[reading 3]: /readings/reading-3
-
-## Submitting
-
-Your submission should be a `zip` file containing the following:
-
-* A directory called `javascript1` containing all the files that belong to 
-  the static visualization created using Javascript.
-* The answers to the questions for reading 3 in a file called `reading3.pdf`
