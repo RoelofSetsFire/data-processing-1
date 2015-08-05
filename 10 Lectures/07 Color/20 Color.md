@@ -1,11 +1,9 @@
-# The Color Game
+# Color
 
-<http://color.method.ac>
-
-
-
-# Lecture
-
-[Slides](cdn://slides/07-Color.pdf)
+* [Slides](cdn://slides/07-Color.pdf)
+* [The color game](http://color.method.ac)
 
 ![videoplayer](cdn://video/lecture008.mp4)
+
+
+

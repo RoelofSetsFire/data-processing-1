@@ -1,8 +1,4 @@
-# Design Critique V
-
-<http://www.wefeelfine.org> (flash required)
-
-# Lecture
+# Interaction Design
 
 [Slides](cdn://slides/09-Interaction.pdf)
 
