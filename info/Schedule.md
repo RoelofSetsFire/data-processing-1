@@ -8,7 +8,7 @@ This is the general schedule for data-processing **BLOCK 1, 2015-2016 (September
 * **Thursday 3-09, 13:00-15:00** 
    * Design critique  
    * Reading session:
-      * [Week 1 lectures](/lectures/week-1) 
+      * Lectures: [Introduction](/lectures/introduction), Labs: [Python](/labs/python) 
       * [Reading 1](/readings/reading-1)
 * **Friday 4-09. 23:59**
    * Homework due (/homework/week-1-html-and-css)
@@ -23,7 +23,7 @@ This is the general schedule for data-processing **BLOCK 1, 2015-2016 (September
    * Homework due: Questions about reading 1 and 2
 * **Thurday 10-09, 13:00-15:00**
    * * Reading session: 
-      * [Week 2 lectures](/lectures/week-2) 
+      * Lectures: [Graphic Design](/lectures/graphic-design), [Process](/lectures/process)
       * [Reading 2](/readings/reading-2)
    * Tutorial
 
@@ -37,8 +37,8 @@ This is the general schedule for data-processing **BLOCK 1, 2015-2016 (September
 * **Thursday 17-09, 13:00-15:00**
    * Design critique session ?
    * Reading session:
+      * Lectures: [Visualization Taxonomy](/lectures/visual-taxanomy)
       * [Reading 3](/readings/reading-3)
-      * [Week 3 lectures](/lectures/week-3)  (The Tableau lecture can be skipped)
 
 * Javascript documentation relevant to weeks 4 and 5:
    * [Week 6, Project 1 Review](/lectures/week-6#project-1-review)
@@ -57,7 +57,7 @@ This is the general schedule for data-processing **BLOCK 1, 2015-2016 (September
    * Design critique session ?
    * Reading session:
       * [Reading 4](/readings/reading-4)
-      * [Lectures of week 4](/lectures/week-4)
+      * Lectures: [Perception](/lectures/perception), [Color](/lectures/color)
 
 ## Week 5
 * **Monday 28-09, 13:00-15:00**
@@ -66,11 +66,11 @@ This is the general schedule for data-processing **BLOCK 1, 2015-2016 (September
    * Homework due: [Javascript interactivity + Questions about reading 4](/homework/week-5-interactivity)
 * **Wednesday 30-09, 23:59**
    * Homework due: Questios about readings 5
-* **Thursday 27-11, 13:00-17:00**
+* **Thursday 1-10, 13:00-17:00**
    * Design critique session ?
    * Reading session:
       * [Reading 5](/readings/reading-5)
-      * [Lectures of week 5](/lectures/week-5)
+      * Lectures: [Cognition](/lectures/cognition), [Interaction design](/lectures/interaction)
 
 ## Week 6
 * **Monday 5-10, 13:00-15:00**
@@ -86,15 +86,15 @@ This is the general schedule for data-processing **BLOCK 1, 2015-2016 (September
 ## Week 7
 * **Monday 12-10, 13:00-15:00**
    * Lab session: [D3](/homework/week-7-svg-and-d3)
-* **Thursday 11-12, 13:00-17:00**
+* **Thursday 15-10, 13:00-15:00**
    * Design critique session ?
    * Reading session:
+      * Lectures: [Javascript], Labs: [D3 Guest Lecture](/labs/d3-guest-lecture)
       * [Reading 6 and 7](/readings/reading-6)
-      * [Lectures of week 7, D3 Guest Lecture](/lectures/week-7#d3-guest-lecture)
 * **Friday 16-10, 23:59**
    * Homework due: [D3](/homework/week-7-svg-and-d3)
 
 ## Week 8
-* **Monday 15-12, 13:00-15:00**
+* **Monday 19-10, 13:00-15:00**
    * On requested: Recap / Questions / Feedback about the course.
 
