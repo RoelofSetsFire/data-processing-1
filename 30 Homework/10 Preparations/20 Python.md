@@ -112,5 +112,4 @@ If this happens:
 then python can't find you pattern modules. There are several fixes described
 on the pattern start site. The easiest one is to grab the "pattern" folder from
 the zip and put it in the same directory as your python script. If you’re still
-having trouble getting things working just ask for help and describe your
-problem on piazza!
+having trouble getting things working just ask for help.
