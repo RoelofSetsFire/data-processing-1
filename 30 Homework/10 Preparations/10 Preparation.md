@@ -1,6 +1,6 @@
 # Preparations
 
-Welcome to Data Toolkit. In this class, we will be using a variety of tools
+Welcome to Data Processing. In this class, we will be using a variety of tools
 that will require some initial configuration. To ensure everything goes
 smoothly moving forward, we will setup the majority of those tools in this
 homework. While some of this will likely be dull, doing it now will enable us
