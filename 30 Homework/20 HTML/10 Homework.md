@@ -1,10 +1,6 @@
 # HTML and CSS
 
-In this homework, you will begin working with HTML/CSS. As always, if you need
-help, the first place you should check is Piazza because someone else may have
-already posted about the same problems or questions as you!
-
-Note: This homework comes with supplementary files which you can download
+In this homework, you will begin working with HTML/CSS. This homework comes with supplementary files which you can download
 [here](hw5files.zip).
 
 ## Introduction
@@ -44,11 +40,11 @@ for each question will suffice.
 
 ## Implementing a Layout
 
-It's time to start working with HTML and CSS! Your task for this problem is to
+It's time to start working with HTML and CSS! Your task is to
 choose a website and reimplement a basic, non-functional version of its user
 interface (i.e., its aesthetic appearance). You are welcome to choose Gmail, or
 you may choose another website that is of similar visual complexity (e.g., a
-Wikipedia article, Piazza). Your implementation need not be functional in any
+Wikipedia article). Your implementation need not be functional in any
 way (buttons must not be clickable, search bars must not work, there must not
 be dynamically loaded data, etc.), and you do not need to worry about images.
 The intention of the task is simply to familiarize yourself with HTML and CSS,
