@@ -88,7 +88,7 @@ This is the general schedule for data-processing **BLOCK 1, 2015-2016 (September
 * **Thursday 15-10, 13:00-15:00**
    * [Design critique 6](/critiques/critique-6) 
    * Reading session:
-      * Lectures: [Javascript], Labs: [D3 Guest Lecture](/labs/d3-guest-lecture)
+      * Labs: [D3 Guest Lecture](/labs/d3-guest-lecture)
       * [Reading 6 and 7](/readings/reading-6)
 * **Friday 16-10, 23:59**
    * Homework due: [D3](/homework/d3)
