@@ -34,18 +34,17 @@ view visualization. You may use parts out of such examples.
 
 The data processing course consists of several parts. The online video 
 lectures, the reading assignments and the questions that go with them and
-normal homework assignments. Attendence is required at the reading sessions, 
-design critique sesssions and tutuorials. You are allowed to be absent only
+normal homework assignments. Attendence is required at the reading sessions and the lab sesssions. You are allowed to be absent only
 once without sanctions, further absence may result in extra work being
 assigned. Homework is to be handed in according to the [schedule], you are
-allowed one slipped deadline (sunday in stead of thursday).
+allowed one slipped deadline.
 
-If circumstances force you to miss a reading group meeting, a design critique
+If circumstances force you to miss a reading group meeting, a lab
 session or a homework deadline be sure to mention this to the instructors 
-ahead of time use our [email]. Feel free to discuss any issues that come up 
+ahead of time, use our [email]. Feel free to discuss any issues that come up 
 (you may be referred to our coordinator).
 
-[email]: mailto:data@mprog.nl
+[email]: mailto:help@mprog.nl
 [schedule]: /#processing-schedule
 
 ## Regulations
