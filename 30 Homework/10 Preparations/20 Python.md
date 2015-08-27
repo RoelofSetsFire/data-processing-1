@@ -8,11 +8,12 @@ and python 3, so installing the wrong one will break the most Python exercises
 in this course.)
 
 If you are a Windows user and have no pre-existing Python installation,
-we recommend that you install 
-[Python(x, y)](http://code.google.com/p/pythonxy/). This distribution includes
+we recommend that you install [Python(x, y)]. This distribution includes
 Python 2.7 (the version we use of Python comes with all common scientific
 libraries (and hence saves you a lot of trouble in case you need Numpy, Scipy
 or Matplotlib later).
+
+[Python(x, y)]:http://python-xy.github.io/
 
 For users of OS X, you already have Python so you need to check which version.
 You do this by opening a Terminal (included in every Mac) and typing `python`
