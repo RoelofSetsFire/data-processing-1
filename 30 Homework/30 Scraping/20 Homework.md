@@ -27,8 +27,7 @@ come across.
 2. Follow the instructions in the comments or below and complete the exercise!
 3. You are allowed to import other libraries but no using the split() function
 4. To run python, simple type in commands ''python exercise.py''
-5. To test the functions you implemented after running your script type the
-   the command ''python test-exercise.py''
+5. To test the functions you implemented after running your script type the command ''python test-exercise.py''
 
 ### Building `exercise.py`
 
@@ -48,7 +47,7 @@ implementation of this more general string splitting function, it is up to you
 to complete it. Open the python module and look for the function
 `split_string(source, separators)` and implement it.
 
-Whenever possible we strife to provide you with a file to test your code as
+Whenever possible we strive to provide you with a file to test your code as
 well. For this exercise the Python script [test-exercise.py] that will check
 whether your implementation of `split_string(source, separators)` is correct.
 This script will also be used in grading your implementation.
@@ -80,7 +79,7 @@ description is as follows:
 
 Instructions:
 
-1. We assume Python and pattern is installed (see [preparations] if this is not
+1. We assume Python and pattern are installed (see [preparations] if this is not
 the case).
 
 2. We will be looking at IMDB TV Series and getting data off this website. To

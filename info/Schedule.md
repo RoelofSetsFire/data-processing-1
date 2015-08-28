@@ -4,14 +4,14 @@ This is the general schedule for data-processing **BLOCK 1, 2015-2016 (September
 
 * **Monday 31-08, 13:00-15:00** 
    * Introductory meeting
-   * Lab session: [Preparations](/homework/preparations) + [Git](/howework/git) + [HTML/CSS starter](/homework/week-1-html-and-css)
+   * Lab session: [Preparations](/homework/preparations) + [HTML/CSS starter](/homework/week-1-html-and-css)
 * **Thursday 3-09, 13:00-15:00** 
    * [Design critique 1](/critiques/critique-1)  
    * Reading session:
       * Lectures: [Introduction](/lectures/introduction), Labs: [Python](/labs/python) 
       * [Reading 1](/readings/reading-1)
 * **Friday 4-09. 23:59**
-   * Homework due [Git](/homework/git) + [HTML/CSS starter](/homework/html)
+   * Homework due [HTML/CSS starter](/homework/html)
    
 ## Week 2
 
@@ -88,7 +88,7 @@ This is the general schedule for data-processing **BLOCK 1, 2015-2016 (September
 * **Thursday 15-10, 13:00-15:00**
    * [Design critique 6](/critiques/critique-6) 
    * Reading session:
-      * Lectures: [Javascript], Labs: [D3 Guest Lecture](/labs/d3-guest-lecture)
+      * Labs: [D3 Guest Lecture](/labs/d3-guest-lecture)
       * [Reading 6 and 7](/readings/reading-6)
 * **Friday 16-10, 23:59**
    * Homework due: [D3](/homework/d3)

@@ -7,10 +7,14 @@ homework. While some of this will likely be dull, doing it now will enable us
 to do more exciting work in the weeks that follow without getting bogged down
 in further software configuration. This homework will not be graded and this
 homework has no group reflection phase, however it is essential that you
-complete it timely since it will enable us to set up your accounts. You do not
-have to hand anything in.
+complete it timely since it will enable us to set up your accounts. 
 
-We will be using Python as our language of choice in this class. For those of
+First you will learn how to get started with Git in order to submit your homeworks.
+Please refer to this GitHub manual [Github_manual.pdf] and answer the questions before proceeding with this homework.
+
+[Github_manual.pdf]: Github_manual.pdf
+
+In this class we will be using Python as our language of choice. For those of
 you unfamiliar with it, we will be introducing python and the pattern library
 in the first two labs.
 
