@@ -159,7 +159,7 @@ This is taken from the documentation, which you should learn to read!
 
 ## Submitting
 
-Your submission should be a `zip` file containing:
+Add a folder Scraping to your DataProcessing repository containing the following files:
 
 1. `exercise.py`
 2. `tvscraper.py`
