@@ -72,7 +72,9 @@ documentation of HTML elements, CSS properties, etc.
 
 ## Submit instructions
 
-Add a folder HTMLCSS to your DataProcessing repository with the follwoing files:
+Create a folder Homework inside your DataProcessing repository. 
+All the homeworks should be placed there.
+Create a folder HTMLCSS inside DataProcessing/Homework repository with the following files:
 
 1. Folder titled `website` containing `index.html` and `style.css`.
 2. File `htmlcss.pdf`. 
