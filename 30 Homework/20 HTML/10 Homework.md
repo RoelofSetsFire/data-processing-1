@@ -11,7 +11,7 @@ Read Lessons 1--3 from "A Beginner's Guide to HTML & CSS" by Shay Howe:
 * [Lesson 2: Elements and semantics](http://learn.shayhowe.com/html-css/elements-semantics)
 * [Lesson 3: Box model and positioning](http://learn.shayhowe.com/html-css/box-model)
 
-Briefly answer the following questions in `hw5htmlcss.pdf`. A sentence or two
+Briefly answer the following questions in `htmlcss.pdf`. A sentence or two
 for each question will suffice.
 
 1. At a high level, what is the purpose of HTML and CSS? How do the two differ?
@@ -72,7 +72,7 @@ documentation of HTML elements, CSS properties, etc.
 
 ## Submit instructions
 
-Your submission should be in `hw5.zip` and include the
-following items:
+Add a folder HTMLCSS to your DataProcessing repository with the follwoing files:
 
 1. Folder titled `website` containing `index.html` and `style.css`.
+2. File `htmlcss.pdf`. 
