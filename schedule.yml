@@ -7,7 +7,7 @@ Week 1:
     'Critique 1': '/critiques/critique-1'
     'Reading session [Thursday 13:00]':
     'Homework deadline [Friday 23:59]':
-    
+
 Week 2:
     'Video lecture': '/lectures/graphic-design' 
     'Video lecture': '/lectures/process'
@@ -18,7 +18,7 @@ Week 2:
     'Reading session [Thursday 13:00]':
     'Lab homework deadline [Tuesday 23:59]':
     'Reading 2 deadline [Wednesday 23:59]':
-    
+
 Week3:
     'Video lecture': '/lectures/visual-taxonomy' 
     'Lab session [Monday 13:00]':
@@ -50,14 +50,11 @@ Week 5:
     'Reading session [Thursday 13:00]':
     'Lab homework deadline [Tuesday 23:59]':
     'Reading 5 deadline [Wednesday 23:59]':
-    
+
 Week 6:
-    'Lab session [Monday 13:00]':
-    'Homework: SVG ': '/homework/svg'
-    'Excursion to National eScience Symposium [Thursday 13:00]':'https://www.esciencecenter.nl/?/symposium/'
     'Lab homework deadline [Tuesday 23:59]':
     'Reading 6 + D3 deadline [Wednesday 23:59]':
-    
+
 Week 7:
     'Video lecture': '/labs/d3'
     'Lab session [Monday 13:00]':
@@ -66,6 +63,3 @@ Week 7:
     'Critique 6': '/critiques/critique-6'
     'Reading session [Thursday 13:00]':
     'Lab homework deadline [Friday 23:59]':
-   
-
-
