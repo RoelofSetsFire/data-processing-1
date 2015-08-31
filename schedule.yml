@@ -7,3 +7,14 @@ Week 1:
     'Critique: Critique 1': '/critiques/critique-1'
     'Reading session [Thursday 13:00]':
     'Homework deadline [Friday 23:59]':
+    
+Week 2:
+    'Video lecture': '/lectures/'
+    'Lab session [Monday 13:00]':
+    'Homework: Preparations': '/homework/scraping'
+    'Reading': '/readings/reading-2'
+    'Critique: Critique 2': '/critiques/critique-2'
+    'Reading session [Thursday 13:00]':
+    'Lab homework deadline [Tuesday 23:59]':
+    'Readings deadline [Wednesday 23:59]':
+
