@@ -11,6 +11,7 @@ complete it timely since it will enable us to set up your accounts.
 
 First you will learn how to get started with Git in order to submit your homeworks.
 Please refer to this GitHub manual [Github_manual.pdf] and answer the questions before proceeding with this homework.
+Please submit the URL of your repository underneath on this page.
 
 [Github_manual.pdf]: Github_manual.pdf
 
