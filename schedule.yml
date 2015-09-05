@@ -2,15 +2,11 @@ Week 1:
     'Video lecture: Introduction': '/lectures/introduction'
     'Lab session [Monday 13:00]':
     'Homework deadline [Friday 23:59]':
-     'Homework: Preparations': '/homework/preparations'
+    'Homework: Preparations': '/homework/preparations'
     'Homework: HTML': '/homework/html'
     'Reading session [Thursday 13:00]':
     'Reading 1': '/readings/reading-1'
     'Critique 1': '/critiques/critique-1'
-   
-    
-   
-
 Week 2:
     'Video lecture: Graphic design ': '/lectures/graphic-design' 
     'Video lecture: Design process': '/lectures/process'
@@ -21,10 +17,7 @@ Week 2:
     'Reading session [Thursday 13:00]':
     'Reading 2': '/readings/reading-2'
     'Critique 2': '/critiques/critique-2'
-    
-   
-
-Week3:
+Week 3:
     'Video lecture: Visualization Taxonomy': '/lectures/visual-taxonomy' 
     'Lab session [Monday 13:00]':
     'Lab homework deadline [Tuesday 23:59]':
@@ -33,10 +26,6 @@ Week3:
     'Reading session [Thursday 13:00]':
     'Reading 3': '/readings/reading-3'
     'Critique 3': '/critiques/critique-3'
-    
-    
-   
-
 Week 4:
     'Video lecture: Perception': '/lectures/perception'
     'Video lecture: Color': '/lectures/color'
@@ -47,8 +36,6 @@ Week 4:
     'Reading session [Thursday 13:00]':
     'Reading 4': '/readings/reading-4'
     'Critique 4': '/critiques/critique-4'
-    
-
 Week 5:
     'Video lecture: Cognition': '/lectures/cognition'
     'Video lecture: Interaction': '/lectures/interaction'
@@ -59,8 +46,6 @@ Week 5:
     'Reading session [Thursday 13:00]':
     'Reading 5': '/readings/reading-5'
     'Critique 5': '/critiques/critique-5'
-   
-
 Week 6:
     'Video lecture: D3': '/labs/d3'
     'Lab session [Monday 13:00]':
@@ -68,9 +53,6 @@ Week 6:
     'Homework: SVG ': '/homework/svg'
     'Reading 6 + D3 deadline [Wednesday 23:59]':
     'Excursion to National eScience Symposium [Thursday 13:00]': 'https://www.esciencecenter.nl/?/symposium/'
-    
-   
-
 Week 7:
     'Lab session [Monday 13:00]':
     'Lab homework deadline [Friday 23:59]':
@@ -78,5 +60,3 @@ Week 7:
     'Reading session [Thursday 13:00]':
     'Reading 6 and 7': '/readings/reading-6'
     'Critique 6': '/critiques/critique-6'
-    
-    
