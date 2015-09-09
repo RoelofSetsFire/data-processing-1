@@ -1,6 +1,7 @@
 # Reading 2
 
 Read the following chapters and answer the accompanying questions.
+Save your answers in Readings2.pdf and push it to GitHub.
 
 * S. Carpendale, "[Considering Visual Variables as a Basis for Information
   Visualisation][1]".
