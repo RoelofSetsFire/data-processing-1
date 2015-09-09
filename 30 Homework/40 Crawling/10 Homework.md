@@ -51,3 +51,10 @@ attributes per entry and at least 200 entries. Also, to collect all information
 you should at least follow links to other web pages (not just scrape a single
 web page. If you are in doubt your data source is complex enough, please ask in
 class.
+
+## Submitting
+Add a folder "Crawling" to your DataProcessing/Homework repository containing the following files:
+* imdb-crawler.py
+* top250movies.csv
+* index.html
+* movie-083.html
