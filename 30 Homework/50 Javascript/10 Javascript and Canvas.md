@@ -74,7 +74,7 @@ worth of data (hint: CSV files can be viewed in text editors). The downloaded
 CSV file starts with a so-called header that contains meta-data. This
 meta-data allows you to correctly interpret the raw data in the rest of the file.
 
-[KNMI webpage]: http://www.knmi.nl/climatology/daily\_data/selection.cgi
+[KNMI webpage]: http://projects.knmi.nl/klimatologie/daggegevens/selectie.cgi
 
 
 ### Reformatting and Loading the Data
