@@ -116,7 +116,7 @@ new Date('2014/01/01') (make sure that the date string
 matches the example's formatting).
 
 
-![Figure 1]: (Graph-Jenny-Hasenack-Cutout.png)
+![figure1]:(screenshot.png)
 
 ### The canvas-element
 
@@ -127,7 +127,7 @@ to at least draw lines, rectangles, circles and text (and how to rotate text).
 
 [tutorial]: https://developer.mozilla.org/en-US/docs/Web/API/Canvas\_API/Tutorial
 
-![Figure 2]: (Transformation-Example-Cutout.png) 
+![figure2]:(transformation.png) 
 
 ### Transforming the data to screen coordinates
 
