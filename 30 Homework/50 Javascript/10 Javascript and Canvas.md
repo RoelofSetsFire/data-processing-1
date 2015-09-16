@@ -57,6 +57,7 @@ CSS and JavaScript) and can serve as a reference.
 ### Questions
 Answer the following questions in your own words. This assignment will
 only be graded pass or fail.
+
 * Explain the difference between the == operator and the === operator.
 * Explain what a closure is. (Note that JavaScript programs use closures very often.)
 * Explain what higher order functions are.
@@ -116,7 +117,7 @@ matches the example's formatting).
 
 ### The canvas-element
 
-![Figure 1]: Graph-Jenny-Hasenack-Cutout.pdf "An example temperature graph as created by Jenny Hasenack."
+![Figure 1]: (Graph-Jenny-Hasenack-Cutout.pdf) "An example temperature graph as created by Jenny Hasenack."
 
 
 The HTML 5 canvas element allows JavaScript to draw pictures, the Mozilla
@@ -129,7 +130,9 @@ to at least draw lines, rectangles, circles and text (and how to rotate text).
 ### Transforming the data to screen coordinates
 
 
-![Figure 2]: Transformation-Example-Cutout.pdf "An example of a linear transform of the shape f(x) = alpha*x + beta, that can be used to transform between data coordinates and screen coordinates."
+![Figure 2]: (Transformation-Example-Cutout.pdf) 
+
+"An example of a linear transform of the shape f(x) = alpha*x + beta, that can be used to transform between data coordinates and screen coordinates."
 
 
 The canvas-element provides its own coordinate system, you will have
@@ -137,7 +140,7 @@ to transform you raw data to these coordinates to draw the graph. [Figure 1] sho
 create for this week. The position encodings for this graph only need linear
 transforms, one for the x-axis and one for the y-axis, of the following form:
 
-x<sup>screen</sup> = f(x<sup>data</sup>) = alpha * x<sup>data</sup> + beta 
+x<sub>screen</sub> = f(x<sub>data</sub>) = alpha * x<sub>data</sub> + beta 
 
 
 Because finding the two constants *alpha* and *beta* is a bit tedious we 
@@ -189,7 +192,6 @@ would run from 1 through 365 or 366 days depending on the year you chose).
 ### Checks before submitting
 
 
-* See general [guidelines] for submissions.
 * Does your submission contain a PDF with the answers to the 
           questions in Section "Questions" and the complete
           implementation of the temperature graph?
