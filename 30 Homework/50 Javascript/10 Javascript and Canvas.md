@@ -116,8 +116,7 @@ matches the example's formatting).
 
 ### The canvas-element
 
-[figure1]: Graph-Jenny-Hasenack-Cutout.pdf "An example temperature graph as created by Jenny Hasenack."
-![Alt text \label{mylabel}][figure1]
+[Figure 1]: Graph-Jenny-Hasenack-Cutout.pdf "An example temperature graph as created by Jenny Hasenack."
 
 
 The HTML 5 canvas element allows JavaScript to draw pictures, the Mozilla
@@ -130,73 +129,66 @@ to at least draw lines, rectangles, circles and text (and how to rotate text).
 ### Transforming the data to screen coordinates
 
 The canvas-element provides its own coordinate system, you will have
-to transform you raw data to these coordinates to draw the graph. \ref{mylabel} shows you a very simple version of the plot you have to
+to transform you raw data to these coordinates to draw the graph. [Figure 1] shows you a very simple version of the plot you have to
 create for this week. The position encodings for this graph only need linear
 transforms, one for the x-axis and one for the y-axis, of the following form:
-\[
-x_{\mathsf{SCREEN}} = f\left(x_{\mathsf{DATA}}\right) = \alpha \cdot x_{\mathsf{DATA}} + \beta.
-\]
 
-Because finding the two constants $\alpha$ and $\beta$ is a bit tedious we 
+x<sup>screen</sup> = f(x<sup>data</sup>) = alpha * x<sup>data</sup> + beta 
+
+
+Because finding the two constants *alpha* and *beta* is a bit tedious we 
 will create a function that can do it for us. We will use JavaScript's 
-support for \emph{closures} to create a function \texttt{createTransform}
-that calculates $\alpha$ and $\beta$ and returns a transformation function. The
+support for *closures* to create a function *createTransform*
+that calculates *alpha* and *beta* and returns a transformation function. The
 following snippet of code demonstrates this technique, but you will have to
 implement the actual calculation yourself.
-\begin{verbatim}
-function createTransform(domain, range){
-    \\ domain is a two-element array of the domain's bounds
-    \\ range is a two-element array of the range's bounds
-    \\ implement the actual calculation here
-    var alpha = ...;
-    var beta = ...;
 
-    return function(x){
-        return alpha * x + beta;
-    };
-}
+	function createTransform(domain, range){
+		\\ domain is a two-element array of the domain's bounds
+		\\ range is a two-element array of the range's bounds
+		\\ implement the actual calculation here
+		var alpha = ...;
+		var beta = ...;
 
-\\ to use this for instance:
-var tranform = createTransform([10, 20], [10, 20]);
-console.log(transform(15));  // should log 15
-\end{verbatim}
+		return function(x){
+			return alpha * x + beta;
+		};
+	}
+
+	\\ to use this for instance:
+	var tranform = createTransform([10, 20], [10, 20]);
+	console.log(transform(15));  // should log 15
+
 To test this function you can make a transformation that transforms the 
-domain $[10, 20]$ to the range $[10, 20]$ and see whether points are
+domain *[10, 20]* to the range *[10, 20]* and see whether points are
 transformed to themselves. This function will work directly on your 
 temperature data, but for the dates along the x-axis there is an extra 
 complication. An example of a transformation (for either the x or y 
-coordinate) is given in Figure \ref{fig:transformation}).
+coordinate) is given in [Figure 2].
 
-\begin{figure}
-\centering
-\includegraphics[width=0.7\textwidth]{week4/Transformation-Example-Cutout.pdf}
-\caption{An example of a linear transform of the shape $f(x) = \alpha x + \beta$,
-that can be used to transform between data coordinates and screen coordinates.}
-\label{fig:transformation}
-\end{figure}
+[Figure 2]: Transformation-Example-Cutout.pdf "An example of a linear transform of the shape f(x) = alpha*x + beta,
+that can be used to transform between data coordinates and screen coordinates."
 
 The x-transform needs to deal with dates, and any calculations involving
 calendars tend to get complicated quickly. For this assignment it is ok
-to use the \mbox{\texttt{Date.getTime()}} method to change all date
-to milliseconds since January 1$^\mathrm{st}$ 1970. These milliseconds can
+to use the Date.getTime() method to change all date
+to milliseconds since January 1st 1970. These milliseconds can
 then be transformed into days since the start of your data (so the x-axis
 would run from 1 through 365 or 366 days depending on the year you chose).
 
-\section{Extra credit}
-\begin{itemize}
-    \item Create an x-axis that uses calendar dates (in stead of days since
-          the first date in the data set.
-    \item Loading the data from file (you will need \texttt{XMLHTTPRequest}).
-    \item Nice graphical presentation will be credited.
-\end{itemize}
+### Extra credit
+* Create an x-axis that uses calendar dates (in stead of days since the first date in the data set.
+* Loading the data from file (you will need XMLHTTPRequest).
+* Nice graphical presentation will be credited.
 
 
-\subsection{Checks before submitting}
-\begin{itemize}
-    \item See Chapter \ref{chapter:submissions} for general guidelines that
-          submissions need to follow.
-    \item Does your submission contain a PDF with the answers to the 
-          questions in Section \ref{section:js-questions-1}, and the complete
+
+### Checks before submitting
+
+
+* See general [guidelines] for submissions.
+* Does your submission contain a PDF with the answers to the 
+          questions in Section "Questions" and the complete
           implementation of the temperature graph?
-\end{itemize}
 
+[guidlines]: guidlines.pdf
