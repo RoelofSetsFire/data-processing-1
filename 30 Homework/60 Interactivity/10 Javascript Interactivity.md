@@ -98,9 +98,6 @@ find the y-position relative to the canvas. You now have the coordinates
 where the horizontal and vertical lines of the cross-hair should cross. Draw
 the cross hair.
 
-![figure1](figure1.png)
-
-
 ### The tooltip and *setTimeout*
 
 The second interactive feature we are going to implement is a tooltip that 
@@ -120,7 +117,7 @@ drawing function as a callback). Make sure you make the tooltip invisible when
 the mouse starts moving again. 
 
 Figure 1 shows an example of the full graph.
-
+![figure1](figure1.png)
 
 ### Checks before submitting
 
