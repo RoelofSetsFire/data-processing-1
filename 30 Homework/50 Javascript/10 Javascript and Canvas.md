@@ -116,7 +116,7 @@ matches the example's formatting).
 
 ### The canvas-element
 
-[Figure 1]: Graph-Jenny-Hasenack-Cutout.pdf "An example temperature graph as created by Jenny Hasenack."
+![Figure 1]: Graph-Jenny-Hasenack-Cutout.pdf "An example temperature graph as created by Jenny Hasenack."
 
 
 The HTML 5 canvas element allows JavaScript to draw pictures, the Mozilla
@@ -127,6 +127,10 @@ to at least draw lines, rectangles, circles and text (and how to rotate text).
 [tutorial]: https://developer.mozilla.org/en-US/docs/Web/API/Canvas\_API/Tutorial
 
 ### Transforming the data to screen coordinates
+
+
+![Figure 2]: Transformation-Example-Cutout.pdf "An example of a linear transform of the shape f(x) = alpha*x + beta, that can be used to transform between data coordinates and screen coordinates."
+
 
 The canvas-element provides its own coordinate system, you will have
 to transform you raw data to these coordinates to draw the graph. [Figure 1] shows you a very simple version of the plot you have to
@@ -166,8 +170,7 @@ temperature data, but for the dates along the x-axis there is an extra
 complication. An example of a transformation (for either the x or y 
 coordinate) is given in [Figure 2].
 
-[Figure 2]: Transformation-Example-Cutout.pdf "An example of a linear transform of the shape f(x) = alpha*x + beta,
-that can be used to transform between data coordinates and screen coordinates."
+
 
 The x-transform needs to deal with dates, and any calculations involving
 calendars tend to get complicated quickly. For this assignment it is ok
