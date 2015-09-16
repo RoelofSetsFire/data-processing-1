@@ -116,7 +116,7 @@ new Date('2014/01/01') (make sure that the date string
 matches the example's formatting).
 
 
-![figure1](screenshot.png)
+
 
 ### The canvas-element
 
@@ -127,13 +127,17 @@ to at least draw lines, rectangles, circles and text (and how to rotate text).
 
 [tutorial]: https://developer.mozilla.org/en-US/docs/Web/API/Canvas\_API/Tutorial
 
-![figure2](transformation.png) 
 
 ### Transforming the data to screen coordinates
 
 The canvas-element provides its own coordinate system, you will have
 to transform you raw data to these coordinates to draw the graph. [Figure 1] shows you a very simple version of the plot you have to
-create for this week. The position encodings for this graph only need linear
+create for this week. 
+
+
+![figure1](screenshot.png)
+
+The position encodings for this graph only need linear
 transforms, one for the x-axis and one for the y-axis, of the following form:
 
 x<sub>screen</sub> = f(x<sub>data</sub>) = alpha * x<sub>data</sub> + beta 
@@ -170,6 +174,7 @@ complication. An example of a transformation (for either the x or y
 coordinate) is given in [Figure 2].
 
 
+![figure2](transformation.png) 
 
 The x-transform needs to deal with dates, and any calculations involving
 calendars tend to get complicated quickly. For this assignment it is ok
