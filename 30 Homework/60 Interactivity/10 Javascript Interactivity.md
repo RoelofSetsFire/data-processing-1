@@ -98,7 +98,7 @@ find the y-position relative to the canvas. You now have the coordinates
 where the horizontal and vertical lines of the cross-hair should cross. Draw
 the cross hair.
 
-![figure1](Tein-De-Vries-Cutout.png)
+![figure1](figure1.png)
 
 
 ### The tooltip and *setTimeout*
