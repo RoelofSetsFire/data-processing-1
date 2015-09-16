@@ -115,10 +115,10 @@ JavaScript dates use the Date function:
 new Date('2014/01/01') (make sure that the date string
 matches the example's formatting).
 
+
+![Figure 1]: (Graph-Jenny-Hasenack-Cutout.png)
+
 ### The canvas-element
-
-![Figure 1]: (Graph-Jenny-Hasenack-Cutout.pdf) "An example temperature graph as created by Jenny Hasenack."
-
 
 The HTML 5 canvas element allows JavaScript to draw pictures, the Mozilla
 Developer Network has a small [tutorial] on the canvas-element that you should read. For this assignment you
@@ -127,13 +127,9 @@ to at least draw lines, rectangles, circles and text (and how to rotate text).
 
 [tutorial]: https://developer.mozilla.org/en-US/docs/Web/API/Canvas\_API/Tutorial
 
+![Figure 2]: (Transformation-Example-Cutout.png) 
+
 ### Transforming the data to screen coordinates
-
-
-![Figure 2]: (Transformation-Example-Cutout.pdf) 
-
-"An example of a linear transform of the shape f(x) = alpha*x + beta, that can be used to transform between data coordinates and screen coordinates."
-
 
 The canvas-element provides its own coordinate system, you will have
 to transform you raw data to these coordinates to draw the graph. [Figure 1] shows you a very simple version of the plot you have to
