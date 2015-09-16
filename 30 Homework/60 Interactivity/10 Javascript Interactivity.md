@@ -10,10 +10,10 @@ JavaScript]. JSON itself is not explained in a lot of detail in this book, but
 the Wikipedia page on JSON and the [json.org] should provide
 you with enough background on JSON. If you are interested in more advanced
 background reading on JavaScript the series of books [You don't know
-JavaScript]and the[JavaScript Garden] are great resources.
+JavaScript] and the [JavaScript Garden] are great resources.
 
 [json.org]: json.org
-[You don't know JavaScript]: https://github.com/getify/You-Dont-Know-JS}
+[You don't know JavaScript]: https://github.com/getify/You-Dont-Know-JS
 [JavaScript Garden]: http://bonsaiden.github.io/JavaScript-Garden/
 [Eloquent JavaScript]: http://eloquentjavascript.net/
 
@@ -22,7 +22,7 @@ Answer the following questions in your own words. This assignment will
 only be graded pass or fail.
 
 * Why is it useful to encapsulate JavaScript code in a module as
-      described in chapter 10 of [Eloquent JavaScript]?.
+      described in chapter 10 of [Eloquent JavaScript]?
 * Describe what asynchronous programming is and how it differs from
       the style of programming you used in C and Python.
 * Is JSON valid JavaScript? Describe the differences between JavaScript
@@ -33,7 +33,7 @@ only be graded pass or fail.
 ### Reformatting the data to JSON
 
 Since JSON is commonly used to transfer data between JavaScript programs and
-web services that provide data such as [data.overheid.nl], we will transform our CSV data to JSON using
+web services that provide data such as [overheid.nl], we will transform our CSV data to JSON using
 Python, and then load that JSON data using the same trick as last week. In
 Python the *json* module provides a very easy way to save Python 
 data structures as JSON. You should take the data of last week, load it into
@@ -44,7 +44,7 @@ it with the JSON data (JSON is very close to JavaScript in appearance, and
 like JavaScript it is just text).
 
 
-[data.overheid.nl]: data.overheid.nl
+[data.overheid.nl]: https://data.overheid.nl/
 
 
 ### Loading the data using JavaScript
@@ -98,7 +98,7 @@ find the y-position relative to the canvas. You now have the coordinates
 where the horizontal and vertical lines of the cross-hair should cross. Draw
 the cross hair.
 
-![Figure1]: (Tein-De-Vries-Cutout.png)
+![Figure1]:(Tein-De-Vries-Cutout.png)
 
 
 ### The tooltip and *setTimeout*
