@@ -14,6 +14,4 @@ Read the following articles and answer these questions.
 
 1. Ware describes bottom up and top down processing of visual information in the brain. Give a concrete and detailed example of how bottom up processing is influenced by top down processing, leading to a potentially wrong interpretation of "reality" by the viewer. Your example can include a screenshot, photo, or web site URL to refer to the scene that is being viewed.
 
-2. In the Polaris paper, carefully read section 7.1 Scenario 1: Commercial Database Analysis on p. 62 again and examine Figure 6. Describe the visual mappings and visual queries, as mentioned earlier in the article, that Polaris enables in this series of screenshots.
-
 3. Go to the Many Eyes website and browse around the visualizations. Click through a few and look at the comments. How successful do you think Many Eyes has been in achieving its original design purpose according to the paper? What do you think is the biggest issue/flaw with Many Eyes? What improvements might you suggest to Many Eyes to address these issues/flaws?
