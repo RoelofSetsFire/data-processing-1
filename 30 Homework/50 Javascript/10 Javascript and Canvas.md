@@ -125,7 +125,7 @@ Developer Network has a small [tutorial] on the canvas-element that you should r
 will not need to know all the details of the canvas but you should be able 
 to at least draw lines, rectangles, circles and text (and how to rotate text).
 
-[tutorial]: https://developer.mozilla.org/en-US/docs/Web/API/Canvas\_API/Tutorial
+[tutorial]: https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D
 
 
 ### Transforming the data to screen coordinates
