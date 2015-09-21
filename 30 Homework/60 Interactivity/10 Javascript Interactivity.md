@@ -44,7 +44,7 @@ it with the JSON data (JSON is very close to JavaScript in appearance, and
 like JavaScript it is just text).
 
 
-[data.overheid.nl]: https://data.overheid.nl/
+[overheid.nl]: https://data.overheid.nl/
 
 
 ### Loading the data using JavaScript
