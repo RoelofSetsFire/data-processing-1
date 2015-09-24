@@ -67,7 +67,7 @@ graph based on the CSV data.
 The interactive features we will implement this week are a tooltip that shows
 the exact temperature for a given day and an cross-hair that follows the 
 X position of the mouse cursor and the Y position of the graph. The tooltip will
-be implemented as a absolutely positioned div-element and the
+be implemented as an absolutely positioned div-element and the
 cross-hair will be drawn on a canvas-element. 
 
 ### The cross-hair and event listeners
@@ -88,7 +88,7 @@ clientY properties of the event that was fired, these properties have
 the mouse position relative to the whole document (not in "canvas"
 coordinates). Use getBoundingClientRect() of the 
 canvas-element to correct the mouse position. As always you should 
-use console.log to see whether what the actual coordinates are.
+use console.log to see what the actual coordinates are.
 
 Now that you have access to the x-coordinate of the mouse relative to the 
 canvas element you can find the height of the graph at that position. You 
@@ -98,10 +98,6 @@ find the y-position relative to the canvas. You now have the coordinates
 where the horizontal and vertical lines of the cross-hair should cross. Draw
 the cross hair.
 
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/master
 ### The tooltip and *setTimeout*
 
 The second interactive feature we are going to implement is a tooltip that 
@@ -121,10 +117,7 @@ drawing function as a callback). Make sure you make the tooltip invisible when
 the mouse starts moving again. 
 
 Figure 1 shows an example of the full graph.
-<<<<<<< HEAD
 
-=======
->>>>>>> origin/master
 ![figure1](figure1.png)
 
 ### Checks before submitting
