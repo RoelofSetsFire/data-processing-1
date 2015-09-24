@@ -13,7 +13,21 @@ Note: This homework comes with supplementary files which you can download
 ## Resources
 
 ### Scalable Vector Graphics
+SVG as a language to specify graphics looks much like HTML and modern browsers allow you to mix HTML and SVG. The SVG elements show up in the Document Object Model just like HTML elements do. Below is a simple example of an HTML document containing SVG that draws a red square.
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Small SVG example</title>
+</head>
+<body>
+	<svg width="400" height="400">
+		<rect x="100" y="100" width="200" height="200" fill="red">
+	</svg>
+</body>
+</html>
 
+A nice introduction to SVG can be found on the Mozilla Developer Network, while the World Wide Web Consortium has the official specifications for SVG.
 * [SVG tutorial] from the *Mozilla Developer Network*
 * [SVG Documentation] from the *Mozilla Developer Network*: Documentation on
   SVG elements and what dimensions are needed.
@@ -25,11 +39,6 @@ _SVG was also explained in the lectures._
 [SVG tutorial]: https://developer.mozilla.org/en-US/docs/SVG/Tutorial
 [W3Schools SVG tutorial]: http://www.w3schools.com/svg/default.asp
 
-### Javascript
-
-* [Javascript guide] from the *Mozilla Developer Network*.
-
-[Javascript guide]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 
 ### General
 The [Resources Page] with many more resources for the curious!
@@ -97,7 +106,8 @@ different countries than those you have changed via CSS in your chosen
 continent when the page loads. Make sure that these colors are different than
 those you have changed via CSS.
 
-Submit your completed files in a folder titled 2 containing `svg2.html`,
+### Submit
+Submit your completed files in a folder titled SVG2 containing `svg2.html`,
 `svg2.css`, and `main2.js`. Don't forget to change the references in
 `svg2.html` to reflect the changed stylesheet and js file names!
 
@@ -169,6 +179,14 @@ and also note that the above example may or may not be a good example of color
 choice). Also, explain your reasoning behind creating the bounds for each
 category in your encoding.
 
-Submit your completed files in a folder titled 3 containing `svg3.html`,
+### Submit
+Submit your completed files in a folder titled SVG3 containing `svg3.html`,
 `svg3.css`, and `main3.js`. Note that you may not need `svg3.css` here unless
 you would like to change additional styling with regard to text, margins, etc.
+
+
+### Checklist 
+
+* Are all the files present and in the correct relatice paths?
+* Does your scritp use a strict mode (i.e. does it start with "use strict"; and still works)?
+* Do you have enough comments and are your variable names appropriate?
