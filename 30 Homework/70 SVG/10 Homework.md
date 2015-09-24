@@ -3,7 +3,7 @@
 In this homework you will learn to manipulate maps using Javascript. The maps
 for the assignments below are in the Scalable Vector Graphics (SVG) format.
 Much like HTML SVG can be manipulated from Javascript through the Document
-Object Model (DOM). For this week's homework you will create 3 static maps
+Object Model (DOM). For this week's homework you will create 2 static maps
 using SVG, CSS and Javascript.
 
 Note: This homework comes with supplementary files which you can download
@@ -34,7 +34,7 @@ The [Resources Page] with many more resources for the curious!
 
 ## Problem 1: SVG Maps
 
-SVG, as described in class, is a vector­based alternative to the raster­based
+SVG, as described in class, is a vector-based alternative to the raster-based
 Canvas. It is especially useful in cases where you want to interactively modify
 your drawn shapes such as areas on a map.
 
@@ -173,6 +173,6 @@ you would like to change additional styling with regard to text, margins, etc.
 
 ### Checklist 
 
-* Are all the files present and in the correct relatice paths?
-* Does your scritp use a strict mode (i.e. does it start with "use strict"; and still works)?
+* Are all the files present and in the correct relative paths?
+* Does your script use a strict mode (i.e. does it start with "use strict"; and still works)?
 * Do you have enough comments and are your variable names appropriate?
