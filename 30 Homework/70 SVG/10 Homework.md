@@ -14,18 +14,20 @@ Note: This homework comes with supplementary files which you can download
 
 ### Scalable Vector Graphics
 SVG as a language to specify graphics looks much like HTML and modern browsers allow you to mix HTML and SVG. The SVG elements show up in the Document Object Model just like HTML elements do. Below is a simple example of an HTML document containing SVG that draws a red square.
-<!doctype html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<title>Small SVG example</title>
-</head>
-<body>
-	<svg width="400" height="400">
-		<rect x="100" y="100" width="200" height="200" fill="red">
-	</svg>
-</body>
-</html>
+	<!--
+	<!doctype html>
+	<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Small SVG example</title>
+	</head>
+	<body>
+		<svg width="400" height="400">
+			<rect x="100" y="100" width="200" height="200" fill="red">
+		</svg>
+	</body>
+	</html>
+	-->
 
 A nice introduction to SVG can be found on the Mozilla Developer Network, while the World Wide Web Consortium has the official specifications for SVG.
 * [SVG tutorial] from the *Mozilla Developer Network*
