@@ -41,7 +41,7 @@ Week 5:
     'Video lecture: Cognition': '/lectures/cognition'
     'Video lecture: Interaction': '/lectures/interaction'
     'Lab session [Monday 13:00]':
-    'Lab homework deadline [Tuesday 23:59]':
+    'Lab homework deadline [Friday 23:59]':
     'Homework: Interactivity': '/homework/interactivity'
     'Reading 5 deadline [Wednesday 23:59]':
     'Reading session [Thursday 13:00]':
@@ -50,7 +50,7 @@ Week 5:
 Week 6:
     'Video lecture: D3': '/labs/d3'
     'Lab session [Monday 13:00]':
-    'Lab homework deadline [Tuesday 23:59]':
+    'Lab homework deadline [Friday 23:59]':
     'Homework: SVG ': '/homework/svg'
     'Reading 6 + D3 deadline [Wednesday 23:59]':
     'Excursion to National eScience Symposium [Thursday 13:00]': 'https://www.esciencecenter.nl/?/symposium/'
