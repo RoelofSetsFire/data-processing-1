@@ -38,3 +38,8 @@ Read the following and answer the accompanying questions.
     1. How do the interaction concepts fit to their taxonomy?
 
 4. Cockburn et al. describe various interface design paradigms, among them the “fisheye view.” How would the fisheye view improve the usability of a visualization, and under what circumstances might it not?
+
+## Submit
+* Submit your answers in a A4-sized PDF. 
+* Cite the sources properly. 
+* Indicate which text are quotes (by. e.g. italicizing text and using quotation marks).
