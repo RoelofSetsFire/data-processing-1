@@ -107,7 +107,7 @@ div-element that you position absolutely on top of the two
 canvas-elements and slightly offset from the mouse pointer. First
 create this div make sure it shows the temperature and date of the
 point that is under the cross-hair. Make the tooltip move with the mouse (that
-is update is position when a mousemove-event is fired. 
+is update its position when a mousemove-event is fired). 
 
 The tooltip should not be showing the entire time and thus we will implement a 
 delay to the moment that it shows up. Make sure that the drawing and updating
