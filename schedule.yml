@@ -52,12 +52,11 @@ Week 6:
     'Lab session [Monday 13:00]':
     'Lab homework deadline [Friday 23:59]':
     'Homework: SVG ': '/homework/svg'
-    'Reading 6 + D3 deadline [Wednesday 23:59]':
+    'Reading 6 + D3 deadline [Wednesday 23:59]': '/readings/reading-6'
     'Excursion to National eScience Symposium [Thursday 13:00]': 'https://www.esciencecenter.nl/?/symposium/'
 Week 7:
     'Lab session [Monday 13:00]':
     'Lab homework deadline [Friday 23:59]':
     'Homework: D3': '/homework/d3'
     'Reading session [Thursday 13:00]':
-    'Reading 6 and 7': '/readings/reading-6'
     'Critique 6': '/critiques/critique-6'
