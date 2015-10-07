@@ -174,5 +174,4 @@ you would like to change additional styling with regard to text, margins, etc.
 ### Checklist 
 
 * Are all the files present and in the correct relative paths?
-* Does your script use a strict mode (i.e. does it start with "use strict"; and still works)?
 * Do you have enough comments and are your variable names appropriate?
