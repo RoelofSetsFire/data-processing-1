@@ -1,7 +1,7 @@
 # D3
 
 For this week's homework you will work with the [D3 library][D3website] to
-create a number of graphs and implement an interactive map.
+re-create a temperature graph and implement an interactive map.
 
 [D3website]: http://d3js.org/
 
@@ -24,12 +24,7 @@ create a number of graphs and implement an interactive map.
 
 ## Introduction
 
-In this homework, you will work with JavaScript, SVG and D3. As always, if you
-need help, the first place you should check is Piazza because someone else may
-have already posted about the same problems or questions as you!
-
-Note: This homework comes with supplementary files which you can download
-[here](HW_8_Supplementary_Files.zip).
+In this homework, you will work with JavaScript, SVG and D3. 
 
 ## Problem 1: Readings on D3 and SVG
 
@@ -56,14 +51,14 @@ helpful for this homework or future projects!
 5. What are the main differences between drawing a bar chart with HTML and SVG?
 
 6. In drawing the simple bar chart with D3 and SVG, what elements were
-   appended, and to what parts of the graph did these element correspond?
+   appended, and to what parts of the graph did these elements correspond?
 
 
 ## Problem 2: Implement a Line Graph with D3
 
-For this assignment you will create a line graph that is not interactive. The
-data you use for this assignment is up to you (as long as the data points have
-at least two variables that can use an positional encoding).
+For this assignment you will create a line graph based on the KNMI dataset (that we used last week).
+Create a new HTML file that loads the D3 script (make sure that you have this file saved locally).
+Create separte JavaScript file for your program.
 
 Before you get started, take a look at [these D3 examples] for a simple line
 graph and a multiseries line graph. Note for the simple line graph, the
@@ -73,7 +68,7 @@ from scratch, not just copy from the examples.
 [these D3 examples]: https://github.com/mbostock/d3/wiki/Gallery
 
 The most convenient way to load your data set is to put in JSON format and to
-then load it using the `d3.json` function. 
+then load it using the `d3.json` function. You can also use a CSV file, as long as you load your data from a separate file and use the proper d3 function to load it.
 
 
 ### Instructions
@@ -108,22 +103,11 @@ comment) elements. Try to go through the different lines and understand what is
 being done. For example, `d3.extent(data)` returns an array with the minimum
 and maximum element from its argument. Consider what each attr does.
 
-Submit your completed files in a folder titled `d3line` containing `d3line.html` and
+Submit your completed files in a folder titled `d3line` containing `d3line.html` , `d3line.js` and
 `d3line.css`.
 
 
-## Problem 3: D3 scatter plot
-
-For this problem you will create a scatter plot using D3. The data you use
-can be same data as you used for the line graph, or it can be some new
-data set. Look up an example of a scatter plot in the D3 examples, and use
-it as a guide to constructing a scatter plot. If your data points have a 
-third value (beyond the X and Y values), you could encode that for instance
-as the size of your marks. While you can choose what marks to use for each
-of the data points it is suggested you use circles.
-
-
-## Problem 4: Interactive map with D3
+## Problem 3: Interactive map with D3
 
 In this problem you will be analyzing your geographical data with D3, the idea
 is to find a data set that has data for each country (or most countries) in the
@@ -181,10 +165,9 @@ would like to change additional styling with regard to text, margins, etc.
 
 ## Submit instructions
 
-1. Your map from each stage of the process, contained in a folder:
+1. Create folder D3 in your master branch and push the following files:
    * 1: `d3questions.pdf`
-   * 2: `d3line.html`, `d3line.css`, and `d3line.js`
-   * 3: `d3scatter.html` and `d3scatter.css`
-   * 4: `d3map.html`, `d3map.css`, and `d3map.js`
+   * 2: `d3line.html`, `d3line.css`, and `d3line.js`, contained in a folder `d3line`
+   * 3: `d3map.html`, `d3map.css`, and `d3map.js`, contained in a folder `d3map`
 
 2. Any libraries used, including d3 if linked to a local copy.
