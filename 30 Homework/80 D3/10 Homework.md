@@ -68,40 +68,25 @@ from scratch, not just copy from the examples.
 [these D3 examples]: https://github.com/mbostock/d3/wiki/Gallery
 
 The most convenient way to load your data set is to put in JSON format and to
-then load it using the `d3.json` function. You can also use a CSV file, as long as you load your data from a separate file and use the proper d3 function to load it.
+then load it using the `d3.json` function. You can also use a CSV file, as long as you load your data from a separate file and use the proper d3 function to load it. Note that these loading functions take callbacks and that the
+file loading is done asynchronously, so the data will only be available in
+the scope of the callback. As an aside: if you want to load several files
+that all need to be available before your program can run look into 
+[queue.js]: [https://github.com/mbostock/queue].
 
+Now create a line plot using the D3 functionality, make sure that you properly
+label the axes, that the plot has a title and that the data source is 
+explained. Make sure that the date axis uses JavaScript dates, something that is
+quite easy using d3.time.format function.
 
-### Instructions
-
-Start by reading the relevant example and use it as a guide to building your
-graph.
-
-
-### Set up the scales and axes
-
-This is about the first 30 lines in the script from the example. You may need
-to change the x scaling and format a bit more depending on if your date is in a
-different format or your x values are not dates. For more about time formatting
-in D3 see the time formatting documentation.
-
-### Use your JSON data
-
-You will need to work with your JSON data as Arrays. If your points were
-formatted similar to the example in HW5, you should have something like
-`{...,“points”:[[x0,y0],[x1, y1],...],...}`. Otherwise, you may need to do a
-little extra processing such as with `d3.entries()`. You will need to isolate
-your array of points, make sure the points are in the right order, and do any
-manipulation to the types. For example, the time formatting mentioned above.
-Here is the documentation on D3 Arrays. Some helpful functions are
-`array.forEach` and `array.reverse`.
-
-### Create the graph
-
-This will follow the rest of the example. When modifying these lines, keep in
-mind that each of your points is an Array of two (or more, if there is a
-comment) elements. Try to go through the different lines and understand what is
-being done. For example, `d3.extent(data)` returns an array with the minimum
-and maximum element from its argument. Consider what each attr does.
+D3 also supports interactivity, in particular the selection.on
+function allows you to bind event listeners to DOM elements. Recreate the 
+moving cross-hair from week 5's assignment by binding an event listener
+to the appropriate DOM element. Note that D3 also makes dealing with mouse
+coordinates easier, see d3.mouse, and that the D3 scales
+have an invert function. Recreate the pop-up of week 5 as well, 
+here you can use D3 to manipulate the DOM, but the use of setTimeout
+is no different from that of week 5.
 
 Submit your completed files in a folder titled `d3line` containing `d3line.html` , `d3line.js` and
 `d3line.css`.
