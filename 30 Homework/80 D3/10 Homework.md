@@ -96,15 +96,14 @@ Submit your completed files in a folder titled `d3line` containing `d3line.html`
 
 In this problem you will be analyzing your geographical data with D3, the idea
 is to find a data set that has data for each country (or most countries) in the
-world and use that data to make a choropleth. Data you could use are the number
+world and use that data to make a choropleth map. Data you could use are the number
 of inhabitants, the GDP, or the population density.
 
-D3 contains an add­on called datamaps which you can get at
+D3 contains an add-on called datamaps which you can get at
 <http://datamaps.github.com>. Datamaps will replace your svg map for this
 problem. Check out its various examples of usage, including
-<http://bl.ocks.org/markmarkoh/4127667>. Adapt Problem 3 so as to visualize the
-same data, but this time using D3 and datamaps. Specifically, you will need to
-adapt your JSON format to be compatible with that expected by datamaps. For
+<http://bl.ocks.org/markmarkoh/4127667>. You could use  the same data as for the previous assignment, but this time using D3 and datamaps. Specifically, you will need to
+adapt your data format to be compatible with that expected by datamaps. For
 example, if you were to modify the example at 
 <http://bl.ocks.org/markmarkoh/4127667>, you will need to figure out the 
 three-letter country codes:
@@ -135,7 +134,7 @@ country names as well as the raw values of your data appear on mouse over. You
 can choose how to show this information, either as a tool tip or a label inside
 or aside the country. In addition you should also implement some sort of
 highlighting mechanism, e.g., changing the fill (color or opacity) or stroke of
-the country that is being moused­over.
+the country that is being moused-over.
 
 ### Discuss your interactivity choices
 
@@ -144,8 +143,8 @@ briefly explain the design choices you made with
 regard to interactivity. What kind of mouseover effects did you enable and why?
 What visual queries does your map support and what ones does it not?
 
-Submit your completed files in a folder titled 5 containing d3map.html,
-d3map.css, and d3map.js. Note that you may not need d3map.css here unless you
+Submit your completed files in a folder titled `d3map` containing `d3map.html`,
+`d3map.css`, and `d3map.js`. Note that you may not need `d3map.css` here unless you
 would like to change additional styling with regard to text, margins, etc.
 
 ## Submit instructions
