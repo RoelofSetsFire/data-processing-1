@@ -72,7 +72,9 @@ then load it using the `d3.json` function. You can also use a CSV file, as long 
 file loading is done asynchronously, so the data will only be available in
 the scope of the callback. As an aside: if you want to load several files
 that all need to be available before your program can run look into 
-[queue.js]: [https://github.com/mbostock/queue].
+[queue.js].
+
+[queue.js]: [https://github.com/mbostock/queue]
 
 Now create a line plot using the D3 functionality, make sure that you properly
 label the axes, that the plot has a title and that the data source is 
