@@ -5,7 +5,7 @@ Week 1:
     'Reading session group B1 [Wednesday 13:00]':
     'Reading 1': '/readings/reading-1'
     'Critique 1': '/critiques/critique-1'
-    'Lab session [Monday 13:00 and Friday 13:00]':
+    'Lab session [Monday 13:00 and Thursday 13:00]':
     'Homework deadline [Friday 23:59]':
     'Homework: Preparations': '/homework/preparations'
     'Homework: Scraping IMDB': '/homework/scraping'
@@ -19,7 +19,7 @@ Week 2:
     'Reading session group B1 [Wednesday 13:00]':
     'Reading 2': '/readings/reading-2'
     'Critique 2': '/critiques/critique-2'
-    'Lab session [Monday 13:00 and Friday 13:00]':
+    'Lab session [Monday 13:00 and Thursday 13:00]':
     'Lab homework deadline [Friday 23:59]':
     'Homework: Crawling IMDB': '/homework/crawling'
     'Homework: Javascript warming-up': '/homework/javascript'
@@ -32,7 +32,7 @@ Week 3:
     'Reading session group B1 [Wednesday 13:00]':
     'Reading 3': '/readings/reading-3'
     'Critique 3': '/critiques/critique-3'
-    'Lab session [Monday 13:00 and Friday 13:00]':
+    'Lab session [Monday 13:00 and Thursday 13:00]':
     'Lab homework deadline [Friday 23:59]':
     'Homework: Javascript': '/homework/javascript'
 Week 4:
@@ -44,7 +44,7 @@ Week 4:
     'Reading session group B1 [Wednesday 13:00]':
     'Reading 4': '/readings/reading-4'
     'Critique 4': '/critiques/critique-4'
-    'Lab session [Monday 13:00 and Friday 13:00]':
+    'Lab session [Monday 13:00 and Thursday 13:00]':
     'Lab homework deadline [Friday 23:59]':
     'Homework: Interactivity': '/homework/interactivity'
 Week 5:
@@ -56,7 +56,7 @@ Week 5:
     'Reading session group B1 [Wednesday 13:00]':
     'Reading 5': '/readings/reading-5'
     'Critique 5': '/critiques/critique-5'
-    'Lab session [Monday 13:00 and Friday 13:00]':
+    'Lab session [Monday 13:00 and Thursday 13:00]':
     'Lab homework deadline [Friday 23:59]':
     'Homework: SVG ': '/homework/svg'
 Week 6:
@@ -65,7 +65,7 @@ Week 6:
     'Reading 6 + D3 deadline [TUesday 16:59]': '/readings/reading-6'
     'Reading session group B2 [Wednesday 11:00]':
     'Reading session group B1 [Wednesday 13:00]':
-    'Lab session [Monday 13:00 and Friday 13:00]':
+    'Lab session [Monday 13:00 and Thursday 13:00]':
     'Lab homework deadline [Friday 23:59]':
     'Homework: D3': '/homework/d3'
 Week 7:
@@ -75,6 +75,6 @@ Week 7:
     'Reading session group B2 [Wednesday 11:00]':
     'Reading session group B1 [Wednesday 13:00]':
     'Critique 6': '/critiques/critique-6'
-    'Lab session [Monday 13:00 and Friday 13:00]':
+    'Lab session [Monday 13:00 and Thursday 13:00]':
     'Lab homework deadline [Friday 23:59]':
     'Homework: D3': '/homework/d3'
