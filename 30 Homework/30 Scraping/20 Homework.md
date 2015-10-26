@@ -113,7 +113,7 @@ from IMDB.
 
 [output.csv]: output.csv
 [test-tvscraper.py]: test-tvscraper.py
-[preparations]: http://data3.mprog.nl/homework/preparations
+[preparations]: http://data.mprog.nl/homework/preparations
 
 ### Building `scraper.py`
 
