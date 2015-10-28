@@ -47,6 +47,12 @@ only be graded pass or fail.
 This exercise come with supplementary files which you can download [here](javascriptWarmingup.zip).
 Find 'script.js' file and follow the instructions. 
 
+## Checks before submitting
+
+* Did you create a folder Javascript in your repo?
+* Does your submission contain a PDF with the answers to the 
+          questions in Section "Questions" and implementation of the warming-up exercises?
+
 # Javascript: line graph 
 
 The assignments of week 4 and 5 are to create an interactive graph of
@@ -143,7 +149,7 @@ to milliseconds since January 1st 1970. These milliseconds can
 then be transformed into days since the start of your data (so the x-axis
 would run from 1 through 365 or 366 days depending on the year you chose).
 
-[Figure 1] shows you a very simple version of the plot you have to create for this week. 
+Figure below shows you a very simple (and definitely not complete) version of the plot you have to create for this week. 
 ![figure1](screenshot.png)
 
 ## Extra credit
@@ -155,10 +161,6 @@ would run from 1 through 365 or 366 days depending on the year you chose).
 
 ## Checks before submitting
 
-* Did you create a folder Javascript in your repo?
-* Warming-up: does your submission contain a PDF with the answers to the 
-          questions in Section "Questions" and implementation of the warming-up exercises?
-* Javascript line graph: does your submission contain complete
-          implementation of the temperature graph?
+* Does your submission contain complete implementation of the temperature graph?
 
 [guidlines]: guidlines.pdf
