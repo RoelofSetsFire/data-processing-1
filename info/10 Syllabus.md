@@ -58,6 +58,11 @@ homework assignments, including answers to the reading questions.
 
 ## Grades
 
-Final grades are determined based on the grades you have received for each of
-the seven homework assignments. Class participation is required to receive a
-passing grade for the course.
+Participation in design critique, reading assignments, and programming homeworks and final written assignment will all be part of your final grade. Non-effort in any of these will lead to a failing grade for the course, regardless of compensation. But if you do the work and interact regularly with instructor and fellow students, you should be able to make it!
+
+Grading specification:
+
+* programming homeworks week 1 - 7: 70%
+* written assignment week 8: 30%
+
+A student must ordinarily meet all deadlines in order to be eligible for a passing grade unless granted an exception in writing by the course’s instructor. 
