@@ -15,3 +15,13 @@ Questions for discussion:
 * How is each data type visually encoded?
 * How do the visual elements and user interactions support the tasks?
 * Why do you like / dislike this visualization?
+
+
+Interesting visualization:
+
+* [Arab spring]
+
+
+[Arab spring]: http://www.theguardian.com/world/interactive/2011/mar/22/middle-east-protest-interactive-timeline
+
+
