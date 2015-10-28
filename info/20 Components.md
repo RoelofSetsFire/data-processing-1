@@ -55,17 +55,17 @@ When answering those please be brief and to the point!
 To give you an opportunity to discuss the contents of each week's reading
 assignment and video lectures a reading group meeting is organized each week.
 Attendence to the reading group meetings is mandatory (you are allowed to 
-miss one over the course of block 4). Discussing the readings and video
+miss one over the course of a block). Discussing the readings and video
 lectures should help in doing the homework.
 
-The design critique sessions are organized each thursday to offer an opportunity
+The design critique sessions are organized each Wednesday to offer an opportunity
 to discuss visualizations that are interesting. We will pick apart each 
 visualization so that you may learn from them. Students are encouraged to
 bring along visualizations they deem interesting.
 
 ## Labs
 
-On Monday, there is a lab session where you can discuss your work with the
+On Monday and Thursday, there is a lab session where you can discuss your work with the
 course's staff and get feedback on your earlier work. It is recommended that
 you attend labs to get to know your fellow students and make use of each
 other's understanding of the homework assignments and lectures.
