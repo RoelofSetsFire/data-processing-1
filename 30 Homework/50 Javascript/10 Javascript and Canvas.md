@@ -47,7 +47,7 @@ only be graded pass or fail.
 This exercise come with supplementary files which you can download [here](javascriptWarmingup.zip).
 Find 'script.js' file and follow the instructions. 
 
-# Javascript: interactive graph 
+# Javascript: line graph 
 
 The assignments of week 4 and 5 are to create an interactive graph of
 the temperature at the De Bilt weather station. The data for these
@@ -129,10 +129,7 @@ to at least draw lines, rectangles, circles and text (and how to rotate text).
 ## Transforming the data to screen coordinates
 
 The canvas-element provides its own coordinate system, you will have
-to transform you raw data to these coordinates to draw the graph. [Figure 1] shows you a very simple version of the plot you have to create for this week. 
-
-
-![figure1](screenshot.png)
+to transform you raw data to these coordinates to draw the graph. 
 
 Last week you have implemented a function createTransform that you have to apply in this week assignment. 
 This function will work directly on your 
@@ -145,6 +142,9 @@ to use the Date.getTime() method to change all date
 to milliseconds since January 1st 1970. These milliseconds can
 then be transformed into days since the start of your data (so the x-axis
 would run from 1 through 365 or 366 days depending on the year you chose).
+
+[Figure 1] shows you a very simple version of the plot you have to create for this week. 
+![figure1](screenshot.png)
 
 ## Extra credit
 * Create an x-axis that uses calendar dates (in stead of days since the first date in the data set.
