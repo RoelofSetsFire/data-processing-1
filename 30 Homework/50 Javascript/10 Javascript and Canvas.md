@@ -1,6 +1,6 @@
 # JavaScript
 
-The homeworks of week 4 and 5 are about JavaScript. JavaScript is the only programming language that is supported by
+The homeworks of coming weeks are about JavaScript. JavaScript is the only programming language that is supported by
 all modern web browsers and it is the least intrusive way of adding 
 interactive elements to a web page as it requires no plug-ins or other
 special extensions. We will be using JavaScript to implement a number of
@@ -21,8 +21,33 @@ use both techniques to create visualizations.
 
 [Eloquent JavaScript]: http://eloquentjavascript.net/
 
-##Introduction
+# JavaScript warming-up
 
+## Reading Assignment and Resources
+
+Read chapters 1 through 5 and chapters 12 and 13 of [Eloquent 
+JavaScript]. The first few chapters should be a quick read and the later chapters
+explain how JavaScript integrates in the browser and how the Document
+Object Model (DOM) is used from JavaScript. The Mozilla Developer 
+Network [MDN] contains up-to-date information on client-side web technologies (i.e. about HTML,
+CSS and JavaScript) and can serve as a reference. 
+
+[MDN]: https://developer.mozilla.org
+
+## Questions
+Answer the following questions in your own words. This assignment will
+only be graded pass or fail.
+
+* Explain the difference between the == operator and the === operator.
+* Explain what a closure is. (Note that JavaScript programs use closures very often.)
+* Explain what higher order functions are.
+* Explain what a query selector is and give an example line of JavaScript that uses a query selector.
+
+## Warming-up exercise
+This exercise come with supplementary files which you can download [here](javascriptWarmingup.zip).
+Find 'script.js' file and follow the instructions. 
+
+# Javascript: interactive graph 
 
 The assignments of week 4 and 5 are to create an interactive graph of
 the temperature at the De Bilt weather station. The data for these
@@ -42,30 +67,7 @@ write the JavaScript to show a simple line graph. The second week
 we will extend the graph to support interactivity.
 
 
-## Reading Assignment and Resources
-
-Read chapters 1 through 5 and chapters 12 and 13 of [Eloquent 
-JavaScript]. The first few chapters should be a quick read and the later chapters
-explain how JavaScript integrates in the browser and how the Document
-Object Model (DOM) is used from JavaScript. The Mozilla Developer 
-Network [MDN] contains up-to-date information on client-side web technologies (i.e. about HTML,
-CSS and JavaScript) and can serve as a reference. 
-
-[MDN]: https://developer.mozilla.org
-
-
-### Questions
-Answer the following questions in your own words. This assignment will
-only be graded pass or fail.
-
-* Explain the difference between the == operator and the === operator.
-* Explain what a closure is. (Note that JavaScript programs use closures very often.)
-* Explain what higher order functions are.
-* Explain what a query selector is and give an example line of JavaScript that uses a query selector.
-
-
-
-### Acquiring the Weather Data
+## Acquiring the Weather Data
 Visit [KNMI webpage] that allows you to download raw weather station data in
 CSV format. Select the De Bilt weather station, select the maximum temperature
 records and choose a year for which you want to create a temperature 
@@ -77,7 +79,7 @@ meta-data allows you to correctly interpret the raw data in the rest of the file
 [KNMI webpage]: http://projects.knmi.nl/klimatologie/daggegevens/selectie.cgi
 
 
-### Reformatting and Loading the Data
+## Reformatting and Loading the Data
 
 For this assignment it is OK to add any JavaScript you write inside a script
 tag at the very end of the HTML body. Handing in your code as a separate
@@ -115,10 +117,7 @@ JavaScript dates use the Date function:
 new Date('2014/01/01') (make sure that the date string
 matches the example's formatting).
 
-
-
-
-### The canvas-element
+## The canvas-element
 
 The HTML 5 canvas element allows JavaScript to draw pictures, the Mozilla
 Developer Network has a small [tutorial] on the canvas-element that you should read. For this assignment you
@@ -127,54 +126,18 @@ to at least draw lines, rectangles, circles and text (and how to rotate text).
 
 [tutorial]: https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D
 
-
-### Transforming the data to screen coordinates
+## Transforming the data to screen coordinates
 
 The canvas-element provides its own coordinate system, you will have
-to transform you raw data to these coordinates to draw the graph. [Figure 1] shows you a very simple version of the plot you have to
-create for this week. 
+to transform you raw data to these coordinates to draw the graph. [Figure 1] shows you a very simple version of the plot you have to create for this week. 
 
 
 ![figure1](screenshot.png)
 
-The position encodings for this graph only need linear
-transforms, one for the x-axis and one for the y-axis, of the following form:
-
-x<sub>screen</sub> = f(x<sub>data</sub>) = alpha * x<sub>data</sub> + beta 
-
-
-Because finding the two constants *alpha* and *beta* is a bit tedious we 
-will create a function that can do it for us. We will use JavaScript's 
-support for *closures* to create a function *createTransform*
-that calculates *alpha* and *beta* and returns a transformation function. The
-following snippet of code demonstrates this technique, but you will have to
-implement the actual calculation yourself.
-
-	function createTransform(domain, range){
-		\\ domain is a two-element array of the domain's bounds
-		\\ range is a two-element array of the range's bounds
-		\\ implement the actual calculation here
-		var alpha = ...;
-		var beta = ...;
-
-		return function(x){
-			return alpha * x + beta;
-		};
-	}
-
-	\\ to use this for instance:
-	var tranform = createTransform([10, 20], [10, 20]);
-	console.log(transform(15));  // should log 15
-
-To test this function you can make a transformation that transforms the 
-domain *[10, 20]* to the range *[10, 20]* and see whether points are
-transformed to themselves. This function will work directly on your 
+Last week you have implemented a function createTransform that you have to apply in this week assignment. 
+This function will work directly on your 
 temperature data, but for the dates along the x-axis there is an extra 
-complication. An example of a transformation (for either the x or y 
-coordinate) is given in [Figure 2].
-
-
-![figure2](transformation.png) 
+complication.
 
 The x-transform needs to deal with dates, and any calculations involving
 calendars tend to get complicated quickly. For this assignment it is ok
@@ -183,18 +146,19 @@ to milliseconds since January 1st 1970. These milliseconds can
 then be transformed into days since the start of your data (so the x-axis
 would run from 1 through 365 or 366 days depending on the year you chose).
 
-### Extra credit
+## Extra credit
 * Create an x-axis that uses calendar dates (in stead of days since the first date in the data set.
 * Loading the data from file (you will need XMLHTTPRequest).
 * Nice graphical presentation will be credited.
 
 
 
-### Checks before submitting
+## Checks before submitting
 
-
-* Does your submission contain a PDF with the answers to the 
-          questions in Section "Questions" and the complete
+* Did you create a folder Javascript in your repo?
+* Warming-up: does your submission contain a PDF with the answers to the 
+          questions in Section "Questions" and implementation of the warming-up exercises?
+* Javascript line graph: does your submission contain complete
           implementation of the temperature graph?
 
 [guidlines]: guidlines.pdf
