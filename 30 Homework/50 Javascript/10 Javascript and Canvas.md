@@ -55,7 +55,7 @@ Find 'script.js' file and follow the instructions.
 
 # Javascript: line graph 
 
-The assignments of week 4 and 5 are to create an interactive graph of
+The assignments of week 3 and 4 are to create an interactive graph of
 the temperature at the De Bilt weather station. The data for these
 assignments can be freely downloaded from the KNMI (the Royal Dutch
 Meteorological Institute) web pages.
