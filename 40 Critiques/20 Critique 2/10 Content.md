@@ -1,8 +1,10 @@
 # Design Critique 2
 
 In your breakout group, use the following visualizations for your design
-critique: http://iibh.apphb.com/ (Confluence by Harshawardhan Nene and Kedar
-Vaidya)
+critique: 
+* [Confluence by Harshawardhan Nene and Kedar Vaidya]
+
+[Confluence by Harshawardhan Nene and Kedar Vaidya]:  http://iibh.apphb.com/
 
 Questions for discussion:
 
