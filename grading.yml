@@ -1,0 +1,15 @@
+calculation:
+    normal:
+        psets: 100
+
+psets:
+    type: float
+    grades:
+        github: 1
+        week2: 1
+        week3: 1
+        week4: 1
+        week5: 1
+        week6: 1
+        week7: 1
+        week8: 3
