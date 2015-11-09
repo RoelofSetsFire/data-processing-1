@@ -1,7 +1,6 @@
-# Design Critique 5
+# Design Critique 6
 
-<http://www.wefeelfine.org> (flash required).
-
+<http://well-formed.eigenfactor.org/radial.html>
 
 Conversation starters for the critique: [critique.pdf]
 
