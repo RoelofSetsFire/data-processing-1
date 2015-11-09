@@ -1,5 +1,5 @@
 formulas:
-    github: (scope * (3 * correctness + 2 * design + 1 * style) / 150.0 * 9 + 1).round(1)
+    github: (scope * (3 * correctness + 2 * design) / 150.0 * 9 + 1).round(1)
     
 calculation:
     normal:
