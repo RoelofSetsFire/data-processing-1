@@ -1,9 +1,13 @@
+formulas:
+    github: (scope * (3 * correctness + 2 * design + 1 * style) / 150.0 * 9 + 1).round(1)
+    
 calculation:
     normal:
         psets: 100
 
 psets:
     type: float
+    drop: scope
     grades:
         github: 1
         week2: 1
