@@ -1,3 +1,12 @@
+formulas:
+    github: (scope * (3 * correctness + 2 * design) / 150.0 * 9 + 1).round(1)
+    week2: (scope * (3 * correctness + 2 * design) / 150.0 * 9 + 1).round(1)
+    week3: (scope * (3 * correctness + 2 * design) / 150.0 * 9 + 1).round(1)
+    week4: (scope * (3 * correctness + 2 * design) / 150.0 * 9 + 1).round(1)
+    week5: (scope * (3 * correctness + 2 * design) / 150.0 * 9 + 1).round(1)
+    week6: (scope * (3 * correctness + 2 * design) / 150.0 * 9 + 1).round(1)
+    week7: (scope * (3 * correctness + 2 * design) / 150.0 * 9 + 1).round(1)
+	
 calculation:
     normal:
         psets: 100
