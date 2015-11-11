@@ -2,7 +2,7 @@
 
 Read the following articles and answer the accompanying questions.
 
-* Colin Ware, Chapter 3, Chapter 4
+* Colin Ware "Visual thinking for design", Chapter 3, Chapter 4
 
 * D. Borland and R. M. Taylor II, "[Rainbow Color Map (Still) Considered
   Harmful][1]", IEEE Computer Graphics and Applications, vol. 27, no. 2, pp.
