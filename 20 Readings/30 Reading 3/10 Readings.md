@@ -1,8 +1,8 @@
 # Reading 3
 
-Read the following articles and answer these questions.
+Read the following chapters and answer the questions.
 
-* Colin Ware, Chapter 1 and Chapter 2.
+* Colin Ware, Chapter 1 and Chapter 2. ("Visual Thinking for design")
 
 
 
