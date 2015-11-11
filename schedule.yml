@@ -39,7 +39,7 @@ Week 4:
     'Lecture [Monday 11:00]':
     'Video lecture: Perception': '/lectures/perception'
     'Video lecture: Color': '/lectures/color'
-    'Reading 4 deadline [Tuesday 16:59]':
+    'Reading 4 deadline [Friday 23:59]':
     'Reading session group B2 [Wednesday 11:00]':
     'Reading session group B1 [Wednesday 13:00]':
     'Reading 4': '/readings/reading-4'
@@ -51,7 +51,7 @@ Week 5:
     'Lecture [Monday 11:00]':
     'Video lecture: Cognition': '/lectures/cognition'
     'Video lecture: Interaction': '/lectures/interaction'
-    'Reading 5 deadline [Tuesday 16:59]':
+    'Reading 5 deadline [Friday 23:59]':
     'Reading session group B2 [Wednesday 11:00]':
     'Reading session group B1 [Wednesday 13:00]':
     'Reading 5': '/readings/reading-5'
@@ -62,22 +62,25 @@ Week 5:
 Week 6:
     'Lecture [MOnday 11:00]':
     'Video lecture: D3': '/labs/d3'
-    'Reading 6 + D3 deadline [TUesday 16:59]': '/readings/reading-6'
+    'Reading 6 + D3 deadline [Friday 23:59]': 
     'Reading session group B2 [Wednesday 11:00]':
     'Reading session group B1 [Wednesday 13:00]':
+    'Reading 6':'/readings/reading-6'
+    'Design critique 6':'/critiques/critique-6'
     'Lab session [Monday 13:00 and Thursday 13:00]':
     'Lab homework deadline [Friday 23:59]':
     'Homework: D3': '/homework/d3'
 Week 7:
     'Lecture [Monday 11:00]':
     'Video lecture': '/talks/storytelling'
-    'Reading 7 deadline [Tuesday 16:59]':
+    'Reading 7 deadline [Friday 23:59]':
     'Reading session group B2 [Wednesday 11:00]':
     'Reading session group B1 [Wednesday 13:00]':
-    'Design critique 6': '/critiques/critique-6'
+    'Reading 7':'/readings/reading-7'
+    'Design critique 7': '/critiques/critique-7'
     'Lab session [Monday 13:00 and Thursday 13:00]':
     'Lab homework deadline [Friday 23:59]':
-    'Homework: D3': '/homework/d3'
+    'Homework: Mini-project': '/homework/miniproject'
 Week 8:
     'Design critique assignment': '/critiques/critique-8'
     'Written assignment deadline [Friday 23:59]': 
