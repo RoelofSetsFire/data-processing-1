@@ -4,28 +4,16 @@ Read the following and answer the accompanying questions.
 
 * Colin Ware, Chapter 5, Chapter 6
 
-* J. Heer and B. Shneiderman, "[Interactive Dynamics for Visual Analysis][1]",
-  ACM Queue, Feb 1, 2012.
+* M. Bostock, V. Ogievetsky, and J. Heer, "[D3: Data-Driven Documents][1]",
+  IEEE Transactions on Visualization and Computer Graphics, vol. 17, no. 12,
+  pp. 2301 –2309, Dec. 2011.
 
-* A. Cockburn, A. Karlson, and B. B. Bederson, "[A review of
-  overview+detail, zooming, and focus+context interfaces][2]", ACM Computing
-  Surveys (CSUR), vol. 41, no. 1, pp. 1–31, 2008.
+* J. Heer, M. Bostock, and V. Ogievetsky, "[A tour through the visualization
+  zoo][2]", Commun. ACM, vol. 53, no. 6, pp. 59–67, Jun. 2010.
 
-[1]: cdn://excerpts/w5/p30-heer.pdf
-[2]: cdn://excerpts/w5/Cockburn_overview_detail.pdf
+[1]: cdn://excerpts/w6/Bostock_D3.pdf
+[2]: cdn://excerpts/w6/Heer_tour_through_the_visualization_zoo.pdf
 
-## Recommended Readings
-
-* J. Heer and G. G. Robertson, "[Animated Transitions in Statistical Data
-  Graphics][3]", IEEE Transactions on Visualization and Computer Graphics, vol.
-  13, no. 6, pp. 1240–1247, Dec. 2007. (project page with video)
-
-* R. Kosara, H. Hauser, and D. L. Gresh, "[An Interaction View on Information
-  Visualization][4]", in State-of-the-Art Proceedings of EUROGRAPHICS 2003 (EG
-  2003), 2003, pp. 123–137.
-
-[3]: cdn://excerpts/w5/Heer_Animated_Transitions.pdf
-[4]: cdn://excerpts/w5/Kosara_Interaction_View.pdf
 
 ## Questions
 
@@ -33,11 +21,11 @@ Read the following and answer the accompanying questions.
 
 2. In Chapter 6, Ware presents some implications of pattern recognition and visual working memory on design. Provide an example that harnesses some of these principles (perhaps an advertisement, visualization, or interface) and discuss how the design takes these principles into account. Please include a screenshot, photo, or website URL.
 
-3. Pick three concepts covered in Lecture 9 - Interaction (e.g., Brushing & Linking) and relate them to the taxonomy presented in Heer & Shneiderman Table
+3. According to Bostock et. al., what are the primary advantages of D3? Based on your reading of the article, please provide an example of a type of visualization that would be easier and better implemented in D3 as opposed to HTML5, JSON, and Javascript. Please list the pros and cons of choosing D3 over pure HTML5, JSON and Javascript.
 
-    1. How do the interaction concepts fit to their taxonomy?
+4. Of the visualization figures presented in Heer et. al., which do you find the most difficult to comprehend? Does the complexity of the figure interfere with the goal of visualization as described in the article? Include a screenshot of the figure you have chosen in your response and use principles that you have learned so far (i.e., from design, perception, and cognition) to justify your choice.
 
-4. Cockburn et al. describe various interface design paradigms, among them the “fisheye view.” How would the fisheye view improve the usability of a visualization, and under what circumstances might it not?
+3. Play around with the interactive graphs included in the Heer article. You need to open this page in a browser that runs Java. Focus on Figure 1A. To what extent do interactivity and transitions, elements that D3 optimizes, add to the clarity and message of the visualization? With the element of interactivity in mind, redesign and sketch the contents of figure 1A with one of the other visualization types described in the Heer article. Include a picture of a sketch of your idea, and describe how it supports comprehension and data exploration.
 
 ## Submit
 * Submit your answers in a A4-sized PDF. 
