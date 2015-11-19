@@ -50,7 +50,7 @@ Week 4:
 Week 5:
     'Lecture [Monday 11:00]':
     'Video lecture: Cognition': '/lectures/cognition'
-    'Video lecture: Interaction': '/lectures/interaction'
+    'Video lecture: D3': '/labs/d3'
     'Reading 5 deadline [Friday 23:59]':
     'Reading session group B2 [Wednesday 11:00]':
     'Reading session group B1 [Wednesday 13:00]':
@@ -60,8 +60,9 @@ Week 5:
     'Lab homework deadline [Friday 23:59]':
     'Homework: SVG ': '/homework/svg'
 Week 6:
-    'Lecture [MOnday 11:00]':
-    'Video lecture: D3': '/labs/d3'
+    'Lecture [Monday 11:00]':
+    'Video lecture: Interaction': '/lectures/interaction'
+    'Video lecture: Maps': '/lectures/maps'
     'Reading 6 + D3 deadline [Friday 23:59]': 
     'Reading session group B2 [Wednesday 11:00]':
     'Reading session group B1 [Wednesday 13:00]':
