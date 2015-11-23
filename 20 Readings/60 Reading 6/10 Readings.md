@@ -7,12 +7,9 @@ Read the following and answer the accompanying questions.
 * J. Heer and B. Shneiderman, "[Interactive Dynamics for Visual Analysis][1]",
   ACM Queue, Feb 1, 2012.
 
-* A. Cockburn, A. Karlson, and B. B. Bederson, "[A review of
-  overview+detail, zooming, and focus+context interfaces][2]", ACM Computing
-  Surveys (CSUR), vol. 41, no. 1, pp. 1–31, 2008.
 
 [1]: cdn://excerpts/w5/p30-heer.pdf
-[2]: cdn://excerpts/w5/Cockburn_overview_detail.pdf
+
 
 ## Recommended Readings (linked for your convenience):
 
@@ -30,6 +27,6 @@ Read the following and answer the accompanying questions.
 
     1. How do the interaction concepts fit to their taxonomy?
 
-2. Cockburn et al. describe various interface design paradigms, among them the “fisheye view.” How would the fisheye view improve the usability of a visualization, and under what circumstances might it not?
+
 
 
