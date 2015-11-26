@@ -1,6 +1,6 @@
 # Design Critique 6
 
-<http://well-formed.eigenfactor.org/radial.html>
+To be announced.
 
 Conversation starters for the critique: [critique.pdf]
 
