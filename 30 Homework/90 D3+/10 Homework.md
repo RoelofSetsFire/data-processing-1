@@ -1,4 +1,4 @@
-# D3+
+# D3 dashboard
 
 Fot this week's homework you will create a dashboard in D3 consisting of at least two interactive visualisations.
 You can find many examples of dashboards online, here is one that comes close to what you will be designing in this assignment:
