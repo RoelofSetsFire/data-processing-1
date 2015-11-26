@@ -13,6 +13,7 @@ D3 functions.
 You dashboard must consist of an interactive map and another interactive visualisation. As long as it makes sense, you can reuse your map and line graph from last week.
 Your map should encode one variable, for example in color.
 Your second interactive graph should represent another variable from the dataset and should be interactive as well (eg. add tooltip to bar-chart/scatterplot or crosshair to line graph).
+If you would like to make another visualisation instead of a map, discuss it with the instructors first.
 
 ## Step 3
 The two interactive visualisations should be connected with each other. That means that interaction on the map should cause an update of you second visualisation (or other way around). You can, for example, select a country on the map and update your line graph accordingly (so that it shows data for the selected country).
