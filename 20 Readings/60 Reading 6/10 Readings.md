@@ -14,12 +14,17 @@ Read the following and answer the accompanying questions.
 ## Recommended Readings (linked for your convenience):
 
 * J. Heer and G. G. Robertson, "Animated Transitions in Statistical Data
-  Graphics," IEEE Transactions on Visualization and Computer Graphics, vol. 13,
+  Graphics", IEEE Transactions on Visualization and Computer Graphics, vol. 13,
   no. 6, pp. 1240–1247, Dec. 2007. (project page with video)
 
 * R. Kosara, H. Hauser, and D. L. Gresh, "An Interaction View on Information
-  Visualization,"" in State-of-the-Art Proceedings of EUROGRAPHICS 2003 (EG
-  2003), 2003, pp. 123–137.
+  Visualization", in State-of-the-Art Proceedings of EUROGRAPHICS 2003 (EG
+  2003), 2003, pp. 123–137. 
+
+* Ji Soo Yi, Youn ah Kang, John T. Stasko, and Julie A. Jacko, "Toward a Deeper Understanding of the Role of 
+Interaction in Information Visualization", IEEE Transactions on Visualization and Computer Graphics, vol. 13, no. 6, pp. 1224-1231, Nov. 2007. 
+
+
 
 ## Questions
 
