@@ -11,7 +11,7 @@ Read the following and answer the accompanying questions.
 [1]: cdn://excerpts/w5/p30-heer.pdf
 
 
-### Interesting readings:
+### Interesting readings (recommended, not obligatory):
 
 * J. Heer and G. G. Robertson, "Animated Transitions in Statistical Data
   Graphics", IEEE Transactions on Visualization and Computer Graphics, vol. 13,
