@@ -1,7 +1,5 @@
 # Reading 7
 
-Recommended reading:
-
 * Edward Segel, Jeffrey Heer, "[Narrative Visualization][1]: Telling Stories
   with Data", IEEE Trans. Visualization & Comp. Graphics (Proc. InfoVis), 2010
 
