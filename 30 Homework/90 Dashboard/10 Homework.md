@@ -1,8 +1,9 @@
 # D3 dashboard
 
 Fot this week's homework you will create a dashboard in D3 consisting of at least two interactive visualisations.
-You can find many examples of dashboards online, here is one that comes close to what you will be designing in this assignment:
-https://public.tableau.com/s/gallery/asylum-seekers-europe. This is merely an example, be critical in your own design!
+You can find many examples of dashboards online, here is one that comes close to what you will be designing in this assignment [Asylum Seekers Europe]. This is merely an example, be critical in your own design!
+ 
+[Asylum Seekers Europehttps]: https://public.tableau.com/s/gallery/asylum-seekers-europe
 
 ## Step 1
 The idea is to find a data set that has data (more then one variable) for each country (or most countries) in the world and use that data to make a map and another interactive graph. Data you could use are again the number of inhabitants, the GDP, or the population density. If necessary write a python script to scrape/process the data and create a JSON or CSV file.
