@@ -10,6 +10,11 @@ The idea is to find a data set that has data (more then one variable) for each c
 Whether you use JSON or CSV is up to you, as long as you load them from a separate file using the proper 
 D3 functions.
 
+If you are running out of time finding your own data, please have a look here: [Happy Planet Index], [Better Life Index], [Quality of Life].
+[Happy Planet Index]: http://www.happyplanetindex.org/data/
+[Better Life Index]: http://stats.oecd.org/Index.aspx?DataSetCode=BLI
+[Quality of Life]: http://www.numbeo.com/quality-of-life/rankings_by_country.jsp
+
 ## Step 2
 You dashboard must consist of an interactive map and another interactive visualisation. As long as it makes sense, you can reuse your map and line graph from last week.
 Your map should encode one variable, for example in color.
