@@ -11,6 +11,7 @@ Whether you use JSON or CSV is up to you, as long as you load them from a separa
 D3 functions.
 
 If you are running out of time finding your own data, please have a look here: [Happy Planet Index], [Better Life Index], [Quality of Life].
+
 [Happy Planet Index]: http://www.happyplanetindex.org/data/
 [Better Life Index]: http://stats.oecd.org/Index.aspx?DataSetCode=BLI
 [Quality of Life]: http://www.numbeo.com/quality-of-life/rankings_by_country.jsp
