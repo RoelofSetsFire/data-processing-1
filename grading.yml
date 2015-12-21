@@ -6,6 +6,7 @@ formulas:
     week5: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
     week6: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
     week7: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
+    week8: scope.round(1)
     
 calculation:
     normal:
