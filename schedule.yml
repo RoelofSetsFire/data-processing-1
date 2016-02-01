@@ -8,18 +8,13 @@ Week 1:
     'Homework: Scraping IMDB': '/homework/scraping'
  
 Week 2:
-    'Lecture [Monday 11:00]':
+    'Design workshop [Monday 13:00]': '/design-studio/design1'
     'Video lecture: Graphic design ': '/lectures/graphic-design' 
-    'Video lecture: Process': '/lectures/process'
-    'Reading 2 deadline [Tuesday 16:59]':
-    'Reading session group B2 [Wednesday 11:00]':
-    'Reading session group B1 [Wednesday 13:00]':
     'Reading 2': '/readings/reading-2'
-    'Design critique 2': '/critiques/critique-2'
-    'Lab session [Monday 13:00 and Thursday 13:00]':
+    'Design workshop deadline [Friday 23:59]':
+    'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
     'Homework: Crawling IMDB': '/homework/crawling'
-    'Homework: Javascript warming-up': '/homework/javascript'
 Week 3:
     'Lecture [Monday 11:00]':
     'Video lecture: Visualization Taxonomy': '/lectures/visual-taxonomy' 
