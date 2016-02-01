@@ -6,63 +6,11 @@ from Javascript. For the programming excercises in this homework, we provide
 both some scaffolding and automated tests that are also used when grading the
 homework.
 
-* The Python module that you will need to complete for the first programming
-  exercise: [exercise.py]
-* Test script that should work with your code: [test-exercise.py]
 * The IMDB highest ranking TV-series exercise: [tvscraper.py]
 * The test script for this exercise [test-tvscraper.py]
 
-[exercise.py]: exercise.py
-[test-exercise.py]: test-exercise.py
 [tvscraper.py]: tvscraper.py
 [test-tvscraper.py]: test-tvscraper.py
-
-## Python Exercise
-
-Welcome to Python! At this point, we hope you have Python up and running. If
-you're having a lot of trouble, please come see us at Office Hours. Reinstalling Python can fix certain strange issues you might
-come across.
-
-1. Open up `exercise.py`
-2. Follow the instructions in the comments or below and complete the exercise!
-3. You are allowed to import other libraries but no using the split() function
-4. To run python, simple type in commands ''python exercise.py''
-5. To test the functions you implemented after running your script type the command ''python test-exercise.py''
-
-### Building `exercise.py`
-
-This is your first exercise in Python! Use it as a warmup exercise. The
-built­in `aString.split()` in Python only uses white­ space to split the string.
-This is annoying because if you had a sentence with punctuation marks, the
-procedure won't be able to recognize it.
-
-In this exercise you will implement a string splitting function that can split
-on several separators. As inputs it takes a string (the one you want to split)
-and a string of separator characters. The output of this function should be a
-list of strings that result from splitting the first string on each of the 
-separator characters.
-
-We have provided a Python module [exercise.py] with an incomplete
-implementation of this more general string splitting function, it is up to you
-to complete it. Open the python module and look for the function
-`split_string(source, separators)` and implement it.
-
-Whenever possible we strive to provide you with a file to test your code as
-well. For this exercise the Python script [test-exercise.py] that will check
-whether your implementation of `split_string(source, separators)` is correct.
-This script will also be used in grading your implementation.
-
-Unlike some other programming languages (such as C), blocks in Python are
-defined by indenting. If you make mistakes with the indenting your script,
-it will not work. For this class we stick to the most common (and 
-recommended) way of indenting Python, i.e. using 4 spaces. More
-recommendations on proper Python style can be found in [PEP8]. It is no
-problem if you cannot understand everything in PEP8 yet.
-
-[PEP8]: http://www.python.org/dev/peps/pep-0008/
-
-Note: DO NOT USE `split()`, but you can import other libraries (i.e. regular
-expressions) There are many solutions so as long as it works!
 
 ## DOM scraping and traversal
 
@@ -161,7 +109,6 @@ This is taken from the documentation, which you should learn to read!
 
 Add a folder Scraping to your DataProcessing/Homework repository containing the following files:
 
-1. `exercise.py`
-2. `tvscraper.py`
-3. `tvseries.html`
-4. `tvseries.csv`
+1. `tvscraper.py`
+2. `tvseries.html`
+3. `tvseries.csv`
