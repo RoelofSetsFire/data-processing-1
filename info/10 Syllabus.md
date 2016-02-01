@@ -1,6 +1,6 @@
 # Data Processing
 
-*Edition: September 2015, under construction*
+*Edition: February 2016, under construction*
 
 The amount and complexity of information produced in science, engineering,
 business, and everyday human activity is increasing at staggering rates. The
@@ -28,7 +28,7 @@ Gosia Migut
 *instructor*  
 <help@mprog.nl>
 
-Jasper Linmans  
+Kim de Bie  
 *teaching assistant*
 
 ## Goals for this course
@@ -62,7 +62,7 @@ Participation in design critique, reading assignments, and programming homeworks
 
 Grading specification:
 
-* programming homeworks week 1 - 7: 70%
-* written assignment week 8: 30%
+* written groep assignment: 35%
+* programming homeworks: 65%
 
 A student must ordinarily meet all deadlines in order to be eligible for a passing grade unless granted an exception in writing by the course’s instructor. 
