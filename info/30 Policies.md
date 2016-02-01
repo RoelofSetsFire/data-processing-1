@@ -32,11 +32,10 @@ view visualization. You may use parts out of such examples.
 
 ## Missed activities and assignment deadlines
 
-The data processing course consists of several parts. The online video 
-lectures, the reading assignments and the questions that go with them and
-normal homework assignments. Attendence is required at the reading sessions and the lab sesssions. You are allowed to be absent only
-once without sanctions, further absence may result in extra work being
-assigned. Homework is to be handed in according to the [schedule], you are
+The data processing course consists of several parts: the reading assignments and the questions that go with them and
+normal homework assignments. Attendence is required at the reading sessions and the lab sesssions. 
+The absence at the reading session results in missed opportunity to submit the accompanying assignment.  
+Homework is to be handed in according to the [schedule], you are
 allowed one slipped deadline.
 
 If circumstances force you to miss a reading group meeting, a lab
