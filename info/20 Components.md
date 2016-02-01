@@ -32,36 +32,59 @@ When handing in homework make sure to always do the following:
 * For webpages include your name and student number somewhere on the page (but
   well visible).
 
-## Reading assignments
+  
+## Design track
+
+*Only available in the February-March period.*
+
+The first part of this course is the design track, where we'll dive into understanding what good visulisations are, what theoretical principles should be applyed and what good practices are desiging a good visualisation.
 
 ![Colin Ware](book-visual.jpg){:.inline}
 
 There are reading assignments each week, taken from scientific literature and
 from the book *Visual thinking for design* by Colin Ware. The content of each
-week's reading assignment will be discussed during that week's reading group
-meeting.
+week's reading assignment will be reflected in the assignment of that week.
 
-The homework assignments will contain questions about the mandatory readings.
-When answering those please be brief and to the point!
+To complete this part of the course, you will need to attend weekly workshop sessions, usually on Mondays at 13:00. Some of the work will be done in class and there is regular sharing of work by way of informal presentations. 
+All assignments are released on Mondays and are due by Friday, at 23:59.
+Some of the assignments have to be handed in individually, and other are handed in by a single representative per group. You will be assigned to a group during the first design session. 
 
-There are two types of reading assignments: individual and group assignments.
-You will be assigned to a group during the first reading session on Wednesday.
+Topics by week are:
 
-## Reading group meetings and design critique sessions
+| week | topic                      | 
+| ---: | -------------------------- | 
+|    1 | visual variables           | 
+|    2 | design                     | 
+|    3 | process                    | 
+|    4 | color                      | 
+|    5 | interaction                | 
+|    6 | storytelling       		|  
 
-To give you an opportunity to discuss the contents of each week's reading
-assignment a reading group meeting is organized each week.
-Attendence to the reading group meetings is mandatory (you are allowed to 
-miss one over the course of a block). Discussing the readings should help in doing the homework.
+ 
 
-The sessions are organized each Monday to offer an opportunity
-to discuss visualizations that are interesting. We will pick apart each 
-visualization so that you may learn from them. Students are encouraged to
-bring along visualizations they deem interesting.
+## Technical track
 
-## Labs
+*Available both in February-March and in April-May.*
 
-On Wednesday and Friday, there is a lab session where you can discuss your work with the
-course's staff and get feedback on your earlier work. It is recommended that
-you attend labs to get to know your fellow students and make use of each
-other's understanding of the homework assignments and lectures.
+The second part of this course is the technical track, where you will learn how to implement interactive web-based visualisations in javascript and D3.
+
+This part consists first and foremost of a lot of programming work, done by you! 
+
+Topics by week are:
+
+| week | topic                           |  
+| ---: | ------------------------------- |  
+|    1 | Scraping IMDB                   |  
+|    2 | Crawling                        |  
+|    3 | Line graph in Javascript        |  
+|    4 | SVG + D3 intro                  |  
+|    5 | Scatterplot and barchart in D3  |  
+|    6 | JSON + map in D3                |  
+|    7 | Linked views in D3              |  
+
+All assignments are released on Mondays and are due by Friday, at 23:59. All of these assignments have to be handed in individually, but you are supposed to help other students out generously during the course.
+
+To assist you with programming, there will be an introductory meeting every Wednesday at 11:00 and the lab will be open on Fridays between 11:00 and 15:00.
+  
+
+
