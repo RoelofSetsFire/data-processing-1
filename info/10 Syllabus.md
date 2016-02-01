@@ -62,7 +62,8 @@ Participation in design critique, reading assignments, and programming homeworks
 
 Grading specification:
 
-* written groep assignment: 35%
+* written individual assignments: pass/fail
+* written group assignments: 35%
 * programming homeworks: 65%
 
 A student must ordinarily meet all deadlines in order to be eligible for a passing grade unless granted an exception in writing by the course’s instructor. 
