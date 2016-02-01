@@ -1,12 +1,9 @@
 Week 1:
-    'Introductory lecture [Monday 11:00]':
-    'Video lecture': '/lectures/introduction'
-    'Reading session group B2 [Wednesday 11:00]':
-    'Reading session group B1 [Wednesday 13:00]':
+    'Introductory lecture [Wednesday 9:00]':
+    'Deadline group A and B: Reading 1 [Friday 23:59]':
     'Reading 1': '/readings/reading-1'
-    'Design critique 1': '/critiques/critique-1'
-    'Lab session [Monday 13:00 and Thursday 13:00]':
-    'Homework deadline [Friday 23:59]':
+    'Lab session groep B [Wednesday 13:00 and Friday 11:00]':
+    'Deadline groep B Homework Preparations [Friday 23:59]':
     'Homework: Preparations': '/homework/preparations'
     'Homework: Scraping IMDB': '/homework/scraping'
  
