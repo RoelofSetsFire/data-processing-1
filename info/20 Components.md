@@ -1,11 +1,5 @@
 # Course components
 
-## Video lectures
-
-There are two video lectures per week. We expect you to watch these and take
-notes. The content of the video lectures will be discussed during the reading
-groups. Class activities are designed to help you master the relevant materials.
-
 ## Homework
 
 The path to a good visualization design in your projects is likely to involve
@@ -53,19 +47,18 @@ When answering those please be brief and to the point!
 ## Reading group meetings and design critique sessions
 
 To give you an opportunity to discuss the contents of each week's reading
-assignment and video lectures a reading group meeting is organized each week.
+assignment a reading group meeting is organized each week.
 Attendence to the reading group meetings is mandatory (you are allowed to 
-miss one over the course of a block). Discussing the readings and video
-lectures should help in doing the homework.
+miss one over the course of a block). Discussing the readings should help in doing the homework.
 
-The design critique sessions are organized each Wednesday to offer an opportunity
+The sessions are organized each Monday to offer an opportunity
 to discuss visualizations that are interesting. We will pick apart each 
 visualization so that you may learn from them. Students are encouraged to
 bring along visualizations they deem interesting.
 
 ## Labs
 
-On Monday and Thursday, there is a lab session where you can discuss your work with the
+On Wednesday and Friday, there is a lab session where you can discuss your work with the
 course's staff and get feedback on your earlier work. It is recommended that
 you attend labs to get to know your fellow students and make use of each
 other's understanding of the homework assignments and lectures.
