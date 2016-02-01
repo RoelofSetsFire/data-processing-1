@@ -44,6 +44,9 @@ meeting.
 The homework assignments will contain questions about the mandatory readings.
 When answering those please be brief and to the point!
 
+There are two types of reading assignments: individual and group assignments.
+You will be assigned to a group during the first reading session on Wednesday.
+
 ## Reading group meetings and design critique sessions
 
 To give you an opportunity to discuss the contents of each week's reading
