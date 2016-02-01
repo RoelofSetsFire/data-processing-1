@@ -19,7 +19,7 @@ Take a look at the population data.
 Time: ~40 minutes
 
 Design four alternative visual representations for representing the data and the uncertainty in the data. Consider different scales, both for time and for population numbers. You should design for an interactive system, i.e., you should not assume that you have to fit all content onto paper. 
-Here are some points you should consider:
+Here are some points you should consider: 
 * To get a feeling for the final visualization, try to draw the data to scale.
 * Instead of or in addition to showing 5 conflicting lines, develop a visualization that shows the data and the ambiguity. You can use a single visualization, or you can use multiple views.
 * Your visualization should show the divergence between estimates in absolute terms (i.e., the difference in number of people) as well as in relative terms (i.e., % of divergence/uncertainty relative to a consensus value for a given year).
