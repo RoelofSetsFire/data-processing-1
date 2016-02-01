@@ -37,7 +37,7 @@ When handing in homework make sure to always do the following:
 
 *Only available in the February-March period.*
 
-The first part of this course is the design track, where we'll dive into understanding what good visulisations are, what theoretical principles should be applyed and what good practices are desiging a good visualisation.
+The first part of this course is the design track, where we'll dive into understanding what good visulisations are, what theoretical principles should be applyed and what good practices are for desiging a good visualisation.
 
 ![Colin Ware](book-visual.jpg){:.inline}
 
@@ -47,7 +47,7 @@ week's reading assignment will be reflected in the assignment of that week.
 
 To complete this part of the course, you will need to attend weekly workshop sessions, usually on Mondays at 13:00. Some of the work will be done in class and there is regular sharing of work by way of informal presentations. 
 All assignments are released on Mondays and are due by Friday, at 23:59.
-Some of the assignments have to be handed in individually, and other are handed in by a single representative per group. You will be assigned to a group during the first design session. 
+Some of the assignments have to be handed in individually, and other are handed in by a single representative per group. You will be assigned to a group during the first workshop session. 
 
 Topics by week are:
 
