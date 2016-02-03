@@ -1,4 +1,4 @@
-#  Reading 1 (individual assignment)
+#  Reading 1 (individual assignment), deadline Friday
 
 Read the following chapters and answer the accompanying questions.
 Save your answers in Readings1.pdf and push it to GitHub.
