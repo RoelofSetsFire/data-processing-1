@@ -24,6 +24,6 @@ Save your answers in Readings1.pdf and push it to GitHub.
 4. Ask yourself what the designer is trying to convey and think of three to four possible tasks this visualization should help you with. Does the visualization achieve any of your tasks? (To view an example, see Albert Cairo, pages 26-­28.)
 
 
-## GitHUb setup
+## GitHub setup
 First you will learn how to get started with Git in order to submit your homeworks. Please refer to this GitHub manual Github_manual.pdf
 [Github_manual.pdf]: Github_manual.pdf
