@@ -5,7 +5,7 @@ Save your answers in Readings1.pdf and push it to GitHub.
 
 * Alberto Cairo, [Chapter 1][1] & [Chapter 2][2]
 * S. Carpendale, "[Considering Visual Variables as a Basis for Information
-  Visualisation][1]".
+  Visualisation][3]".
 
 
 [1]: cdn://excerpts/w1/Alberto_Cairo_The_Functional_Art_ch1.pdf
