@@ -25,6 +25,9 @@ Save your answers in Readings1.pdf and push it to GitHub.
 
 
 ## GitHub setup
-First you will learn how to get started with Git in order to submit your homeworks. Please refer to this [Github manual]
-[Github manual]: Github_manual1.pdf
+First you will learn how to get started with Git in order to submit your homeworks. Please refer to this [Github manual][4].
+
+
+[4]: Github_manual1.pdf
+
 Please submit the URL of your repository underneath on this page.
