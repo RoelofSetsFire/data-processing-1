@@ -124,12 +124,12 @@ x<sub>screen</sub> = alpha * x<sub>data</sub> + beta
 Because finding the two constants *alpha* and *beta* is a bit tedious we will create a function that can do it for us. We will use JavaScript's support for *closures* to create a function *createTransform* that calculates *alpha* and *beta* and returns a transformation function. The following snippet of code demonstrates this technique, but you will have to implement the actual calculation yourself.
 
 	function createTransform(domain, range){
-		\\ domain is a two-element array of the data bounds [domian<sub>min, domian<sub>max]
-		\\ range is a two-element array of the screen bounds [range<sub>min, range<sub>max]
-		\\ this gives you two equations to solve
-		\\ range<sub>min = alpha * domain<sub>min 
-		\\ range<sub>max = alpha * domain<sub>max
- 		\\ implement the actual calculation here
+		\\ domain is a two-element array of the data bounds [domian_min, domian_max]
+		\\ range is a two-element array of the screen bounds [range_min, range_max]
+		\\ This gives you two equations to solve:
+		\\ range_min = alpha * domain_min + beta
+		\\ range_max = alpha * domain_max + beta
+ 		\\ Implement your solution here:
  		var alpha = ...;
  		var beta = ...;
  		
@@ -165,6 +165,7 @@ Figure below shows you a very simple (and definitely not complete) version of th
 * Nice graphical presentation will be credited.
 * Add interactivity to your graph by completing the following assignment: [Javascript Interactivity]
 
+[Javascript Interactivity]: homework/interactivity
 ## Checks before submitting
 
 * Does your submission contain complete implementation of the temperature graph?
