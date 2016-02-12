@@ -7,12 +7,11 @@ Submit one document as a group which contains the analysis, sketches and the ref
 
 Time: 20 minutes
 
-Take a look at various Github Network Graphs. Here are some examples [1], [2], [3].
+Take a look at various Github Network Graphs. Here are two examples [1], [2].
 
 
 [1]: https://github.com/Caleydo/caleydo/network
-[2]: https://github.com/mbostock/d3/network
-[3]: https://github.com/CS171/CS171.github.io/network
+[2]: https://github.com/CS171/CS171.github.io/network
 
 * Think about how these networks are different. Analyze the “dimensions” of these networks. What are the relevant attributes (e.g., commits, users, branches, commit size, etc.) of these representations? What other attributes could be relevant in this graph? Write a list of all the attributes your visualization could show. 
 * Are there different roles, i.e., different types of users who might want to achieve different things? Write a list of user roles. 
@@ -24,7 +23,10 @@ Take a look at various Github Network Graphs. Here are some examples [1], [2], [
 Time: 30 minutes
 
 Design two alternative visual representations for the Github Network. You should design for an interactive system, i.e., you should not assume that you have to fit all content onto paper. 
-You can refer to Heer's article [Reading 3] for the examples of network visualisations. 
+You can refer to Heer's article [Reading 3] for the examples of network visualisations, browse [D3 website], and feel free to use any other sources.
+
+[Reading 3]: /readings/reading-3
+[D3 website]: https://github.com/mbostock/d3/wiki/Gallery
 
 Here are some questions to consider:
 
