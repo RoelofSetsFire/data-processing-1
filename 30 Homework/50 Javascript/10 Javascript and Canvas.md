@@ -39,8 +39,6 @@ only be graded pass or fail.
 * Explain what a closure is. (Note that JavaScript programs use closures very often.)
 * Explain what higher order functions are.
 * Explain what a query selector is and give an example line of JavaScript that uses a query selector.
-* debug in the console
-* include js file in de website
 
 ## Checks before submitting
 
@@ -49,16 +47,11 @@ only be graded pass or fail.
 
 # Javascript: line graph 
 
-The assignments of week 3 is to create a line graph of
-the temperature at the De Bilt weather station. The data for these
-assignment can be freely downloaded from the [KNMI webpage] (the Royal Dutch
-Meteorological Institute).
+The assignment of week 3 is to create a line graph of
+the temperature at the De Bilt weather station. We will implement this plot using JavaScript and the HTML 5 
+canvas-element. The canvas-element provides an API with which graphics can be created using JavaScript. 
 
-We will implement this plot using JavaScript and the HTML 5 
-canvas-element. The canvas-element provides an
-API with which graphics can be created using JavaScript. 
-
-You will take the follwing steps to complete the assignment: acquire the raw data, convert it to
+You will take the following steps to complete the assignment: acquire the raw data, convert it to
 a CSV format, include it in a web page and write the JavaScript to show a simple line graph.
 
 
@@ -67,7 +60,7 @@ Visit [KNMI webpage] that allows you to download raw weather station data in
 CSV format. Select the De Bilt weather station, select the average temperature
 records and choose a year for which you want to create a temperature 
 graph. Download the data and verify that you have in fact one full year's
-worth of data (hint: files can be viewed in text editors). The downloaded 
+worth of data (files can be viewed in text editors). The downloaded 
 file starts with a so-called header that contains meta-data. This
 meta-data allows you to correctly interpret the raw data in the rest of the file.
 
@@ -81,7 +74,7 @@ from an external file but embed it directly in the web page.
 Create an empty html file and add a textarea-element to it. Normally 
 these text areas are used in forms to get input from a user, but we will use
 it to embed our data. Reformat the CSV file such that it only contains the
-dates and the maximum temperatures. This will result in something like the
+dates and the average temperatures. This will result in something like the
 following snippet.
 
 	<textarea id="rawdata">
@@ -125,25 +118,30 @@ to at least draw lines, rectangles, circles and text (and how to rotate text).
 The canvas-element provides its own coordinate system, you will have
 to transform you raw data to these coordinates to draw the graph. 
 
+The position encodings for this graph only need linear transforms, one for the x-axis and one for the y-axis, of the following form:
+x<sub>screen</sub> = f(x<sub>data</sub>) = alpha * x<sub>data</sub> + beta 
+
+Because finding the two constants *alpha* and *beta* is a bit tedious we will create a function that can do it for us. We will use JavaScript's support for *closures* to create a function *createTransform* that calculates *alpha* and *beta* and returns a transformation function. The following snippet of code demonstrates this technique, but you will have to implement the actual calculation yourself.
 
 function createTransform(domain, range){
-	// domain is a two-element array of the domain's bounds
-	// range is a two-element array of the range's bounds
-	// implement the actual calculation here
-	var beta = ...;
-	var alpha = ...;
+	\\ domain is a two-element array of the data bounds
+	\\ range is a two-element array of the screen bounds
+ 	\\ implement the actual calculation here
+ 	var alpha = ...;
+ 	var beta = ...;
+ 
+ 	return function(x){
+ 		return alpha * x + beta;
+ 	};
+ }
+ 
+To test this function you can make a transformation that transforms the domain *[10, 20]* to the range *[10, 20]* and see whether points are transformed to themselves:
+ var tranform = createTransform([10, 20], [10, 20]);
+ console.log(transform(15));  // should log 15
 
-	return function(x){
-		return alpha * x + beta;
-	};
-}
+![figure2](transformation.png) 
 
-// to use this for instance:
-var transform = createTransform([10, 20], [10, 20]);
-console.log(transform(15)); //should return 15!!
-
-
-This createTransform function will work directly on your 
+The createTransform function will work directly on your 
 temperature data, but for the dates along the x-axis there is an extra 
 complication.
 
@@ -162,8 +160,6 @@ Figure below shows you a very simple (and definitely not complete) version of th
 * Loading the data from file (you will need XMLHTTPRequest).
 * Nice graphical presentation will be credited.
 * Add interactivity to your graph by completing the following assignment: [Javascript Interactivity]
-
-
 
 ## Checks before submitting
 
