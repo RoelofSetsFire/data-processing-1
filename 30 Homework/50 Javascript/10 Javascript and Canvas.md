@@ -131,12 +131,12 @@ Because finding the two constants *alpha* and *beta* is a bit tedious we will cr
 		\\ range_max = alpha * domain_max + beta
  		\\ Implement your solution here:
  		var alpha = ...;
- 		var beta = ...;
- 		
- 		return function(x){
- 			return alpha * x + beta;
- 		};
- 	}
+		var beta = ...;
+		
+		return function(x){
+			return alpha * x + beta;
+		};
+	}
  
 To test this function you can make a transformation that transforms the domain *[10, 20]* to the range *[10, 20]* and see whether points are transformed to themselves:
 
@@ -165,7 +165,9 @@ Figure below shows you a very simple (and definitely not complete) version of th
 * Nice graphical presentation will be credited.
 * Add interactivity to your graph by completing the following assignment: [Javascript Interactivity]
 
-[Javascript Interactivity]: homework/interactivity
+[Javascript Interactivity]: /homework/interactivity
+
+
 ## Checks before submitting
 
 * Does your submission contain complete implementation of the temperature graph?
