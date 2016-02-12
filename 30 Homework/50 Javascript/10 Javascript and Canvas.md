@@ -1,10 +1,9 @@
 # JavaScript
 
-The homeworks of coming weeks are about JavaScript. JavaScript is the only programming language that is supported by
+The homework of coming week is about JavaScript. JavaScript is the only programming language that is supported by
 all modern web browsers and it is the least intrusive way of adding 
 interactive elements to a web page as it requires no plug-ins or other
-special extensions. We will be using JavaScript to implement a number of
-interactive visualizations.
+special extensions.
 
 For this course we will be using the book [Eloquent JavaScript] by 
 Marijn Haverbeke. This book assumes very little programming background but
@@ -21,9 +20,7 @@ use both techniques to create visualizations.
 
 [Eloquent JavaScript]: http://eloquentjavascript.net/
 
-# JavaScript warming-up
-
-## Reading Assignment and Resources
+# Reading Assignment and Resources
 
 Read chapters 1 through 5 and chapters 12 and 13 of [Eloquent 
 JavaScript]. The first few chapters should be a quick read and the later chapters
@@ -42,44 +39,36 @@ only be graded pass or fail.
 * Explain what a closure is. (Note that JavaScript programs use closures very often.)
 * Explain what higher order functions are.
 * Explain what a query selector is and give an example line of JavaScript that uses a query selector.
-
-## Warming-up exercise
-This exercise come with supplementary files which you can download [here](javascriptWarmingup.zip).
-Find 'script.js' file and follow the instructions. 
+* debug in the console
+* include js file in de website
 
 ## Checks before submitting
 
 * Did you create a folder Javascript in your repo?
-* Does your submission contain a PDF with the answers to the 
-          questions in Section "Questions" and implementation of the warming-up exercises?
+* Does your submission contain a PDF with the answers to the questions in Section "Questions" ?
 
 # Javascript: line graph 
 
-The assignments of week 3 and 4 are to create an interactive graph of
+The assignments of week 3 is to create a line graph of
 the temperature at the De Bilt weather station. The data for these
-assignments can be freely downloaded from the KNMI (the Royal Dutch
-Meteorological Institute) web pages.
+assignment can be freely downloaded from the [KNMI webpage] (the Royal Dutch
+Meteorological Institute).
 
 We will implement this plot using JavaScript and the HTML 5 
 canvas-element. The canvas-element provides an
-API with which graphics can be created using JavaScript. You will
-furthermore need a little bit of Python to convert the downloaded
-data to CSV (Comma Separated Format) file. 
+API with which graphics can be created using JavaScript. 
 
-The assignment is split into two parts to be handed in over two
-weeks. The first week we will acquire the raw data, convert it to
-a usable CSV format (using Python), include it in a web page and
-write the JavaScript to show a simple line graph. The second week
-we will extend the graph to support interactivity.
+You will take the follwing steps to complete the assignment: acquire the raw data, convert it to
+a CSV format, include it in a web page and write the JavaScript to show a simple line graph.
 
 
 ## Acquiring the Weather Data
 Visit [KNMI webpage] that allows you to download raw weather station data in
-CSV format. Select the De Bilt weather station, select the maximum temperature
+CSV format. Select the De Bilt weather station, select the average temperature
 records and choose a year for which you want to create a temperature 
 graph. Download the data and verify that you have in fact one full year's
-worth of data (hint: CSV files can be viewed in text editors). The downloaded 
-CSV file starts with a so-called header that contains meta-data. This
+worth of data (hint: files can be viewed in text editors). The downloaded 
+file starts with a so-called header that contains meta-data. This
 meta-data allows you to correctly interpret the raw data in the rest of the file.
 
 [KNMI webpage]: http://projects.knmi.nl/klimatologie/daggegevens/selectie.cgi
@@ -87,13 +76,9 @@ meta-data allows you to correctly interpret the raw data in the rest of the file
 
 ## Reformatting and Loading the Data
 
-For this assignment it is OK to add any JavaScript you write inside a script
-tag at the very end of the HTML body. Handing in your code as a separate
-script is also fine, but make sure that all the needed files are included.
-
 To keep the complexity of loading the data low, we will not load it 
 from an external file but embed it directly in the web page.
-Create an empty web page and add a textarea-element to it. Normally 
+Create an empty html file and add a textarea-element to it. Normally 
 these text areas are used in forms to get input from a user, but we will use
 it to embed our data. Reformat the CSV file such that it only contains the
 dates and the maximum temperatures. This will result in something like the
@@ -110,14 +95,17 @@ following snippet.
 	...
 	</textarea>
 
+For this assignment it is OK to add any JavaScript you write inside a script
+tag at the very end of the HTML body. Handing in your code as a separate
+script is also fine, but make sure that all the needed files are included.
 
 You can now load the data by writing some JavaScript that selects
 the text area (document.getElementById(...)) and then 
 accesses its content. The content should by split 
 into lines and then further split into two chunks, one for the date and
-one for the maximum temperature. Now create an array of data points 
+one for the average temperature. Now create an array of data points 
 and use console.log(...) to see whether the data was in fact
-loaded. Before moving on make sure that the dates are in fact JavaScript
+loaded. Before moving on, make sure that the dates are in fact JavaScript
 dates and the numbers JavaScript numbers. To convert date strings to
 JavaScript dates use the Date function:
 new Date('2014/01/01') (make sure that the date string
@@ -137,8 +125,25 @@ to at least draw lines, rectangles, circles and text (and how to rotate text).
 The canvas-element provides its own coordinate system, you will have
 to transform you raw data to these coordinates to draw the graph. 
 
-Last week you have implemented a function createTransform that you have to apply in this week assignment. 
-This function will work directly on your 
+
+function createTransform(domain, range){
+	// domain is a two-element array of the domain's bounds
+	// range is a two-element array of the range's bounds
+	// implement the actual calculation here
+	var beta = ...;
+	var alpha = ...;
+
+	return function(x){
+		return alpha * x + beta;
+	};
+}
+
+// to use this for instance:
+var transform = createTransform([10, 20], [10, 20]);
+console.log(transform(15)); //should return 15!!
+
+
+This createTransform function will work directly on your 
 temperature data, but for the dates along the x-axis there is an extra 
 complication.
 
@@ -153,9 +158,10 @@ Figure below shows you a very simple (and definitely not complete) version of th
 ![figure1](screenshot.png)
 
 ## Extra credit
-* Create an x-axis that uses calendar dates (in stead of days since the first date in the data set.
+* Create an x-axis that uses calendar dates (instead of days since the first date in the data set).
 * Loading the data from file (you will need XMLHTTPRequest).
 * Nice graphical presentation will be credited.
+* Add interactivity to your graph by completing the following assignment: [Javascript Interactivity]
 
 
 
