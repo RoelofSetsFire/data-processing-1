@@ -119,23 +119,27 @@ The canvas-element provides its own coordinate system, you will have
 to transform you raw data to these coordinates to draw the graph. 
 
 The position encodings for this graph only need linear transforms, one for the x-axis and one for the y-axis, of the following form:
-x<sub>screen</sub> = f(x<sub>data</sub>) = alpha * x<sub>data</sub> + beta 
+x<sub>screen</sub> = alpha * x<sub>data</sub> + beta 
 
 Because finding the two constants *alpha* and *beta* is a bit tedious we will create a function that can do it for us. We will use JavaScript's support for *closures* to create a function *createTransform* that calculates *alpha* and *beta* and returns a transformation function. The following snippet of code demonstrates this technique, but you will have to implement the actual calculation yourself.
 
 	function createTransform(domain, range){
-		\\ domain is a two-element array of the data bounds
-		\\ range is a two-element array of the screen bounds
+		\\ domain is a two-element array of the data bounds [domian<sub>min, domian<sub>max]
+		\\ range is a two-element array of the screen bounds [range<sub>min, range<sub>max]
+		\\ this gives you two equations to solve
+		\\ range<sub>min = alpha * domain<sub>min 
+		\\ range<sub>max = alpha * domain<sub>max
  		\\ implement the actual calculation here
  		var alpha = ...;
  		var beta = ...;
- 
+ 		
  		return function(x){
  			return alpha * x + beta;
  		};
  	}
  
 To test this function you can make a transformation that transforms the domain *[10, 20]* to the range *[10, 20]* and see whether points are transformed to themselves:
+
 	var tranform = createTransform([10, 20], [10, 20]);
  	console.log(transform(15));  // should log 15
 
