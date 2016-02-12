@@ -1,13 +1,12 @@
 # Reading 3
 
-Read the following chapters and answer the questions.
+Read the following paper and use it as inspiration for your design assignment.
 
-* Colin Ware, Chapter 1 and Chapter 2. ("Visual Thinking for design")
+* J. Heer, M. Bostock, and V. Ogievetsky, "[A tour through the visualization
+  zoo][2]", Commun. ACM, vol. 53, no. 6, pp. 59–67, Jun. 2010.
+
+[2]: cdn://excerpts/w6/Heer_tour_through_the_visualization_zoo.pdf
 
 
-
-## Questions
-
-1. Ware describes bottom up and top down processing of visual information in the brain. Give a concrete and detailed example of how bottom up processing is influenced by top down processing, leading to a potentially wrong interpretation of "reality" by the viewer. Your example can include a screenshot, photo, or web site URL to refer to the scene that is being viewed.
 
 

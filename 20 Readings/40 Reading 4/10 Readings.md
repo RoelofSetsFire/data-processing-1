@@ -35,4 +35,13 @@ These are not required for homework questions, but linked here for convenience:
 2. Find a rainbow color map visualization on the web. Please include a screenshot and link of the visualization.
 
     1. Briefly summarize its intended objective and audience. Does it fail to successfully convey information? If so, why? Is there a good reason for this specific visualization to use a rainbow color scheme?
-    2. Propose an alternative color scheme to replace the rainbow color map
+
+
+	
+* Colin Ware, Chapter 1 and Chapter 2. ("Visual Thinking for design")
+
+
+
+## Questions
+
+1. Ware describes bottom up and top down processing of visual information in the brain. Give a concrete and detailed example of how bottom up processing is influenced by top down processing, leading to a potentially wrong interpretation of "reality" by the viewer. Your example can include a screenshot, photo, or web site URL to refer to the scene that is being viewed.
