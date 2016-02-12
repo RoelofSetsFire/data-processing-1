@@ -15,17 +15,14 @@ Week 2:
     'Lab homework deadline [Friday 23:59]':
     'Homework: Crawling IMDB': '/homework/crawling'
 Week 3:
-    'Lecture [Monday 11:00]':
-    'Video lecture: Visualization Taxonomy': '/lectures/visual-taxonomy' 
-    'Video lecture: JavaScript': '/labs/javascript'
-    'Reading 3 deadline [Tuesday 16:59]':
-    'Reading session group B2 [Wednesday 11:00]':
-    'Reading session group B1 [Wednesday 13:00]':
+    'Design workshop [Monday 13:00]': '/design/design-2'
+    'Design workshop deadline [Friday 23:59]':
+    'Video lecture: Process': '/lectures/process' 
     'Reading 3': '/readings/reading-3'
-    'Design critique 3': '/critiques/critique-3'
-    'Lab session [Monday 13:00 and Thursday 13:00]':
+    'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
-    'Homework: Javascript line graph': '/homework/javascript'
+    'Video lecture: JavaScript': '/labs/javascript'
+    'Homework: Javascript': '/homework/javascript'
 Week 4:
     'Lecture [Monday 11:00]':
     'Video lecture: Perception': '/lectures/perception'
