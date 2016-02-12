@@ -44,4 +44,4 @@ Here are some questions to consider:
 Time: 40 minutes, or as long as you like. 
 
 Take your analysis and ideas and discuss it again. Can you find a consensus? Come up with one visualization that you agree is ideal.
-Reflect on the process that you went through to come up with your final design (for inspiration on deisg process refer to this week's lecture: [Process]).
+Reflect on the process that you went through to come up with your final design (refer to this week's lecture: [Process] for inspiration on design process).
