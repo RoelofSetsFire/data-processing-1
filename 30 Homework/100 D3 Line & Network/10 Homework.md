@@ -1,59 +1,5 @@
 # D3
 
-For this week's homework you will work with the [D3 library][D3website] to
-re-create a temperature graph and implement an interactive map.
-
-[D3website]: http://d3js.org/
-
-## Resources
-
-### The D3 library
-
-* [D3 for Mere Mortals] by *Luke Francl*: A single, relatively short tutorial
-  which covers fundamental concepts for D3 and how to approach creating a
-  visualization
-* [D3 Wiki Tutorials] by *Mike Bostock*: Tutorials straight from the source,
-  starting off with simple, straightforward tutorials like the ones above.
-* [D3 Tutorials] by *Scott Murray*: A series of tutorials that are in the
-  O’Reilly book Interactive Data Visualization.
-
-[D3 for Mere Mortals]: http://www.recursion.org/d3-for-mere-mortals/
-[D3 Wiki Tutorials]: https://github.com/mbostock/d3/wiki/Tutorials
-[D3 Tutorials]: http://alignedleft.com/tutorials/d3/
-
-
-## Introduction
-
-In this homework, you will work with JavaScript, SVG and D3. 
-
-## Problem 1: Readings on D3 and SVG
-
-Please read this [blog post about D3], [Three Little Circles], [A Bar Chart
-Part 1] and answer the following questions. For further reference a short list
-of D3 and SVG resources is included below. Please take a look, as these may be
-helpful for this homework or future projects!
-
-[blog post about D3]: http://www.jeromecukier.net/blog/2013/03/05/d3-tutorial-at-strata-redux/
-[Three Little Circles]: http://mbostock.github.io/d3/tutorial/circle.html
-[A Bar Chart Part 1]: http://mbostock.github.io/d3/tutorial/bar-1.html
-
-1. How can D3 access and change the DOM? What do `select` and `selectAll` do?
-
-2. What are the `d` and `i` in `function(d){}` and `function(d, i){}`?
-
-3. Write sample lines of JavaScript to add a `div` element with class
-   "barChart1" and to add an svg element with class "barChart2" with square
-   dimensions.
-
-4. Describe `append`, `update`, `enter`, and `exit` at a high level. What does
-   "selectAll + data + enter + append" refer to?
-
-5. What are the main differences between drawing a bar chart with HTML and SVG?
-
-6. In drawing the simple bar chart with D3 and SVG, what elements were
-   appended, and to what parts of the graph did these elements correspond?
-
-
 ## Problem 2: Implement a Line Graph with D3
 
 For this assignment you will create a line graph based on the KNMI dataset (that we used last week).

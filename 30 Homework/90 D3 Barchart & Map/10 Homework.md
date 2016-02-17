@@ -1,0 +1,105 @@
+# D3
+
+## Problem 2: Implement a Line Graph with D3
+
+For this assignment you will create a line graph based on the KNMI dataset (that we used last week).
+Create a new HTML file that loads the D3 script (make sure that you have this file saved locally).
+Create separte JavaScript file for your program.
+
+Before you get started, take a look at [these D3 examples] for a simple line
+graph and a multiseries line graph. Note for the simple line graph, the
+JavaScript is < 60 lines with whitespace. You are supposed to create a plot
+from scratch, not just copy from the examples.
+
+[these D3 examples]: https://github.com/mbostock/d3/wiki/Gallery
+
+The most convenient way to load your data set is to put in JSON format and to
+then load it using the `d3.json` function. You can also use a CSV file, as long as you load your data from a separate file and use the proper d3 function to load it. Note that these loading functions take callbacks and that the
+file loading is done asynchronously, so the data will only be available in
+the scope of the callback. As an aside: if you want to load several files
+that all need to be available before your program can run look into 
+[queue.js].
+
+[queue.js]: https://github.com/mbostock/queue
+
+Now create a line plot using the D3 functionality, make sure that you properly
+label the axes, that the plot has a title and that the data source is 
+explained. Make sure that the date axis uses JavaScript dates, something that is
+quite easy using d3.time.format function.
+
+D3 also supports interactivity, in particular the selection.on
+function allows you to bind event listeners to DOM elements. Recreate the 
+moving cross-hair from week 5's assignment by binding an event listener
+to the appropriate DOM element. Note that D3 also makes dealing with mouse
+coordinates easier, see d3.mouse, and that the D3 scales
+have an invert function. Recreate the pop-up of week 5 as well, 
+here you can use D3 to manipulate the DOM, but the use of setTimeout
+is no different from that of week 5.
+
+Submit your completed files in a folder titled `d3line` containing `d3line.html` , `d3line.js` and
+`d3line.css`.
+
+
+## Problem 3: Interactive map with D3
+
+In this problem you will be analyzing your geographical data with D3, the idea
+is to find a data set that has data for each country (or most countries) in the
+world and use that data to make a choropleth map. Data you could use are the number
+of inhabitants, the GDP, or the population density.
+
+D3 contains an add-on called datamaps which you can get at
+<http://datamaps.github.com>. Datamaps will replace your svg map for this
+problem. Check out its various examples of usage, including
+<http://bl.ocks.org/markmarkoh/4127667>. You could use  the same data as for the previous assignment, but this time using D3 and datamaps. Specifically, you will need to
+adapt your data format to be compatible with that expected by datamaps. For
+example, if you were to modify the example at 
+<http://bl.ocks.org/markmarkoh/4127667>, you will need to figure out the 
+three-letter country codes:
+
+	fills: {
+		_your_class_name_: '...', // your color here
+		// fill more classes
+		defaultFill: '#00446A' // Rest of world
+	},
+	
+	// Fill in countries, key is three letter country name.
+	// data contains fillKey and tooltip (name)
+	data: {
+		'MEX':{ // e.g.mexico
+			fillKey: '..', // refer to class name, above
+			name: 'for tool tip'
+		},
+		...
+		// add more countries here
+	}
+	...
+
+### Interactivity
+
+By using datamaps, you should now be able to add interactivity to your map. In
+the example above country names appear upon mouseover. You should also make
+country names as well as the raw values of your data appear on mouse over. You
+can choose how to show this information, either as a tool tip or a label inside
+or aside the country. In addition you should also implement some sort of
+highlighting mechanism, e.g., changing the fill (color or opacity) or stroke of
+the country that is being moused-over.
+
+### Discuss your interactivity choices
+
+At the bottom of d3map.html (the HTML page that contains the map you are making)
+briefly explain the design choices you made with
+regard to interactivity. What kind of mouseover effects did you enable and why?
+What visual queries does your map support and what ones does it not?
+
+Submit your completed files in a folder titled `d3map` containing `d3map.html`,
+`d3map.css`, and `d3map.js`. Note that you may not need `d3map.css` here unless you
+would like to change additional styling with regard to text, margins, etc.
+
+## Submit instructions
+
+1. Create folder D3 in your master branch and push the following files:
+   * 1: `d3questions.pdf`
+   * 2: `d3line.html`, `d3line.css`, and `d3line.js`, contained in a folder `d3line`
+   * 3: `d3map.html`, `d3map.css`, and `d3map.js`, contained in a folder `d3map`
+
+2. Any libraries used, including d3 if linked to a local copy.
