@@ -53,18 +53,20 @@ You can find the detailed instructions on how to set up D3 [here][1].
 [1]: https://github.com/mbostock/d3/wiki
 
 *  Download the latest version of D3 [here][2]. Or, to link directly to the latest release, copy this snippet into your html file:
-    
+
       <script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>
 
 * When developing locally, note that your browser may enforce strict permissions for reading files out of the local file system. If you use d3.xhr locally (including d3.json et al.), you must have a local web server. For example, you can run Python's built-in server (in the console):
 
       python -m SimpleHTTPServer 8888 &
 
-or for Python 3+
-      
+* or for Python 3+:
+
       python -m http.server 8888 &
 
-You should run the server from within the directory where your html file is located. Once the server is running, go to: http://localhost:8888/.
+You should run the server from within the directory where your html file is located. Once the server is running, go to:
+
+      http://localhost:8888/.
    
 [2]: https://github.com/mbostock/d3/releases   
    
@@ -77,22 +79,23 @@ the scope of the callback. As an aside: if you want to load several files
 that all need to be available before your program can run look into 
 [queue.js].
 
-[queue.js]: https://github.com/mbostock/queue
-
 * Find the dataset that you would like to show in a barchart. You can use for example the [KNMI webpage] again to download the avarage monthly amount of rain in De Bilt in 2015.
 
 * Create a barchart.html file with a title of your data visualisation, include/link to the D3 library and include the barchart.js where you will write the rest of your code.
 
 * Convert the data into JSON format and load it using D3. Using console.log check whether your data is loaded correctly. Don't forget to run the server!
 
+* This is the begining of your barchart visualisation in D3 that you will make next week.
 
+
+[queue.js]: https://github.com/mbostock/queue
 [KNMI webpage]: http://projects.knmi.nl/klimatologie/daggegevens/selectie.cgi
 
 ## Submit
 
-* Create folder D3 in your master branch and push the following files:
-    * `questions.pdf`
-    * `barchart.html`, `barchart.js` ( and `barchart.css`, if necessary) contained in a folder `Barchart`
+Create folder D3 in your master branch and push the following files:
+* `questions.pdf`
+* `barchart.html`, `barchart.js` (and `barchart.css`, if necessary) contained in a folder `Barchart`
 
 
 
