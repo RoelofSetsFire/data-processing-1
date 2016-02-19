@@ -1,9 +1,5 @@
 # Reading 4
 
-Read the following articles and answer the accompanying question. 
-Push the pdf with your answer on GitHub. This is an individual assignment that will be graded pass/fail.
-
-
 * Colin Ware "Visual thinking for design", Chapter 2 ("What we can easily see") and Chapter 4 ("Color").
 
 * D. Borland and R. M. Taylor II, "[Rainbow Color Map (Still) Considered
@@ -13,15 +9,8 @@ Push the pdf with your answer on GitHub. This is an individual assignment that w
 [1]: cdn://excerpts/w4/Borland_Rainbow_Color_Map.pdf
 
 
-## Questions
-
-1. Find a rainbow color map visualization on the web. Please include a screenshot and link of the visualization.
-
-    1. Briefly summarize its intended objective and audience. Does it fail to successfully convey information? If so, why? Is there a good reason for this specific visualization to use a rainbow color scheme?
-
 	
-	
-## Recommended reading
+## Recommended readings
 
 These are not required readings, but interesting and therefore linked here for convenience:
 
