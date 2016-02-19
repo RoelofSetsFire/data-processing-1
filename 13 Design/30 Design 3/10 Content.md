@@ -35,7 +35,7 @@ Use the provided list of questions/points [critique.pdf] to help you structure y
 ##  Problem 2: Rainbow color map
 This is an individual assignment and will be graded pass/fail.
 
-Find a rainbow color map visualization on the web (see [Reading4] for reference). Please include a screenshot and link of the visualization.
+Find a rainbow color map visualization on the web (see [Reading 4] for reference). Please include a screenshot and link of the visualization.
 Briefly summarize its intended objective and audience. Does it fail to successfully convey information? If so, why? Is there a good reason for this specific visualization to use a rainbow color scheme?
 
 # Submit
@@ -45,6 +45,6 @@ Briefly summarize its intended objective and audience. Does it fail to successfu
 
 [Confluence by Harshawardhan Nene and Kedar Vaidya]:  http://iibh.apphb.com/
 [critique.pdf]: critique.pdf
-[Reading4]: /readings/reading-4
+[Reading 4]: /readings/reading-4
 
 
