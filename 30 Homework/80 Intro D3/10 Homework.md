@@ -49,12 +49,12 @@ helpful for this homework or future projects!
 
 ## D3 setup
 You will need to include the library and also run a simple server to execute your code.
-Read for detailed instructions: https://github.com/mbostock/d3/wiki
+For detailed instructions look [here].
 
-Download the latest version here:
+[here]: https://github.com/mbostock/d3/wiki
 
-https://github.com/mbostock/d3/releases
-Or, to link directly to the latest release, copy this snippet:
+Download the latest version of D3 here: https://github.com/mbostock/d3/releases
+Or, to link directly to the latest release, copy this snippet into your html file:
 
 <script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>
 
@@ -77,8 +77,11 @@ that all need to be available before your program can run look into
 
 [queue.js]: https://github.com/mbostock/queue
 
-two datasets for bartchart and interactive map.
-hier they are
+Find the dataset that you would like to show in a barchart. You can use for example the [KNMI webpage] again to download the avarage monthly amount of rain in De Bilt in 2015.
+Convert the data into JSON format and load it wit D3. Using console.log check whether your data is loaded correctly.
+
+
+[KNMI webpage]: http://projects.knmi.nl/klimatologie/daggegevens/selectie.cgi
 
 
 

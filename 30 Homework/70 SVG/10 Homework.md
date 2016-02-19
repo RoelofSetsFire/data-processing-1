@@ -1,45 +1,39 @@
-## SVG
+# SVG
 
 In this homework you will learn to manipulate maps using Javascript. The maps
 for the assignments below are in the Scalable Vector Graphics (SVG) format.
-Much like HTML SVG can be manipulated from Javascript through the Document
+Much like HTML, SVG can be manipulated from Javascript through the Document
 Object Model (DOM). For this week's homework you will create 2 static maps
 using SVG, CSS and Javascript.
 
 Note: This homework comes with supplementary files which you can download
-[here](hw7files.zip). Another file that is very useful is the mapping between
-[country codes and country names](countries.js).
+here: [SVG_Supplementary_Files]. Another file that is very useful is the mapping between
+[country codes and country names].
+
+[SVG_Supplementary_Files]: SVG_Supplementary_Files.zip
+[country codes and country names]: countries.js
 
 ## Resources
-
-### Scalable Vector Graphics
 
 * [SVG tutorial] from the *Mozilla Developer Network*
 * [SVG Documentation] from the *Mozilla Developer Network*: Documentation on
   SVG elements and what dimensions are needed.
 * [W3Schools SVG tutorial]
 
-_SVG was also explained in the lectures._
-
 [SVG Documentation]: https://developer.mozilla.org/en-US/docs/Web/SVG
 [SVG tutorial]: https://developer.mozilla.org/en-US/docs/SVG/Tutorial
 [W3Schools SVG tutorial]: http://www.w3schools.com/svg/default.asp
 
 
-### General
-The [Resources Page] with many more resources for the curious!
-
-[Resources Page]: /resources/cs171-resources
-
-
 ## Problem 1: SVG Maps
 
-SVG, as described in class, is a vector-based alternative to the raster-based
+SVG is a vector-based alternative to the raster-based
 Canvas. It is especially useful in cases where you want to interactively modify
 your drawn shapes such as areas on a map.
 
-The point of departure for this visualization is the world map. A freely
-available SVG world map such as the one [on Wikimedia], makes a great start.
+The point of departure for this visualization is the world map. 
+A freely available SVG maps can be found [on Wikimedia].
+For your convinience we provide you with an SVG of Europe.
 The map is fairly accurate, and each country is well delineated by its own
 `<path>` (or several `path`s). Using a DOM inspector (such as Firefox’s Web Developer Toolbar or
 Chrome’s Developer Tools (View > Developer > Developer Tools), shown below),
@@ -56,24 +50,11 @@ of a country in a specific continent.
 
 ### Continent setup
 
-Using the inspector, isolate the countries that make up a continent of your
-choice – pick one of:
+You have received four starter files with this homework: `svg.html`,
+`svg.css`, `main.js` and `europe.svg`.
 
-* North America
-* South America
-* *Europe* (suggested)
-* Africa
-* Asia
-
-(Sorry but Antarctica is not a valid choice!) You only need to isolate the
-major countries of the continent; no need to examine all the tiny islands.
-
-You have received three starter files with this homework: `svg.html`,
-`svg.css`, and `main.js`.
-
-Begin by working on `svg.html`. Gather up the appropriate svg data you need
-from the above map and paste it into `svg.html`. You may also alter the svg
-window and `viewBox` properties to crop your continent or otherwise change the
+Begin by working on `svg.html`. Open the `europe.svg` with text editor, copy the svg and paste it into `svg.html`. You may also alter the svg
+window and `viewBox` properties to scale your continent or otherwise change the
 bounding box on the map to your liking. The countries on the map are already
 marked with appropriate ids/classes.
 In `svg.css`, change the fill color for the continent (by class) to some color
@@ -88,26 +69,25 @@ take as arguments the id of a path (country) and a fill color. This will come
 in handy since most visualizations will want to color countries on-the-fly.
 
 Then make sure your changeColor() function works by calling the function on 4
-different countries than those you have changed via CSS in your chosen
-continent when the page loads. Make sure that these colors are different than
+countries (different than those you have changed via CSS) when the page loads. Make sure that these colors are different than
 those you have changed via CSS.
 
 ### Submit
-Submit your completed files in a folder titled SVG2 containing `svg2.html`,
-`svg2.css`, and `main2.js`. Don't forget to change the references in
-`svg2.html` to reflect the changed stylesheet and js file names!
+Submit your completed files in a folder titled SVG1 containing `svg1.html`,
+`svg1.css`, and `main1.js`. Don't forget to change the references in
+`svg1.html` to reflect the changed stylesheet and js file names!
 
 ## Problem 2: Analyze Geographical Data with SVG
 
 In Problem 2, you will extend Problem 1 by preparing a dataset of
 geographically indexed data in the JSON format and using this data set to
-create a color­encoded map of your continent. Create new files, svg3.html,
-svg3.css, and main3.js, based on your problem 2 solution.
+create a color­encoded map of your continent. Create new files, svg2.html,
+svg2.css, and main2.js, based on your problem 2 solution.
 
 ### Acquire and prepare your data
 
 Prepare a dataset (your choice) of geographically indexed data. That is, you
-can choose any data set provided the data set points are indexed by country.
+can choose any data set provided that the data set points are indexed by country.
 Examples include world population by country, literacy rates by country, etc.
 Wikipedia has good examples like [List of Countries by Population] and [List of
 Countries and Dependencies by Population].
@@ -115,8 +95,8 @@ Countries and Dependencies by Population].
 [List of Countries by Population]: http://en.wikipedia.org/wiki/List_of_countries_by_population
 [List of Countries and Dependencies by Population]: http://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density
 
-Convert the data into JSON format (if necessary), and embed it into the
-svg3.html document. This means your data will look something like:
+Convert the data into JSON format (write a python script if necessary), and embed it into the
+svg2.html document. This means your data will look something like:
 
 	{
 		data : "title",
@@ -157,17 +137,19 @@ density):
 You should also place a title above your graph. Though the example above
 includes a legend, this is not required.
 
-At the bottom of `svg.html` ( *visible when the page is viewed in a web browser* 
+At the bottom of `svg2.html` ( *visible when the page is viewed in a web browser* 
 ), explain why you chose the colors you did for your
 map. Try to invoke some of the principles of color mentioned in lecture
 including the type of color series you are using (sequential, diverging, etc,
 and also note that the above example may or may not be a good example of color
 choice). Also, explain your reasoning behind creating the bounds for each
-category in your encoding.
+category in your encoding. We strongly advise you to have a look at the [ColorBrewer] (if possible, always choose color scheme for your map with [ColorBrewer]).
+
+[ColorBrewer]: http://colorbrewer2.org/
 
 ### Submit
-Submit your completed files in a folder titled SVG3 containing `svg3.html`,
-`svg3.css`, and `main3.js`. Note that you may not need `svg3.css` here unless
+Submit your completed files in a folder titled SVG2 containing `svg2.html`,
+`svg2.css`, and `main2.js`. Note that you may not need `svg2.css` here unless
 you would like to change additional styling with regard to text, margins, etc.
 
 
