@@ -40,22 +40,18 @@ Week 5:
     'Reading 5': '/readings/reading-5'
     'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
-    'Video lecture: D3': '/labs/d3'
     'Homework: D3': '/homework/d3'
     
 Week 6:
     'Design workshop [Monday 13:00]': '/design/design-5'
     'Design workshop deadline [Friday 23:59]':
+    'Video lecture: Storytelling': 'talks/storytelling'
     'Reading 6': '/readings/reading-6'
     'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
-    'Video lecture: D3': '/labs/d3'
     'Homework: D3': '/homework/d3'
     
 Week 7:
-    'Design workshop [Monday 13:00]': '/design/design-6'
-    'Design workshop deadline [Friday 23:59]':
-    'Reading 7': '/readings/reading-7'
     'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
     'Homework: Linked views in D3': '/homework/linked-views'
