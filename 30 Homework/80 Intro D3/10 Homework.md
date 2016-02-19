@@ -53,14 +53,16 @@ You can find the detailed instructions on how to set up D3 [here][1].
 [1]: https://github.com/mbostock/d3/wiki
 
 *  Download the latest version of D3 [here][2]. Or, to link directly to the latest release, copy this snippet into your html file:
-<script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    
+      <script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>
 
 * When developing locally, note that your browser may enforce strict permissions for reading files out of the local file system. If you use d3.xhr locally (including d3.json et al.), you must have a local web server. For example, you can run Python's built-in server (in the console):
 
-python -m SimpleHTTPServer 8888 &
+      python -m SimpleHTTPServer 8888 &
 
 or for Python 3+
-python -m http.server 8888 &
+      
+      python -m http.server 8888 &
 
 You should run the server from within the directory where your html file is located. Once the server is running, go to: http://localhost:8888/.
    
