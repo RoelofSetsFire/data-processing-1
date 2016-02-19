@@ -4,6 +4,7 @@
 
 In this activity, you will critique a visualization and identify design
 elements of visualizations that support analysis and communication: 
+
 * [The Ebb and Flow of Movies]
 
 Take 10-15 minutes to examine the visualisation on your own and briefly discuss it with your neighbour.
@@ -26,22 +27,24 @@ Questions for discussion:
 This is an individual assignment and will be graded pass/fail.
 
 Write a short design critique (one page) of the following visualization: 
-[Confluence by Harshawardhan Nene and Kedar Vaidya].
+
+* [Confluence by Harshawardhan Nene and Kedar Vaidya].
 
 Use the provided list of questions/points [critique.pdf] to help you structure your critique. 
-
-[Confluence by Harshawardhan Nene and Kedar Vaidya]:  http://iibh.apphb.com/
-[critique.pdf]: critique.pdf
 
 ##  Problem 2: Rainbow color map
 This is an individual assignment and will be graded pass/fail.
 
-Find a rainbow color map visualization on the web. Please include a screenshot and link of the visualization.
+Find a rainbow color map visualization on the web (see [Reading4] for reference). Please include a screenshot and link of the visualization.
 Briefly summarize its intended objective and audience. Does it fail to successfully convey information? If so, why? Is there a good reason for this specific visualization to use a rainbow color scheme?
 
 # Submit
 * Submit a single pdf document containing your answers to problem 1 & 2.
 * Your answers can be either in English or in Dutch, whichever you prefer.
 * This is an indivisual assignment and will be graded pass/fail.
+
+[Confluence by Harshawardhan Nene and Kedar Vaidya]:  http://iibh.apphb.com/
+[critique.pdf]: critique.pdf
+[Reading4]: /reading/reading-4
 
 
