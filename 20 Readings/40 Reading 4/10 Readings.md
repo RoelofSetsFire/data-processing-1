@@ -1,8 +1,10 @@
 # Reading 4
 
-Read the following articles and answer the accompanying questions.
+Read the following articles and answer the accompanying question. 
+Push the pdf with your answer on GitHub. This is an individual assignment that will be graded pass/fail.
 
-* Colin Ware "Visual thinking for design", Chapter 3, Chapter 4
+
+* Colin Ware "Visual thinking for design", Chapter 2 ("What we can easily see") and Chapter 4 ("Color").
 
 * D. Borland and R. M. Taylor II, "[Rainbow Color Map (Still) Considered
   Harmful][1]", IEEE Computer Graphics and Applications, vol. 27, no. 2, pp.
@@ -10,9 +12,18 @@ Read the following articles and answer the accompanying questions.
 
 [1]: cdn://excerpts/w4/Borland_Rainbow_Color_Map.pdf
 
-## Recommended
 
-These are not required for homework questions, but linked here for convenience:
+## Questions
+
+1. Find a rainbow color map visualization on the web. Please include a screenshot and link of the visualization.
+
+    1. Briefly summarize its intended objective and audience. Does it fail to successfully convey information? If so, why? Is there a good reason for this specific visualization to use a rainbow color scheme?
+
+	
+	
+## Recommended reading
+
+These are not required readings, but interesting and therefore linked here for convenience:
 
 * A. Zeileis, K. Hornik, and P. Murrell, "[Escaping RGBland: Selecting colors
   for statistical graphics][2]", Computational Statistics & Data Analysis, vol.
@@ -24,24 +35,4 @@ These are not required for homework questions, but linked here for convenience:
 [2]: cdn://excerpts/w4/Zeileis_Escaping_RGBland.pdf
 [3]: cdn://excerpts/w4/Rogowitz_How_not_to_lie.pdf
 
-## Questions
 
-1. Patterns and colors are essential to maps. Compare a search for Harvard University on two interactive maps (e.g., Google Maps, Bing Maps, Yahoo! Maps, Apple Maps, map.harvard.edu). Answer the following questions, making references to concepts explained in Ware such as pattern recognition and properties of color. Please include screenshots of the examples you are comparing.
-
-    1. Which map promotes an easier visual search for buildings?
-    2. Which map more effectively visualizes routes from a random point A to point B?
-    3. Which map is an overall better visualization, and why? 
-
-2. Find a rainbow color map visualization on the web. Please include a screenshot and link of the visualization.
-
-    1. Briefly summarize its intended objective and audience. Does it fail to successfully convey information? If so, why? Is there a good reason for this specific visualization to use a rainbow color scheme?
-
-
-	
-* Colin Ware, Chapter 1 and Chapter 2. ("Visual Thinking for design")
-
-
-
-## Questions
-
-1. Ware describes bottom up and top down processing of visual information in the brain. Give a concrete and detailed example of how bottom up processing is influenced by top down processing, leading to a potentially wrong interpretation of "reality" by the viewer. Your example can include a screenshot, photo, or web site URL to refer to the scene that is being viewed.

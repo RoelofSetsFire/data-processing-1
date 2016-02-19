@@ -1,19 +1,34 @@
-# Design Critique 7
+# Design workshop
 
-This critique is a written assignment and will be graded.
+This critique is a group assignment and will be graded.
 
-Write a short paper of about 3 pages in which you critically evaluate visualization and suggest improvements and refinements.
-Examine this visualisation carefully, all the interactive components and accompanying text: [Job Market Tracker].
+## Problem 1: Design critique group reflection
+[Confluence by Harshawardhan Nene and Kedar Vaidya]
 
-Use the provided list of questions/points [critique.pdf] to help you structure your critique. The list is non exhaustive. You are encourage to discuss other issues, that are not mentioned in he list, but were mentioned during te course.
+Reflect on your indivdual critiques and make a one documents in which you in detail critique the visualisation from previous week.
+Suggest improvements and refinements. Comment on the color and interaction aspects according to readings from previous and this week.
 
-Base you answer on the literature, experts opnions but express also your own opinion.
-Refere to the theoretical principles, where necessery and always cite the sources. If you use visualisation blogs as source, always check if the author is also a published author in the visualisation community.
+Use the provided list of questions/points [critique.pdf] to help you structure your critique (not exhaustive, you can discuss more/other aspects if necessary). 
+
+
+## Problem 2: Patterns and colors in maps
+Patterns and colors are essential to maps. Compare a search for Harvard University on two interactive maps (e.g., Google Maps, Bing Maps, Yahoo! Maps, Apple Maps, map.harvard.edu). Answer the following questions, making references to concepts explained in Ware such as pattern recognition and properties of color. Please include screenshots of the examples you are comparing.
+
+* Which map promotes an easier visual search for buildings?
+
+* Which map more effectively visualizes routes from a random point A to point B?
+
+* Which map is an overall better visualization, and why?
+
+## Problem 3:
+find linked views visualisation, explain them including interaction and discuss the role of interaction in the chosen visualisation.
 
 # Submit
-Push your designCriqtique7.pdf on Github. Do not forget to put your name in the file!
+* Push one pdf containing answers to problem 1, 2 and 3 on Github. 
+* Do not forget to put your names in the file!
+* Cite the sources properly. 
+* Indicate which text are quotes (by. e.g. italicizing text and using quotation marks).
 
 
-
-[Job Market Tracker]: http://graphics.wsj.com/job-market-tracker/
+[Confluence by Harshawardhan Nene and Kedar Vaidya]:  http://iibh.apphb.com/
 [critique.pdf]: critique.pdf
