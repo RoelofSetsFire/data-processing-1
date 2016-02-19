@@ -10,18 +10,4 @@
 
 
 	
-## Recommended readings
-
-These are not required readings, but interesting and therefore linked here for convenience:
-
-* A. Zeileis, K. Hornik, and P. Murrell, "[Escaping RGBland: Selecting colors
-  for statistical graphics][2]", Computational Statistics & Data Analysis, vol.
-  53, no. 9, pp. 3259–3270, Jul. 2009.
-
-* B. E. Rogowitz, L. A. Treinish, and S. Bryson, "[How not to lie with
-  visualization][3]", Computers in Physics, vol. 10, no. 3, pp. 268–273, 1996.
-
-[2]: cdn://excerpts/w4/Zeileis_Escaping_RGBland.pdf
-[3]: cdn://excerpts/w4/Rogowitz_How_not_to_lie.pdf
-
 
