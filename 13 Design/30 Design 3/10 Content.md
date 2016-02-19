@@ -45,6 +45,6 @@ Briefly summarize its intended objective and audience. Does it fail to successfu
 
 [Confluence by Harshawardhan Nene and Kedar Vaidya]:  http://iibh.apphb.com/
 [critique.pdf]: critique.pdf
-[Reading4]: /reading/reading-4
+[Reading4]: /readings/reading-4
 
 
