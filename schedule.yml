@@ -23,53 +23,41 @@ Week 3:
     'Lab homework deadline [Friday 23:59]':
     'Video lecture: JavaScript': '/labs/javascript'
     'Homework: Javascript': '/homework/javascript'
+    
 Week 4:
-    'Lecture [Monday 11:00]':
-    'Video lecture: Perception': '/lectures/perception'
-    'Video lecture: Color': '/lectures/color'
-    'Reading 4 deadline [Friday 23:59]':
-    'Reading session group B2 [Wednesday 11:00]':
-    'Reading session group B1 [Wednesday 13:00]':
+    'Design workshop [Monday 13:00]': '/design/design-3'
+    'Design workshop deadline [Friday 23:59]':
     'Reading 4': '/readings/reading-4'
-    'Design critique 4': '/critiques/critique-4'
-    'Lab session [Monday 13:00 and Thursday 13:00]':
+    'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
-    'Homework: Interactivity': '/homework/interactivity'
-Week 5:
-    'Lecture [Monday 11:00]':
-    'Video lecture: Cognition': '/lectures/cognition'
     'Video lecture: D3': '/labs/d3'
-    'Reading 5 deadline [Friday 23:59]':
-    'Reading session group B2 [Wednesday 11:00]':
-    'Reading session group B1 [Wednesday 13:00]':
+    'Homework: SVG': '/homework/svg'
+    'Homework: Intro D3': '/homework/intro-d3'
+    
+Week 5:
+    'Design workshop [Monday 13:00]': '/design/design-4'
+    'Design workshop deadline [Friday 23:59]':
     'Reading 5': '/readings/reading-5'
-    'Design critique 5': '/critiques/critique-5'
-    'Lab session [Monday 13:00 and Thursday 13:00]':
+    'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
-    'Homework: SVG ': '/homework/svg'
-Week 6:
-    'Lecture [Monday 11:00]':
-    'Video lecture: Interaction': '/lectures/interaction'
-    'Video lecture: Maps': '/lectures/maps'
-    'Reading 6 deadline [Friday 23:59]': 
-    'Reading session group B2 [Wednesday 11:00]':
-    'Reading session group B1 [Wednesday 13:00]':
-    'Reading 6': '/readings/reading-6'
-    'Design critique 6': '/critiques/critique-6'
-    'Lab session [Monday 13:00 and Thursday 13:00]':
-    'Lab homework deadline [Friday 23:59]':
+    'Video lecture: D3': '/labs/d3'
     'Homework: D3': '/homework/d3'
-Week 7:
-    'Lecture [Monday 11:00]':
-    'Video lecture': '/talks/storytelling'
-    'Reading session group B2 [Wednesday 11:00]':
-    'Reading session group B1 [Wednesday 13:00]':
-    'Reading 7': '/readings/reading-7'
-    'Design critique 7': '/critiques/critique-7'
-    'Design critique 7 deadline [Friday 23:59]':
-    'Lab session [Monday 13:00 and Thursday 13:00]':
+    
+Week 6:
+    'Design workshop [Monday 13:00]': '/design/design-5'
+    'Design workshop deadline [Friday 23:59]':
+    'Reading 6': '/readings/reading-6'
+    'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
-    'Homework: D3 dashboard': '/homework/dashboard'
-Week 8:
-    'Design critique assignment': '/critiques/critique-8'
-    'Written assignment deadline [Friday 23:59]': 
+    'Video lecture: D3': '/labs/d3'
+    'Homework: D3': '/homework/d3'
+    
+Week 7:
+    'Design workshop [Monday 13:00]': '/design/design-6'
+    'Design workshop deadline [Friday 23:59]':
+    'Reading 7': '/readings/reading-7'
+    'Lab session [Wednesday 11:00 and Friday 11:00]':
+    'Lab homework deadline [Friday 23:59]':
+    'Homework: Linked views in D3': '/homework/linked-views'
+    
+
