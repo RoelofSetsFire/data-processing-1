@@ -124,7 +124,7 @@ x<sub>screen</sub> = alpha * x<sub>data</sub> + beta
 Because finding the two constants *alpha* and *beta* is a bit tedious we will create a function that can do it for us. We will use JavaScript's support for *closures* to create a function *createTransform* that calculates *alpha* and *beta* and returns a transformation function. The following snippet of code demonstrates this technique, but you will have to implement the actual calculation yourself.
 
 	function createTransform(domain, range){
-		\\ domain is a two-element array of the data bounds [domian_min, domian_max]
+		\\ domain is a two-element array of the data bounds [domain_min, domain_max]
 		\\ range is a two-element array of the screen bounds [range_min, range_max]
 		\\ This gives you two equations to solve:
 		\\ range_min = alpha * domain_min + beta
@@ -140,7 +140,7 @@ Because finding the two constants *alpha* and *beta* is a bit tedious we will cr
  
 To test this function you can make a transformation that transforms the domain *[10, 20]* to the range *[10, 20]* and see whether points are transformed to themselves:
 
-	var tranform = createTransform([10, 20], [10, 20]);
+	var transform = createTransform([10, 20], [10, 20]);
  	console.log(transform(15));  // should log 15
 
 ![figure2](transformation.png) 
