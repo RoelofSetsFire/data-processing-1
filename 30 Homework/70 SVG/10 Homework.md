@@ -81,7 +81,7 @@ Submit your completed files in a folder titled SVG1 containing `svg1.html`,
 
 In Problem 2, you will extend Problem 1 by preparing a dataset of
 geographically indexed data in the JSON format and using this data set to
-create a color­encoded map of your continent. Create new files, svg2.html,
+create a color-encoded map of your continent. Create new files, svg2.html,
 svg2.css, and main2.js, based on your problem 2 solution.
 
 ### Acquire and prepare your data
@@ -91,6 +91,8 @@ can choose any data set provided that the data set points are indexed by country
 Examples include world population by country, literacy rates by country, etc.
 Wikipedia has good examples like [List of Countries by Population] and [List of
 Countries and Dependencies by Population].
+
+Your visualisation could consists of Europe only. In that case use the SVG map provided in the assignment. Alternatively you can visualise the whole world. Freely available SVG maps can be found [on Wikimedia].
 
 [List of Countries by Population]: http://en.wikipedia.org/wiki/List_of_countries_by_population
 [List of Countries and Dependencies by Population]: http://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density
