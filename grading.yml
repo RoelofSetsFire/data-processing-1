@@ -1,12 +1,11 @@
 formulas:
-    github: (scope * (3 * correctness + 2 * style) / 125.0 * 9 + 1).round(1)
-    week1: (scope * (3 * correctness + 2 * style) / 125.0 * 9 + 1).round(1)
-    week2: (scope * (3 * correctness + 2 * style) / 125.0 * 9 + 1).round(1)
-    week3: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
-    week4: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
-    week5: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
-    week6: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
-    week7: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
+    hw1: (scope * (3 * correctness + 2 * style) / 125.0 * 9 + 1).round(1)
+    hw2: (scope * (3 * correctness + 2 * style) / 125.0 * 9 + 1).round(1)
+    hw3: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
+    hw4: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
+    hw5: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
+    hw6: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
+    hw7: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
     
 calculation:
     normal:
@@ -16,11 +15,10 @@ psets:
     type: float
     drop: scope
     grades:
-        github: 1
-        week2: 1
-        week3: 1
-        week4: 1
-        week5: 1
-        week6: 1
-        week7: 1
-        week8: 3
+        hw1: 1
+        hw2: 1
+        hw3: 1
+        hw4: 1
+        hw5: 1
+        hw6: 1
+        hw7: 3
