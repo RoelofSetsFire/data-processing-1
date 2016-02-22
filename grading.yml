@@ -9,16 +9,27 @@ formulas:
     
 calculation:
     normal:
-        psets: 100
+        design: 35
+        tech: 65
 
-psets:
+design:
     type: float
-    drop: scope
     grades:
-        hw1: 1
-        hw2: 1
-        hw3: 1
-        hw4: 1
-        hw5: 1
-        hw6: 1
-        hw7: 3
+        week1: 1
+        week2: 1
+        week3: 1
+        week4: 1
+        week5: 1
+        week6: 1
+        
+tech:
+    type: float
+    grades:
+        hw1:1
+        hw2:1
+        hw3:1
+        hw4:1
+        hw5:1
+        hw6:1
+        hw7:1
+        
