@@ -1,14 +1,16 @@
 # D3
+This week you will implement an interactive barchart and an interactive map using D3. Note that you are not allow to use any other libraries then D3.
 
-## Problem 2: Implement a barchart with D3
+## Problem 1: Interactive barchart with D3
 
 
 
 Submit your completed files in a folder titled `d3bar` containing `d3bar.html` , `d3bar.js` and
-`d3bar.css`.
+`d3bar.css`.  Note that you may not need `d3bar.css` here unless you
+would like to change additional styling with regard to text, margins, etc.
 
 
-## Problem 3: Interactive map with D3
+## Problem 2: Interactive map with D3
 
 In this problem you will be analyzing your geographical data with D3, the idea
 is to find a data set that has data for each country (or most countries) in the
@@ -65,9 +67,7 @@ would like to change additional styling with regard to text, margins, etc.
 
 ## Submit instructions
 
-1. Create folder D3 in your master branch and push the following files:
-   * 1: `d3questions.pdf`
-   * 2: `d3line.html`, `d3line.css`, and `d3line.js`, contained in a folder `d3line`
-   * 3: `d3map.html`, `d3map.css`, and `d3map.js`, contained in a folder `d3map`
-
-2. Any libraries used, including d3 if linked to a local copy.
+1. Push the following into your D3 folder on GitHub:
+   * 1: `d3bar.html`, `d3bar.css`, and `d3bar.js`, contained in a folder `d3bar`
+   * 2: `d3map.html`, `d3map.css`, and `d3map.js`, contained in a folder `d3map`
+   * 3: D3 library, if linked to a local copy.
