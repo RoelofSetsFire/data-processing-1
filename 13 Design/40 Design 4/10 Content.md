@@ -5,6 +5,7 @@ This is a group assignment and will be graded.
 ## Problem 1: Design critique group reflection
 
 Take your analysis and ideas from the design critique of last week and discuss them with your group ([Confluence by Harshawardhan Nene and Kedar Vaidya]).
+
 * Can you find a consensus? 
 * Prepare one documents in which you in detail critique the visualisation as a group (max 2 pages). 
 * Comment on the color and interaction aspects (according to [Reading 4] and [Reading 5]).
