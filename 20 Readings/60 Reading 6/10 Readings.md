@@ -5,7 +5,7 @@
 
 [1]: http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf
 
-# For those who are interested:
+## For those who are interested, some random papers and talks related to Data Processing and Visualisation:
 * Ted Talk: [The beauty of data visualisation]
 * The Guardian article: [Why you should never trust the data visualisation]
 * [Watch out for Superman]
