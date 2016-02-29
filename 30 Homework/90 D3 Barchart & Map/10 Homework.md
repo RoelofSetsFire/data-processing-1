@@ -1,11 +1,12 @@
-# D3
+# D3 interactive barchart and map
 This week you will implement an interactive barchart and an interactive map using D3. Note that you are not allow to use any other libraries then D3.
 
 ## Problem 1: Interactive barchart with D3
 
 For this part of the assignment you will use the files that you prepared last week.
 Read [Part 3] of the barchart tutorial (you might want to read [Part 2] of this tutorial as well, if you haven't done so yet) and reproduce the barchart using your own data that you prepared last week.
-As for interaction, you bars should change color while hovering over then (just like in the example in [Part 3]) and additionally you should display the value of the bar above it. You can either just print the text or use a d3-tip. 
+As for interaction, your bars should change color while hovering over them (just like in the example in [Part 3]).
+Additionally you should display the data value for the chosen bar above it (on mouse hover). You can either just print the text or use a d3-tip. 
 
 [Part 3]: https://bost.ocks.org/mike/bar/3/
 [Part 2]: https://bost.ocks.org/mike/bar/2/
