@@ -3,10 +3,15 @@ This week you will implement an interactive barchart and an interactive map usin
 
 ## Problem 1: Interactive barchart with D3
 
+For this part of the assignment you will use the files that you prepared last week.
+Read [Part 3] of the barchart tutorial (you might want to read [Part 2] of this tutorial as well, if you haven't done so yet) and reproduce the barchart using your own data that you prepared last week.
+As for interaction, you bars should change color while hovering over then (just like in the example in [Part 3]) and additionally you should display the value of the bar above it. You can either just print the text or use a d3-tip. 
 
+[Part 3]: https://bost.ocks.org/mike/bar/3/
+[Part 2]: https://bost.ocks.org/mike/bar/2/
 
-Submit your completed files in a folder titled `d3bar` containing `d3bar.html` , `d3bar.js` and
-`d3bar.css`.  Note that you may not need `d3bar.css` here unless you
+Update your completed files in a folder `Barchart`: `barchart.html` , `barchart.js` and
+`barchart.css`.  Note that you may not need `barchart.css` here unless you
 would like to change additional styling with regard to text, margins, etc.
 
 
@@ -68,6 +73,6 @@ would like to change additional styling with regard to text, margins, etc.
 ## Submit instructions
 
 1. Push the following into your D3 folder on GitHub:
-   * 1: `d3bar.html`, `d3bar.css`, and `d3bar.js`, contained in a folder `d3bar`
+   * 1: `barchart.html`, `barchart.css`, and `barchart.js`, contained in a folder `Barchart`
    * 2: `d3map.html`, `d3map.css`, and `d3map.js`, contained in a folder `d3map`
    * 3: D3 library, if linked to a local copy.
