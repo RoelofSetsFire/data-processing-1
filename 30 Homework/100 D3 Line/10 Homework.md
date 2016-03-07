@@ -49,7 +49,9 @@ have an invert function.
 
 Create a [pop-up] next to your moving cross-hair/dot in which you print the exact values of the variables (example: date and temperature). 
 
+
 [pop-up]: http://tylernwolf.com/#/portfolio/corrdisp
+
 
 ### Submit 
 Submit your completed files in a folder titled `d3line` containing `d3line.html` , `d3line.js` and
