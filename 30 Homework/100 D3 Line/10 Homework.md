@@ -1,5 +1,6 @@
 # D3: Implement an interactive multiseries line graph with D3
 
+Note: there are plenty of links in this assignment so that you browse through a lot of examples to see what is possible in D3. This does not mean your visualisation should look and work exactly like those in the examples. This is just for inspiration! Also do not blindly copy the whole code, always create your files from scracht.
 
 ## Part 1: Prepare dataset
 For this assignment you will create a line graph based on your own dataset (you can use again the KNMI dataset).
