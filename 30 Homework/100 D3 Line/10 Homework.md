@@ -4,9 +4,13 @@
 ## Part 1: Prepare dataset
 For this assignment you will create a line graph based on your own dataset (you can use again the KNMI dataset).
 Your dataset should contain the following variables:
+
 1. time variable (example: data per month)
+
 2. at least three different variables for 1 time stemp (example: maximum temperature, minimum temperature, average temperature per month)
+
 3. this dataset should be dependend on one extra variable, which should have at least two values (example: two different years, two different cities)
+
 Make sure that you put your data in JSON format correctly.
 If you want to load several data files
 that all need to be available before your program can run look into 
@@ -17,13 +21,16 @@ Create separte JavaScript file for your program.
 
 
 [these D3 examples]: https://github.com/mbostock/d3/wiki/Gallery
+
 [queue.js]: https://github.com/mbostock/queue
 
 ## Part 2: Create line graph
 Before you get started, take a look at these D3 examples for a [simple line graph] and a [multiseries line graph]. Note for the simple line graph, the
 JavaScript is < 60 lines with whitespace. You are supposed to create a plot
 from scratch, not just copy from the examples.
+
 [simple line graph]: http://bl.ocks.org/mbostock/3883245
+
 [multiseries line graph]: http://bl.ocks.org/mbostock/3884955
 
 Now create a line plot using the D3 functionality. The line plot should consist of a single line (example: average temp per month for one year).
@@ -43,7 +50,8 @@ have an invert function.
 Create a [pop-up] next to your moving cross-hair/dot in which you print the exact values of the variables (example: date and temperature). 
 
 
-### Submit your completed files in a folder titled `d3line` containing `d3line.html` , `d3line.js` and
+### Submit 
+Submit your completed files in a folder titled `d3line` containing `d3line.html` , `d3line.js` and
 `d3line.css`.
 
 
@@ -60,7 +68,8 @@ Extend your new multiseries line plot with one more interactive element. Add an 
 [slider]: http://romsson.github.io/dragit/example/nations.html
 
 
-### Submit your completed files in a folder titled `d3lineExtended` containing `d3lineExtended.html` , `d3lineExtended.js` and
+### Submit 
+Submit your completed files in a folder titled `d3lineExtended` containing `d3lineExtended.html` , `d3lineExtended.js` and
 `d3lineExtended.css`.
 
 [queue.js]: https://github.com/mbostock/queue
