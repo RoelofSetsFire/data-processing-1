@@ -65,7 +65,7 @@ Make sure you create a seperate set of files to create the mutliseries line plot
 Start with creating a plot that shows not one but at least three lines. Those lines should be permanently visible on the plot (only if you are ahead of schedule you can try to add/remove the lines interactively).
 
 Your plot should have the same interactivity as the just created single line graph.
-Extend your new multiseries line plot with one more interactive element. Add an element of your choice that will allow you to toggle between the extra variable (see Part1 point 3). For example you can make a [drop-down menu] where you choose a variable (example: a year), a [button] or [list] that toggles between variables (example: two different years) or a [slider] to change the variable.
+Extend your new multiseries line plot with one more interactive element. Add an element of your choice that will allow you to toggle between the extra variable (see Part1 point 3). For example you can make a [drop-down] where you choose a variable (example: a year), a [button] or [list] that toggles between variables (example: two different years) or a [slider] to change the variable.
 
 [drop-down]: http://bl.ocks.org/anupsavvy/9513382
 
