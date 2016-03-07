@@ -25,7 +25,7 @@ Create separte JavaScript file for your program.
 [queue.js]: https://github.com/mbostock/queue
 
 ## Part 2: Create line graph
-Before you get started, take a look at these D3 examples for a [simple line graph] and a [multiseries line graph]. Note for the simple line graph, the
+Before you get started, take a look at these D3 examples of a [simple line graph] and a [multiseries line graph]. Note for the simple line graph, the
 JavaScript is < 60 lines with whitespace. You are supposed to create a plot
 from scratch, not just copy from the examples.
 
@@ -49,6 +49,7 @@ have an invert function.
 
 Create a [pop-up] next to your moving cross-hair/dot in which you print the exact values of the variables (example: date and temperature). 
 
+[pop-up]: http://tylernwolf.com/#/portfolio/corrdisp
 
 ### Submit 
 Submit your completed files in a folder titled `d3line` containing `d3line.html` , `d3line.js` and
@@ -62,10 +63,15 @@ Make sure you create a seperate set of files to create the mutliseries line plot
 Start with creating a plot that shows not one but at least three lines. Those lines should be permanently visible on the plot (only if you are ahead of schedule you can try to add/remove the lines interactively).
 
 Your plot should have the same interactivity as the just created single line graph.
-Extend your new multiseries line plot with one more interactive element. Add an element of your choice that will allow you to toggle between the extra variable (see Part1 point 3). For example you can make a [drop-down menu] where you choose a variable (example: a year), a [button] that toggles between variables (example: two different years) or a [slider] to change the variable.
+Extend your new multiseries line plot with one more interactive element. Add an element of your choice that will allow you to toggle between the extra variable (see Part1 point 3). For example you can make a [drop-down menu] where you choose a variable (example: a year), a [button] or [list] that toggles between variables (example: two different years) or a [slider] to change the variable.
 
 [drop-down]: http://bl.ocks.org/anupsavvy/9513382
+
 [slider]: http://romsson.github.io/dragit/example/nations.html
+
+[list]: http://charts.animateddata.co.uk/whatmakesushappy/
+
+[button]: http://statick.org:3000/
 
 
 ### Submit 
