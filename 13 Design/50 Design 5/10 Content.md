@@ -1,4 +1,5 @@
 # Design workshop: Storytelling with data
+Time: 10 hours
 
 This is a group assignment and will be graded.
 This week you will create a narrative supported by severeal visualisations on a relevant topic of choice.
@@ -16,6 +17,7 @@ You can choose from one of the following news items from Het Parool:
 * [Nieuwe hotels blijven maar komen in Amsterdam]
 
 * [Amsterdam heeft hoog aantal laaggeletterden]
+
 
 
 Or you can choose your own relevant news item, like:
@@ -55,15 +57,15 @@ Each visual representation must be meaningful and all of them together must tell
 
 ## Part 4: PRESENTING
 
-Pitch your narrative supported by your sketch in a 3 minutes video. 
-Your sketch should be visible and you should go through it telling the story. 
+Pitch your narrative supported by your sketches in a 3 minutes video. 
+Your sketches should be visible and you should go through them telling the story. 
 Here are some examples of presenting the story supported by the visualisations: 
 * [Swine flu alert]
 * [Crisis narrows China UK gap]
 * [Storytelling by Robert Kosara]
 * [Wealth Inequality in America]
 
-Your task is really hard as you do not have real data nor real visualisations. Don't worry that the talks from the examples have advanced and fancy graphics. Your task is to sell your potential story so that you can implement it in the future! 
+Your task is really hard as you do not have real data nor real visualisations. But don't worry that unlike in the examples you do not have advanced and fancy graphics. Your task is to sell your potential story so that you can implement it in the future! 
 
 You can choose between different formats of your presentation. It can either be just a screencast (of the static visuals) with recorded voice [Swine flu alert], or a (phone) recording of you telling the story infront of the board/paper with your visualisations [Storytelling by Robert Kosara], or a full presentation with animated/annotated visualisations and voice (tip for windows users: Camtasia Studio has a trail version that you can use for this) [Wealth Inequality in America]. 
 
