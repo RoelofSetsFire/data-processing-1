@@ -1,7 +1,7 @@
-# D3 dashboard
+# D3 Linked Views
 
-Fot this week's homework you will create a dashboard in D3 consisting of at least two interactive visualisations.
-You can find many examples of dashboards online, here is one that comes close to what you will be designing in this assignment [Asylum Seekers Europe]. This is merely an example, be critical in your own design!
+Fot this week's homework you will create a linked views visualisation in D3 consisting of at least two interactive visualisations.
+You can find many examples of linked views online, here is one that comes close to what you will be designing in this assignment [Asylum Seekers Europe]. This is merely an example, be critical in your own design!
  
 [Asylum Seekers Europe]: https://public.tableau.com/s/gallery/asylum-seekers-europe
 
@@ -35,13 +35,13 @@ Write a short description of your data and the story that you want to tell with 
 
 ## Check before submitting: 
 * Each of your visualisations should have all the necessary ingredients (title, axes, names, etc.).
-* Design of your visualisations is important, also the overall design of your dashboard and webpage will be graded.
-* Think about all the design principles that were mentioned during the course and whether your dashboard is designed according to those.
-* Pay attention to the storytelling aspect of your dashboard.
+* Design of your visualisations is important, also the overall design of your webpage will be graded.
+* Think about all the design principles that were mentioned during the course and whether your visualizations are designed according to those.
+* Pay attention to the storytelling aspect of your visualizations.
   
 
 ## Submit instructions
 
-1. Create folder D3+ in your master branch and push all the files that you have created.
+1. Create folder D3LinkedViews in your master branch and push all the files that you have created.
 2. Push any libraries used, including d3 if linked to a local copy.
 3. Push the PDF in which you describe the design process and justify your design choices.
