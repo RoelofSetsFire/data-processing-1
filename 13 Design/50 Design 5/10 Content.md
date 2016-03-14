@@ -2,14 +2,14 @@
 Time: 10 hours
 
 This is a group assignment and will be graded.
-This week you will create a narrative supported by several visualizations on a relevant topic of choice.
+This week you will create a narrative supported by several visualizations on a news topic of choice.
 This narrative has to be presented in a 3 minutes video.
 
 Read the whole assignment and go trough the examples before you start!!
 
 ## Part 1: TOPIC
 
-You have to choose a topic of your story. This should be some relevant news item.
+You have to choose a topic of your story. This should be some up-to-date news item.
 You can choose from one of the following news items from Het Parool:
 
 * [Aantal mensen met bijstand blijft groeien in Nederland]
