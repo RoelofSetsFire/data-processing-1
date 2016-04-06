@@ -28,7 +28,7 @@ Gosia Migut
 *instructor*  
 <help@mprog.nl>
 
-Kim de Bie  
+Sascha van Essen  
 *teaching assistant*
 
 ## Goals for this course
