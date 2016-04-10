@@ -1,4 +1,4 @@
-# JavaScript Part 1
+# Part 1: JavaScript 
 
 The homework of coming week is about JavaScript. JavaScript is the only programming language that is supported by
 all modern web browsers and it is the least intrusive way of adding 
