@@ -1,10 +1,7 @@
-# Interactivity in Javascript
+# Part 2: Interactivity in Javascript
 
-The interactive features you will implement are a tooltip that shows
-the exact temperature for a given day and an cross-hair that follows the 
-X position of the mouse cursor and the Y position of the graph. The tooltip will
-be implemented as an absolutely positioned div-element and the
-cross-hair will be drawn on a canvas-element. 
+The interactive feature you will implement is a cross-hair that follows the 
+X position of the mouse cursor and the Y position of the graph.
 
 ## The cross-hair and event listeners
 
@@ -34,9 +31,8 @@ find the y-position relative to the canvas. You now have the coordinates
 where the horizontal and vertical lines of the cross-hair should cross. Draw
 the cross hair.
 
-## The tooltip and *setTimeout*
-
-The second interactive feature we are going to implement is a tooltip that 
+## Extra credit: The tooltip and *setTimeout*
+The additional interactive feature you can implement is a tooltip that 
 appears several seconds after the mouse stopped moving and shows the 
 actual, precise, data value under the cursor. The tooltip should be a 
 div-element that you position absolutely on top of the two
