@@ -1,4 +1,4 @@
-# JavaScript
+# JavaScript Part 1
 
 The homework of coming week is about JavaScript. JavaScript is the only programming language that is supported by
 all modern web browsers and it is the least intrusive way of adding 
@@ -33,7 +33,7 @@ CSS and JavaScript) and can serve as a reference.
 
 ## Questions
 Answer the following questions in your own words. This assignment will
-only be graded pass or fail.
+only be graded pass or fail. 
 
 * Explain the difference between the == operator and the === operator.
 * Explain what a closure is. (Note that JavaScript programs use closures very often.)
@@ -42,12 +42,12 @@ only be graded pass or fail.
 
 ## Checks before submitting
 
-* Did you create a folder Javascript in your repo?
-* Does your submission contain a PDF with the answers to the questions in Section "Questions" ?
+* Create a folder Homework in your DataProcessing repository on GitHub. In folder Homework create folder Javascript and push a PDF file with answers there.
+
 
 # Javascript: line graph 
 
-The assignment of week 3 is to create a line graph of
+The assignment of this week is to create a line graph of
 the temperature at the De Bilt weather station. We will implement this plot using JavaScript and the HTML 5 
 canvas-element. The canvas-element provides an API with which graphics can be created using JavaScript. 
 
@@ -163,13 +163,11 @@ Figure below shows you a very simple (and definitely not complete) version of th
 * Create an x-axis that uses calendar dates (instead of days since the first date in the data set).
 * Loading the data from file (you will need XMLHTTPRequest).
 * Nice graphical presentation will be credited.
-* Add interactivity to your graph by completing the following assignment: [Javascript Interactivity]
-
-[Javascript Interactivity]: /homework/interactivity
 
 
 ## Checks before submitting
 
 * Does your submission contain complete implementation of the temperature graph?
+* Push your files on GitHub in the folder Javascript.
 
 [guidlines]: guidlines.pdf
