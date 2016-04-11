@@ -1,6 +1,7 @@
 # Part 1: JavaScript 
 
-The homework of coming week is about JavaScript. JavaScript is the only programming language that is supported by
+The homeworks of coming weeks are all individual assignment. 
+This week we will be working with JavaScript. JavaScript is the only programming language that is supported by
 all modern web browsers and it is the least intrusive way of adding 
 interactive elements to a web page as it requires no plug-ins or other
 special extensions.
@@ -42,7 +43,7 @@ only be graded pass or fail.
 
 ## Checks before submitting
 
-* Create a folder Homework in your DataProcessing repository on GitHub. In folder Homework create folder Javascript and push a PDF file with answers there.
+* Create a folder Homework in your DataProcessing repository on GitHub. In folder Homework create folder Javascript and push a PDF file with the answers there.
 
 
 # Javascript: line graph 
