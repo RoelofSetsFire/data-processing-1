@@ -95,11 +95,13 @@ Write a python script to convert the data into JSON format ([JavaScript Object N
 svg2.html document. This means your data will look something like:
 
 	{
-		points : [ 
+		"points" : [ 
 			{ "country": "France" , "data": "3"},
 			{ "country": "Germany" , "data" : "5"}, ...
 		]
 	}
+
+Alternatively, your `points` object can be an array of arrays {"points": [["France", "3"], ["Germany", "5"], ....]}.
 
 [JavaScript Object Notation]: http://www.w3schools.com/json/
 
