@@ -72,7 +72,8 @@ You should run the server from within the directory where your html file is loca
 ## Load dataset in JSON
 
 The most convenient way to load your data set with D3 is to use JSON format and to
-load it using the `d3.json` function. You can also use a CSV file, as long as you load your data from a separate file and use the proper d3 function to load it. Note that these loading functions take callbacks and that the
+load it using the `d3.json` function. 
+You can also use a CSV file, as long as you load your data from a separate file and use the proper d3 function to load it. Note that these loading functions take callbacks and that the
 file loading is done asynchronously, so the data will only be available in
 the scope of the callback. As an aside: if you want to load several files
 that all need to be available before your program can run look into 
@@ -82,7 +83,7 @@ that all need to be available before your program can run look into
 
 * Create a barchart.html file with a title of your data visualisation, include/link to the D3 library and include the barchart.js where you will write the rest of your code.
 
-* Convert the data into JSON format and load it using D3. Using console.log check whether your data is loaded correctly. Don't forget to run the server!
+* Convert the data into JSON format and load it using D3. Print the data to the console using console.log(). This will aloow you to check whether your data is loaded correctly. Don't forget to run the server!
 
 * This is the begining of your barchart visualisation in D3 that you will make next week.
 
