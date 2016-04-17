@@ -92,19 +92,14 @@ Your visualisation could consists of Europe only. In that case use the SVG map p
 [List of Countries and Dependencies by Population]: http://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density
 
 Write a python script to convert the data into JSON format ([JavaScript Object Notation]), and embed the formatted data into the
-svg2.html document. Your JSON should define `points` object that consists of an array of points.
-This means your data will look something like:
+svg2.html document. This means your data will look something like:
 
 	{
-		points : [ /* Array of points follows.. */
-			/* Each point: an array of the country name and the data value */
-			[ "country1" , "country1_data"],
-			[ "country2" , "country2_data"] ...
+		points : [ 
+			{ "country": "France" , "data": "3"},
+			{ "country": "Germany" , "data" : "5"}, ...
 		]
 	}
-
-Alternatively, your JSON can also define the `points` object with an array consisting of objects eg.  {points: [{"country": "France", "data": "3"},{"country": "Germany", "data": "5"},...]}.
-
 
 [JavaScript Object Notation]: http://www.w3schools.com/json/
 
