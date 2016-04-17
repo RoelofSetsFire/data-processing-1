@@ -69,6 +69,7 @@ those you have changed via CSS.
 Submit your completed files in a folder titled SVG1 containing `svg1.html`,
 `svg1.css`, and `main1.js`. Don't forget to change the references in
 `svg1.html` to reflect the changed stylesheet and js file names!
+As usual push everything on GitHub! Don't forget to put your name in all the files!
 
 ## Problem 2: Analyze Geographical Data with SVG
 
@@ -153,9 +154,12 @@ Submit your completed files in a folder titled SVG2 containing `svg2.html`,
 `svg2.css`, and `main2.js`. Note that you may not need `svg2.css` here unless
 you would like to change additional styling with regard to text, margins, etc.
 Submit also your python script that converts your data to JSON format.
+As usual push everything on GitHub! Don't forget to put your name in all the files!
 
 
 ### Checklist 
 
 * Are all the files present and in the correct relative paths?
 * Do you have enough comments and are your variable names appropriate?
+* Did you push&commit everything on GitHub?
+* Does every file contain your name?
