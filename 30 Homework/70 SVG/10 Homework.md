@@ -31,9 +31,7 @@ SVG is a vector-based alternative to the raster-based
 Canvas. It is especially useful in cases where you want to interactively modify
 your drawn shapes such as areas on a map.
 
-The point of departure for this visualization is the world map. 
-A freely available SVG maps can be found [on Wikimedia].
-For your convinience we provide you with an SVG of Europe.
+The point of departure for this visualization is the map of Europe. You can find the `europe.svg` among the supplementary files. 
 The map is fairly accurate, and each country is well delineated by its own
 `<path>` (or several `path`s). Using a DOM inspector (such as Firefox’s Web Developer Toolbar or
 Chrome’s Developer Tools (View > Developer > Developer Tools), shown below),
@@ -45,7 +43,7 @@ elements which make up the countries.
 ![map example](map-new.png)
 
 In this problem, you will write a JavaScript function to change the fill color
-of a country in a specific continent.
+of several countries.
 
 
 ### Continent setup
@@ -53,13 +51,8 @@ of a country in a specific continent.
 You have received four starter files with this homework: `svg.html`,
 `svg.css`, `main.js` and `europe.svg`.
 
-Begin by working on `svg.html`. Open the `europe.svg` with text editor, copy the svg and paste it into `svg.html`. You may also alter the svg
-window and `viewBox` properties to scale your continent or otherwise change the
-bounding box on the map to your liking. The countries on the map are already
-marked with appropriate ids/classes.
-In `svg.css`, change the fill color for the continent (by class) to some color
-(not white), as well as the fill color of two or three countries in the
-continent (by ID) to other colors of your choice.
+Begin by working on `svg.html`. Open the `europe.svg` with text editor, copy the svg and paste it into `svg.html`. The countries on the map are already marked with appropriate ids/classes.
+In `svg.css`, change the fill color of three countries in the (eg. by ID) to three different colors of your choice.
 
 ### Programmatically change the color of a country
 
@@ -86,7 +79,7 @@ svg2.css, and main2.js, based on your problem 2 solution.
 
 ### Acquire and prepare your data
 
-Prepare a dataset (your choice) of geographically indexed data. That is, you
+Prepare a dataset of geographically indexed data. That is, you
 can choose any data set provided that the data set points are indexed by country.
 Examples include world population by country, literacy rates by country, etc.
 Wikipedia has good examples like [List of Countries by Population] and [List of
@@ -97,35 +90,42 @@ Your visualisation could consists of Europe only. In that case use the SVG map p
 [List of Countries by Population]: http://en.wikipedia.org/wiki/List_of_countries_by_population
 [List of Countries and Dependencies by Population]: http://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density
 
-Convert the data into JSON format (write a python script if necessary), and embed it into the
-svg2.html document. This means your data will look something like:
+Write a python script to convert the data into JSON format ([JavaScript Object Notation]), and embed the formatted data into the
+svg2.html document. Your JSON should define `points` object that consists of an array of points.
+This means your data will look something like:
 
 	{
-		data : "title",
 		points : [ /* Array of points follows.. */
-			/* For each point, index is some country name */
+			/* Each point is again an array consisting of the country name and the corresponding data value */
 			[ "country1" , "country1_data"],
 			[ "country2" , "country2_data"] ...
 		]
 	}
 
+Alternatively, your JSON can also define the `points` object with an array consisting of objects eg.  {points: [{"country": "France", "data": "3"},{"country": "Germany", "data": "5"},...]}.
+
+
+[JavaScript Object Notation]: http://www.w3schools.com/json/
+
 ### Color code your map
 
-Using JavaScript, iterate over your dataset. For each country in the dataset,
-locate the appropriate path with the same ID, and adjust its fill style to
-reflect the data by color coding.
+Using JavaScript, iterate over your dataset. 
+Check [JSON HowTo] to convert a JSON text into a JavaScript object.
 
+For each country in the dataset, locate the appropriate path with the same ID (you might want to use the mapping between
+[country codes and country names]), and adjust its fill style to
+reflect the data by color coding. 
 That is, you may now get rid of any arbitrary colors applied from the previous
 problem using CSS and only color countries by their encoded data.
-
-You do not have to do this for ALL countries, just countries in your selected
-continent. Your iteration loop can simply "skip" over countries whose
-corresponding paths are not tagged in the SVG.
-
 The color coding is left up to you though you have to justify it. Choose a
 spectrum which maps to the range of your data points. For example, a
 population's range is from about 10,000 (Tuvalu) through 1,350,000,000 (China).
-Again, appropriate examples can be chosen from the Wikipedia lists above.
+We strongly advise you to have a look at the [ColorBrewer]. If possible, always choose color scheme for your map with [ColorBrewer].
+
+You do not have to do this for ALL countries. Your iteration loop can simply "skip" over countries whose
+corresponding paths are not tagged in the SVG. If the path is present in the SVG but you don't have the data for the corresponding country, you have to treat it as a missing value. Choose one appropariate color for your missing values.
+
+[JSON HowTo]: http://www.w3schools.com/json/json_eval.asp
 
 ### Add the details and discuss your implementation
 
@@ -137,15 +137,14 @@ density):
 ![map sample 2](map2.png)
 
 You should also place a title above your graph. Though the example above
-includes a legend, this is not required.
+includes a proper legend, this is not required. Make sure though that it is understandable what the colors represent.
 
 At the bottom of `svg2.html` ( *visible when the page is viewed in a web browser* 
-), explain why you chose the colors you did for your
-map. Try to invoke some of the principles of color mentioned in lecture
+), explain your choice of colors. Try to invoke some of the principles of color mentioned in the readings/designs
 including the type of color series you are using (sequential, diverging, etc,
 and also note that the above example may or may not be a good example of color
 choice). Also, explain your reasoning behind creating the bounds for each
-category in your encoding. We strongly advise you to have a look at the [ColorBrewer] (if possible, always choose color scheme for your map with [ColorBrewer]).
+category in your encoding.
 
 [ColorBrewer]: http://colorbrewer2.org/
 
@@ -153,6 +152,7 @@ category in your encoding. We strongly advise you to have a look at the [ColorBr
 Submit your completed files in a folder titled SVG2 containing `svg2.html`,
 `svg2.css`, and `main2.js`. Note that you may not need `svg2.css` here unless
 you would like to change additional styling with regard to text, margins, etc.
+Submit also your python script that converts your data to JSON format.
 
 
 ### Checklist 
