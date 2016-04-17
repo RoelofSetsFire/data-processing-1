@@ -83,7 +83,7 @@ that all need to be available before your program can run look into
 
 * Create a barchart.html file with a title of your data visualisation, include/link to the D3 library and include the barchart.js where you will write the rest of your code.
 
-* Convert the data into JSON format and load it using D3. Print the data to the console using console.log(). This will aloow you to check whether your data is loaded correctly. Don't forget to run the server!
+* Convert the data into JSON format and load it using D3. Print the data to the console using console.log(). This will allow you to check whether your data is loaded correctly. Don't forget to run the server!
 
 * This is the begining of your barchart visualisation in D3 that you will make next week.
 
