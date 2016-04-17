@@ -52,7 +52,7 @@ You have received four starter files with this homework: `svg.html`,
 `svg.css`, `main.js` and `europe.svg`.
 
 Begin by working on `svg.html`. Open the `europe.svg` with text editor, copy the svg and paste it into `svg.html`. The countries on the map are already marked with appropriate ids/classes.
-In `svg.css`, change the fill color of three countries in the (eg. by ID) to three different colors of your choice.
+In `svg.css`, change the fill color of three countries (eg. by ID) to three different colors of your choice.
 
 ### Programmatically change the color of a country
 
