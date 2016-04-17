@@ -96,7 +96,7 @@ This means your data will look something like:
 
 	{
 		points : [ /* Array of points follows.. */
-			/* Each point is again an array consisting of the country name and the corresponding data value */
+			/* Each point: an array of the country name and the data value */
 			[ "country1" , "country1_data"],
 			[ "country2" , "country2_data"] ...
 		]
