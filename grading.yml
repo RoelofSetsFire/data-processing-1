@@ -1,11 +1,9 @@
 formulas:
-    hw1: (scope * (3 * correctness + 2 * style) / 125.0 * 9 + 1).round(1)
-    hw2: (scope * (3 * correctness + 2 * style) / 125.0 * 9 + 1).round(1)
+    hw1: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
+    hw2: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
     hw3: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
     hw4: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
     hw5: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
-    hw6: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
-    hw7: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
     
 calculation:
     normal:
@@ -30,6 +28,4 @@ tech:
         hw3: 1
         hw4: 1
         hw5: 1
-        hw6: 1
-        hw7: 1
         
