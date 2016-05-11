@@ -1,6 +1,6 @@
 # D3: Implement an interactive multiseries line graph with D3
 
-Note: there are plenty of links in this assignment so that you browse through a lot of examples to see what is possible in D3. This does not mean your visualisation should look and work exactly like those in the examples. This is just for inspiration! Also do not blindly copy the whole code, always create your files from scracht.
+Note: there are plenty of links in this assignment so that you browse through a lot of examples to see what is possible in D3. This does not mean your visualisation should look and work exactly like those in the examples. This is just for inspiration! Also do not blindly copy the whole code, always create your files from scrach.
 
 ## Part 1: Prepare dataset
 For this assignment you will create a line graph based on your own dataset (you can use again the KNMI dataset).
@@ -13,9 +13,10 @@ Your dataset should contain the following variables:
 3. this dataset should be dependend on one extra variable, which should have at least two values (example: two different years, two different cities)
 
 Make sure that you put your data in JSON format correctly.
+Optionally, you can use multiple data files.
 If you want to load several data files
-that all need to be available before your program can run look into 
-[queue.js].
+that all need to be available before your program can run into 
+[queue.js]. [This example] uses queue to load two json files.
 
 As usual, create a new HTML file that loads the D3 script (make sure that you have this file saved locally).
 Create separte JavaScript file for your program.
@@ -24,6 +25,7 @@ Create separte JavaScript file for your program.
 [these D3 examples]: https://github.com/mbostock/d3/wiki/Gallery
 
 [queue.js]: https://github.com/mbostock/queue
+[This example]: http://bl.ocks.org/mapsam/6090056
 
 ## Part 2: Create line graph
 Before you get started, take a look at these D3 examples of a [simple line graph] and a [multiseries line graph]. Note for the simple line graph, the
