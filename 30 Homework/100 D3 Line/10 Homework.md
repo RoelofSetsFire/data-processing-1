@@ -15,8 +15,8 @@ Your dataset should contain the following variables:
 Make sure that you put your data in JSON format correctly.
 Optionally, you can use multiple data files.
 If you want to load several data files
-that all need to be available before your program can run into 
-[queue.js]. [This example] uses queue to load two json files.
+that all need to be available before your program can run look into 
+[queue.js]. This D3 example uses queue to load two json files: [D3: Queue.js].
 
 As usual, create a new HTML file that loads the D3 script (make sure that you have this file saved locally).
 Create separte JavaScript file for your program.
@@ -25,7 +25,7 @@ Create separte JavaScript file for your program.
 [these D3 examples]: https://github.com/mbostock/d3/wiki/Gallery
 
 [queue.js]: https://github.com/mbostock/queue
-[This example]: http://bl.ocks.org/mapsam/6090056
+[D3: Queue.js]: http://bl.ocks.org/mapsam/6090056
 
 ## Part 2: Create line graph
 Before you get started, take a look at these D3 examples of a [simple line graph] and a [multiseries line graph]. Note for the simple line graph, the
