@@ -1,7 +1,7 @@
 course:
-    title: Data Toolkit
-    short: Data Toolkit
-    submit: Data15F
+    title: Data Processing
+    short: DataProc
+    submit: Data16F
 
 acknowledgements:
     - 'Based on CS171 from http://cs171.org/ -- Copyright 2011--2013, Hanspeter Pfister.'
@@ -9,12 +9,3 @@ acknowledgements:
 license: All rights reserved.
 
 cdn: http://cdn.mprog.nl/dataviz
-
-psets:
-    - hw1
-    - hw2
-    - hw3
-    - hw4
-    - hw5
-    - hw6
-    - hw7
