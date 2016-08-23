@@ -1,31 +1,80 @@
-formulas:
-    hw1: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
-    hw2: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
-    hw3: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
-    hw4: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
-    hw5: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
-    
+grades:
+    prog1:
+        type: float
+        subgrades:
+            scope: integer
+            correctness: integer
+            design: integer
+            style: integer
+        calculation: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
+        hide_calculated: true
+    prog2:
+        type: float
+        subgrades:
+            scope: integer
+            correctness: integer
+            design: integer
+            style: integer
+        calculation: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
+        hide_calculated: true
+    prog3:
+        type: float
+        subgrades:
+            scope: integer
+            correctness: integer
+            design: integer
+            style: integer
+        calculation: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
+        hide_calculated: true
+    prog4:
+        type: float
+        subgrades:
+            scope: integer
+            correctness: integer
+            design: integer
+            style: integer
+        calculation: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
+        hide_calculated: true
+    prog5:
+        type: float
+        subgrades:
+            scope: integer
+            correctness: integer
+            design: integer
+            style: integer
+        calculation: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
+        hide_calculated: true
+    design1:
+        type: float
+    design2:
+        type: float
+    design3:
+        type: float
+    design4:
+        type: float
+    design5:
+        type: float
+    design6:
+        type: float
+
 calculation:
     normal:
         design: 35
         tech: 65
 
 design:
-    type: float
     grades:
-        week1: 1
-        week2: 1
-        week3: 1
-        week4: 1
-        week5: 1
-        week6: 1
-        
+        design1: 1
+        design2: 1
+        design3: 1
+        design4: 1
+        design5: 1
+        design6: 1
+
 tech:
-    type: float
     grades:
-        hw1: 1
-        hw2: 1
-        hw3: 1
-        hw4: 1
-        hw5: 1
-        
+        prog1: 1
+        prog2: 1
+        prog3: 1
+        prog4: 1
+        prog5: 1
