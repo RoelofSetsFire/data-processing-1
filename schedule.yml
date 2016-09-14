@@ -8,6 +8,17 @@ Week 1:
     'Lab homework part 1 Scraping': '/homework/scraping'
     'Lab homework part 2 Crawling': '/homework/crawling'
     
+Week 2: 
+    'Lab session [Monday 11:00]':
+    'Reading deadline [next Wednedsay 23:59]':
+    'Design deadline [next Monday 11:00]':
+    'Lab homework deadline [next Wednesday 23:59]':
+    'Video lecture: Graphic design ': '/lectures/graphic-design'
+    'Design 2': '/design/design-2'
+    'Video lecture: JavaScript': '/labs/javascript'
+    'Lab homework part 1 : Javascript': '/homework/javascript'
+    'Lab homework part 2 : Interactivity': '/homework/interactivity'
+
 Week 11:
     'Introductory lecture [Wednesday 9:00]':
     'Deadline group A and B: Reading 1 [Friday 23:59]':
@@ -24,6 +35,7 @@ Week 12:
     'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
     'Homework: Crawling IMDB': '/homework/crawling'
+
 Week 13:
     'Design workshop [Monday 13:00]': '/design/design-2'
     'Design workshop deadline [Friday 23:59]':
