@@ -23,9 +23,10 @@ This is an introduction assignment to D3. Please take time to read the tutorials
 ## Introduction: Readings on D3 and SVG
 
 Please read this [blog post about D3], [Three Little Circles], [A Bar Chart
-Part 1] and answer the following questions. For further reference a short list
+Part 1] and answer the following questions (save your answers in questions.pdf).
+For further reference a short list
 of D3 and SVG resources is included below. Please take a look, as these may be
-helpful for this homework or future projects!
+helpful for your homeworks or future projects!
 
 [blog post about D3]: http://www.jeromecukier.net/blog/2013/03/05/d3-tutorial-at-strata-redux/
 [Three Little Circles]: http://mbostock.github.io/d3/tutorial/circle.html
@@ -71,22 +72,27 @@ You should run the server from within the directory where your html file is loca
 
 ## Load dataset in JSON
 
-The most convenient way to load your data set with D3 is to use JSON format and to
+The most convenient way to load your data set with D3 is to use [JSON format] and to
 load it using the `d3.json` function. 
-You can also use a CSV file, as long as you load your data from a separate file and use the proper d3 function to load it. Note that these loading functions take callbacks and that the
+Note that this loading function takes callbacks [ex 1][ex 2] and that the
 file loading is done asynchronously, so the data will only be available in
 the scope of the callback. As an aside: if you want to load several files
 that all need to be available before your program can run look into 
 [queue.js].
 
-* Find the dataset that you would like to show in a barchart. You can use for example the [KNMI webpage] again to download the avarage monthly amount of rain in De Bilt in 2015.
+* Find the dataset that you would like to show in a barchart (preferably csv file). You can use for example the [KNMI webpage] again to download the avarage monthly amount of rain in De Bilt in 2015.
+
+* Convert the data into JSON format using python. Try to make your script as general as possible so that you can re-use it to format other datasets.
 
 * Create a barchart.html file with a title of your data visualisation, include/link to the D3 library and include the barchart.js where you will write the rest of your code.
 
-* Convert the data into JSON format and load it using D3. Print the data to the console using console.log(). This will allow you to check whether your data is loaded correctly. Don't forget to run the server!
+* Load your JSON dataset using D3. Print the data to the console using console.log(). This will allow you to check whether your data is loaded correctly. Don't forget to run the server!
 
-* This is the begining of your barchart visualisation in D3 that you will make next week.
+* This is the begining of your barchart visualisation in D3 that you will make next week.  
 
+[JSON format]: http://www.w3schools.com/json/
+[ex 1]:http://recurial.com/programming/understanding-callback-functions-in-javascript/
+[ex 2]:http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
 [2]: https://github.com/mbostock/d3/releases   
 [queue.js]: https://github.com/mbostock/queue
 [KNMI webpage]: http://projects.knmi.nl/klimatologie/daggegevens/selectie.cgi
@@ -96,6 +102,7 @@ that all need to be available before your program can run look into
 Create folder D3 in your master branch and push the following files:
 
 * `questions.pdf`
+* `convertCSV2JSON.py`
 
 * `barchart.html`, `barchart.js` (and `barchart.css`, if necessary) contained in a folder `Barchart`
 
