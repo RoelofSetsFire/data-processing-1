@@ -10,7 +10,6 @@ Week 1:
     
 Week 2: 
     'Lab session [Monday 11:00]':
-    'Reading deadline [next Wednedsay 23:59]':
     'Design deadline [next Monday 11:00]':
     'Lab homework deadline [next Wednesday 23:59]':
     'Video lecture: Graphic design ': '/lectures/graphic-design'
@@ -18,6 +17,16 @@ Week 2:
     'Video lecture: JavaScript': '/labs/javascript'
     'Lab homework part 1 : Javascript': '/homework/javascript'
     'Lab homework part 2 : Interactivity': '/homework/interactivity'
+
+Week 3:
+    'Lab session [Monday 11:00]':
+    'Design deadline [next Monday 11:00]':
+    'Lab homework deadline [next Wednesday 23:59]':
+    'Design 3': '/design/design-3'
+    'Reading 4': '/readings/reading-4'
+    'Video lecture: D3': '/labs/d3'
+    'Homework: SVG': '/homework/svg'
+    'Homework: Intro D3': '/homework/intro-d3'
 
 Week 11:
     'Introductory lecture [Wednesday 9:00]':
