@@ -74,7 +74,7 @@ You should run the server from within the directory where your html file is loca
 
 The most convenient way to load your data set with D3 is to use [JSON format] and to
 load it using the `d3.json` function. 
-Note that this loading function takes callbacks [ex 1][ex 2] and that the
+Note that this loading function takes callbacks ([ex 1] and [ex 2]) and that the
 file loading is done asynchronously, so the data will only be available in
 the scope of the callback. As an aside: if you want to load several files
 that all need to be available before your program can run look into 
