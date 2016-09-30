@@ -27,51 +27,14 @@ Week 3:
     'Video lecture: D3': '/labs/d3'
     'Homework: SVG': '/homework/svg'
     'Homework: Intro D3': '/homework/intro-d3
-    
-Week 11:
-    'Introductory lecture [Wednesday 9:00]':
-    'Deadline group A and B: Reading 1 [Friday 23:59]':
-    'Reading 1': '/readings/reading-1'
-    'Lab session group A [Wednesday 11:00 and Friday 11:00]':
-    'Deadline group A: Preparations and Scraping [Friday 23:59]':
-    'Homework: Preparations': '/homework/preparations'
-    'Homework: Scraping IMDB': '/homework/scraping'
- 
-Week 12:
-    'Design workshop [Monday 13:00]': '/design/design-1'
-    'Video lecture: Graphic design ': '/lectures/graphic-design' 
-    'Design workshop deadline [Friday 23:59]':
-    'Lab session [Wednesday 11:00 and Friday 11:00]':
-    'Lab homework deadline [Friday 23:59]':
-    'Homework: Crawling IMDB': '/homework/crawling'
 
-Week 13:
-    'Design workshop [Monday 13:00]': '/design/design-2'
-    'Design workshop deadline [Friday 23:59]':
-    'Video lecture: Process': '/lectures/process' 
-    'Reading 3': '/readings/reading-3'
-    'Lab session [Wednesday 11:00 and Friday 11:00]':
-    'Lab homework deadline [Friday 23:59]':
-    'Video lecture: JavaScript': '/labs/javascript'
-    'Homework: Javascript': '/homework/javascript'
-    
-Week 14:
-    'Design workshop [Monday 13:00]': '/design/design-3'
-    'Design workshop deadline [Friday 23:59]':
-    'Reading 4': '/readings/reading-4'
-    'Lab session [Wednesday 11:00 and Friday 11:00]':
-    'Lab homework deadline [Friday 23:59]':
-    'Video lecture: D3': '/labs/d3'
-    'Homework: SVG': '/homework/svg'
-    'Homework: Intro D3': '/homework/intro-d3'
-    
-Week 15:
-    'Design workshop [Monday 13:00]': '/design/design-4'
-    'Design workshop deadline [Friday 23:59]':
+Week 4:
+    'Lab session [Monday 11:00]':
+    'Design deadline [next Wednesday 11:00]':
+    'Lab homework deadline [next Friday 23:59]':
+    'Design 4': '/design/design-4'
     'Reading 5': '/readings/reading-5'
-    'Lab session [Wednesday 11:00 and Friday 11:00]':
-    'Lab homework deadline [Friday 23:59]':
-    'Homework: D3': '/homework/d3-barchart-map'
+    'Homework: Intro D3': '/homework/d3-barchart-map
     
 Week 16:
     'Video lecture: Storytelling': '/talks/storytelling'
