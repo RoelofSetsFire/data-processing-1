@@ -44,6 +44,15 @@ grades:
             style: integer
         calculation: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
         hide_calculated: true
+    prog6:
+        type: float
+        subgrades:
+            scope: integer
+            correctness: integer
+            design: integer
+            style: integer
+        calculation: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
+        hide_calculated: true
     design1:
         type: float
     design2:
@@ -78,3 +87,4 @@ tech:
         prog3: 1
         prog4: 1
         prog5: 1
+        prog6: 1
