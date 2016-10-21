@@ -6,7 +6,7 @@ grades:
             correctness: integer
             design: integer
             style: integer
-        calculation: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
+        calculation: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1)
         hide_calculated: true
     prog2:
         type: float
@@ -15,7 +15,7 @@ grades:
             correctness: integer
             design: integer
             style: integer
-        calculation: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
+        calculation: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1)
         hide_calculated: true
     prog3:
         type: float
@@ -24,7 +24,7 @@ grades:
             correctness: integer
             design: integer
             style: integer
-        calculation: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
+        calculation: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1)
         hide_calculated: true
     prog4:
         type: float
@@ -33,7 +33,7 @@ grades:
             correctness: integer
             design: integer
             style: integer
-        calculation: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
+        calculation: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1)
         hide_calculated: true
     prog5:
         type: float
@@ -42,7 +42,7 @@ grades:
             correctness: integer
             design: integer
             style: integer
-        calculation: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
+        calculation: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1)
         hide_calculated: true
     prog6:
         type: float
@@ -51,7 +51,7 @@ grades:
             correctness: integer
             design: integer
             style: integer
-        calculation: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1).round(1)
+        calculation: (scope * (3 * correctness + 2 * design + style) / 150.0 * 9 + 1)
         hide_calculated: true
     design1:
         type: float
