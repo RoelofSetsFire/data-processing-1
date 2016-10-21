@@ -63,8 +63,6 @@ grades:
         type: float
     design5:
         type: float
-    design6:
-        type: float
 
 calculation:
     normal:
@@ -78,7 +76,6 @@ design:
         design3: 1
         design4: 1
         design5: 1
-        design6: 1
 
 tech:
     grades:
