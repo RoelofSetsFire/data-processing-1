@@ -1,22 +1,4 @@
-# D3 interactive barchart and map
-This week you will implement an interactive barchart and an interactive map using D3. Note that you are not allow to use any other libraries then D3.
-
-## Problem 1: Interactive barchart with D3
-
-For this part of the assignment you will use the files that you prepared last week.
-Read [Part 3] of the barchart tutorial (you might want to read [Part 2] of this tutorial as well, if you haven't done so yet) and reproduce the barchart using your own data that you prepared last week.
-As for interaction, your bars should change color while hovering over them (just like in the example in [Part 3]).
-Additionally you should display the data value for the chosen bar above it (on mouse hover). You can either just print the text or use a d3-tip. 
-
-[Part 3]: https://bost.ocks.org/mike/bar/3/
-[Part 2]: https://bost.ocks.org/mike/bar/2/
-
-Update your completed files in a folder `Barchart`: `barchart.html` , `barchart.js` and
-`barchart.css`.  Note that you may not need `barchart.css` here unless you
-would like to change additional styling with regard to text, margins, etc.
-
-
-## Problem 2: Interactive map with D3
+#Interactive map with D3
 
 In this problem you will be analyzing your geographical data with D3, the idea
 is to find a data set that has data for each country (or most countries) in the
@@ -50,7 +32,7 @@ three-letter country codes:
 	}
 	...
 
-### Interactivity
+## Interactivity
 
 By using datamaps, you should now be able to add interactivity to your map. In
 the example above country names appear upon mouseover. You should also make
@@ -60,7 +42,7 @@ or aside the country. In addition you should also implement some sort of
 highlighting mechanism, e.g., changing the fill (color or opacity) or stroke of
 the country that is being moused-over.
 
-### Discuss your interactivity choices
+## Discuss your interactivity choices
 
 At the bottom of d3map.html (the HTML page that contains the map you are making)
 briefly explain the design choices you made with
@@ -74,6 +56,5 @@ would like to change additional styling with regard to text, margins, etc.
 ## Submit instructions
 
 1. Push the following into your D3 folder on GitHub:
-   * 1: `barchart.html`, `barchart.css`, and `barchart.js`, contained in a folder `Barchart`
-   * 2: `d3map.html`, `d3map.css`, and `d3map.js`, contained in a folder `d3map`
-   * 3: D3 library, if linked to a local copy.
+   * 1: `d3map.html`, `d3map.css`, and `d3map.js`, contained in a folder `d3map`
+   * 2: D3 library, if linked to a local copy.
