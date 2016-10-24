@@ -1,6 +1,7 @@
 # Intro D3
 
 This is an introduction assignment to D3. Please take time to read the tutorials carefuly. 
+Please note that for all the assignment in this course we will be using version 3 of D3!
 
 
 [D3website]: http://d3js.org/
@@ -80,15 +81,15 @@ the scope of the callback. As an aside: if you want to load several files
 that all need to be available before your program can run look into 
 [queue.js].
 
-* Find the dataset that you would like to show in a barchart (preferably csv file). You can use for example the [KNMI webpage] again to download the avarage monthly amount of rain in De Bilt in 2015.
+* Find the dataset that you would like to show in a barchart. The prefarable format is a csv file, but it can be any other format as long as it's not JSON. You can use for example the [KNMI webpage] again to download the avarage monthly amount of rain in De Bilt in 2015.
 
-* Convert the data into JSON format using python. Try to make your script as general as possible so that you can re-use it to format other datasets.
+* Convert the data into JSON format using python. Try to make your script as general as possible so that you can re-use it to format other datasets (will become usefull for other assignments in this course, for the programming project and porbably for other course, where you need to manipulate data).
 
 * Create a barchart.html file with a title of your data visualisation, include/link to the D3 library and include the barchart.js where you will write the rest of your code.
 
 * Load your JSON dataset using D3. Print the data to the console using console.log(). This will allow you to check whether your data is loaded correctly. Don't forget to run the server!
 
-* This is the begining of your barchart visualisation in D3 that you will make next week.  
+* This is the begining of your barchart visualisation in D3! 
 
 [JSON format]: http://www.w3schools.com/json/
 [ex 1]:http://recurial.com/programming/understanding-callback-functions-in-javascript/
@@ -103,9 +104,3 @@ Create folder D3 in your master branch and push the following files:
 
 * `questions.pdf`
 * `convertCSV2JSON.py`
-
-* `barchart.html`, `barchart.js` (and `barchart.css`, if necessary) contained in a folder `Barchart`
-
-
-
-
