@@ -2,15 +2,11 @@
 
 In this assignment you will learn to use the Document Object Model (DOM) using
 Python via the Pattern library, in a few weeks you will also access the DOM
-from Javascript. For the programming excercises in this homework, we provide
-both some scaffolding and automated tests that are also used when grading the
-homework.
+from Javascript. We provide some scaffolding for the programming excercise in this homework.
 
 * The IMDB highest ranking TV-series exercise: [tvscraper.py]
-* The test script for this exercise [test-tvscraper.py]
 
 [tvscraper.py]: tvscraper.py
-[test-tvscraper.py]: test-tvscraper.py
 
 ## DOM scraping and traversal
 
@@ -43,13 +39,10 @@ and outputs a CSV file (`tvseries.csv`) that will contain only a header until
 you complete the implementation of the functions `extract_tvseries(dom)` and
 `save_csv(f, tvseries)`.
 
-4. To help you validate your script we provide both an example output CSV
-file [output.csv] and a test script [test-tvscraper.py]. To use the latter you
-must first run the `tvscraper.py` script (with the command 
-`python tvscraper.py`). This will copy the IMDB webpage to the local directory
-and save a CSV file. After you get these files run `test-tvscraper.py` from 
-the same directory. If your implementation of the missing functions is
-correct, you will see no ERROR of FAIL messages.
+4. To help you validate your script we provide an example output CSV
+file [output.csv]. You should run the `tvscraper.py` script with the command 
+`python tvscraper.py`. This will copy the IMDB webpage to the local directory
+and save a CSV file. 
 
 5. When you hand this exercise in be sure to submit: your `tvscraper.py`, 
 `tvseries.html` and `tvseries.csv`. This will allow us to verify that your
@@ -60,7 +53,6 @@ from IMDB.
    an appropriate value when something is missing.
 
 [output.csv]: output.csv
-[test-tvscraper.py]: test-tvscraper.py
 [preparations]: http://data.mprog.nl/homework/preparations
 
 ### Building `scraper.py`
