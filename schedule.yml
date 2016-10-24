@@ -1,23 +1,79 @@
-Week 4:
-    'Lab session [Monday 11:00]':
-    'Design deadline [Wednesday 23:59]':
+Week 1:
+    'Design workshop group A1 [Monday 11:00]':
+    'Design workshop group A2 [Monday 13:00]':
+    'Design workshop deadline [next Monday 9:59]':
+    'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
+    'Video lecture: Graphic design ': '/lectures/graphic-design'
+    'Video lecture: Javascript ': '/labs/javascript'
+    'Reading': '/readings/reading-1'
+    'Design': '/design/design-1'
+    'Homework: Scraping IMDB': '/homework/scraping'
+
+Week 2:
+    'Design workshop group A1 [Monday 11:00]':
+    'Design workshop group A2 [Monday 13:00]':
+    'Design workshop deadline [next Monday 9:59]':
+    'Lab session [Wednesday 11:00 and Friday 11:00]':
+    'Lab homework deadline [Friday 23:59]':
+    'Video lecture: Graphic design ': '/lectures/color'
+    'Reading': '/readings/reading-4'
+    'Design': '/design/design-2'
+    'Homework: Line graph with Javascript': '/homework/javascript'
+
+Week 3:
+    'Design workshop group A1 [Monday 11:00]':
+    'Design workshop group A2 [Monday 13:00]':
+    'Design workshop deadline [next Monday 9:59]':
+    'Lab session [Wednesday 11:00 and Friday 11:00]':
+    'Lab homework deadline [Friday 23:59]':
+    'Video lecture: D3 ': '/labs/d3'
     'Video lecture: Process ': '/lectures/process'
+    'Reading': '/readings/reading-d3'
+    'Design': '/design/design-3'
+    'Homework: SVG': '/homework/svg'
+    
+    
+Week 4:
+    'Design workshop group A1 [Monday 11:00]':
+    'Design workshop group A2 [Monday 13:00]':
+    'Design workshop deadline [next Monday 9:59]':
+    'Lab session [Wednesday 11:00 and Friday 11:00]':
+    'Lab homework deadline [Friday 23:59]':
+    'Video lecture: Maps ': '/lectures/maps'
+    'Video lecture: Interaction ': '/lectures/interaction'
     'Design': '/design/design-4'
     'Reading': '/readings/reading-5'
-    'Homework': '/homework/d3-barchart-map'
+    'Homework': '/homework/d3-barchart'
 
 Week 5:
-    'Lab session [Monday 11:00]':
-    'Design deadline [Wednesday 23:59]':
-    'Lab homework deadline [Friday 23:59]':
-    'Video lecture: Process ': '/lectures/process'
-    'Design': '/design/design-5'
-    'Reading': '/readings/reading-6'
-    'Homework': '/homework/d3-line'
-    
-Week 6:
-    'Lab session [Monday 11:00]':
+    'Design workshop group A1 [Monday 11:00]':
+    'Design workshop group A2 [Monday 13:00]':
+    'Design workshop deadline [next Monday 9:59]':
+    'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
     'Video lecture: Trees and Networks ': '/lectures/trees-and-networks'
+    'Design': '/design/design-5'
+    'Reading': '/readings/reading-6'
+    'Homework: D3 map': '/homework/d3-map'
+    'Homework: D3 Line Intro': '/homework/d3-line-intro'
+    
+Week 6:
+    'Design workshop group A1 [Monday 11:00]':
+    'Design workshop group A2 [Monday 13:00]':
+    'Design workshop deadline [next Monday 9:59]':
+    'Lab session [Wednesday 11:00 and Friday 11:00]':
+    'Lab homework deadline [Friday 23:59]':
+    'Video lecture: Trees and Networks ': '/talks/storrytelling'
+    'Design': '/design/design-6'
+    'Reading': '/readings/reading-6'
+    'Homework: D3 line': '/homework/d3-line'
+
+Week 7:
+    'Design workshop group A1 [Monday 11:00]':
+    'Design workshop group A2 [Monday 13:00]':
+    'Design workshop deadline [next Monday 9:59]':
+    'Lab session [Wednesday 11:00 and Friday 11:00]':
+    'Lab homework deadline [Friday 23:59]':
+    'Design': '/design/design-7'
     'Homework': '/homework/d3-linked-views'
