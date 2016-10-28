@@ -41,7 +41,7 @@ week's reading will be reflected in the assignment of that week.
 
 To complete this part of the course, you will need to attend weekly workshop sessions, usually on Mondays at 11:00 (group B2) and at 13:00 (group B1). Some of the work will be done in class and there is regular sharing of work by way of informal presentations. 
 All assignments are released on Mondays and are due next Monday, at 9:59 a.m.
-You will be assigned to a group during the first workshop session and the assignments will be done in a group and presented by a group during the weekly workshops. Only the last design assignment is individiual. 
+You will be assigned to a group during the first workshop session and the assignments will be done in a group and presented by a group during the weekly workshops. The last week group assignment will be graded ("Storytelling"). Only the last design assignment is individiual and will be graded ("Reflection on storytelling"). 
 
 Topics by week are:
 
