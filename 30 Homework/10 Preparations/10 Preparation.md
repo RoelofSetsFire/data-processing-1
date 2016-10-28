@@ -14,7 +14,7 @@ complete it timely since it will enable us to set up your accounts.
 First you will learn how to get started with Git in order to submit your homeworks.
 Please refer to this GitHub manual [Github_manual.pdf] and answer the questions before proceeding with this homework.
 Structure your repository as follows: make two folders *Homework* and *Design*. In each folder you will weekly make a new folder with a week number and put your documents from that week in there. Specific instructions on what should be committed each week are to be found in the assignments description.
-Please *submit the URL of your repository* underneath on this page.
+Please __submit the URL of your repository__ underneath on this page.
 
 [Github_manual.pdf]: Github_manual.pdf
 
