@@ -7,8 +7,8 @@ information sources, and working with others is permitted. Please note the
 following restrictions, however.
 
 On the homework solutions you must list any help or hints you have received
-from others. Extensive collaboration (that is, solving the problem set with
-others) before the group reflection phase is not permitted.
+from others. Extensive collaboration (that is, solving the lab assignments with
+others) is not permitted.
 
 You may not submit the same or similar work to this course that you have
 submitted or will submit to another. Nor may you provide or make available
@@ -32,13 +32,12 @@ view visualization. You may use parts out of such examples.
 
 ## Missed activities and assignment deadlines
 
-The data processing course consists of several parts: the reading assignments and the questions that go with them and
-normal homework assignments. Attendence is required at the reading sessions and the lab sesssions. 
-The absence at the reading session results in missed opportunity to submit the accompanying assignment.  
+The data processing course consists of several parts: workshops, the design assignments and the lab assignments. Attendence is required at the workshops on Monday and the lab sesssions. 
+You are allowed to miss one workshop, any extra absences will result in the personal penalty in the grade for the group assignment (10% per absence). 
 Homework is to be handed in according to the [schedule], you are
 allowed one slipped deadline.
 
-If circumstances force you to miss a reading group meeting, a lab
+If circumstances force you to miss a workshop, a lab
 session or a homework deadline be sure to mention this to the instructors 
 ahead of time, use our [email]. Feel free to discuss any issues that come up 
 (you may be referred to our coordinator).
