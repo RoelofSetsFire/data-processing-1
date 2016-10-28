@@ -31,7 +31,7 @@ Gosia Migut
 Sascha van Essen  
 *teaching assistant*
 
-Bas Cha&#202;tel  
+Bas Ch&#226;tel  
 *teaching assistant*
 
 Tim Meijer  
