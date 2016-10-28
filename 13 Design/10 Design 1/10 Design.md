@@ -1,6 +1,11 @@
 #  Design 1: Population Data
 
-In this design workshop you will sketch multiple solutions to visualize the [world population data]. Submit one document as a group which contains the analysis, sketches and the reflection with the final visualization. Your sketches must be done **by hand** with **pen and paper**!
+In this design workshop you will sketch multiple solutions to visualize the [world population data]. 
+
+**Submit** one document as a group which contains the analysis, sketches and the reflection with the final visualization. Your sketches must be done **by hand** with **pen and paper**!
+You submit your assignment as a A4 pdf file by pushing it into your Github repository (each member of the group should have a copy of it in her/his repo).
+You will also **present** the submitted document next Monday, so that you get feedback from the other groups and the instructor.
+Preparing slides for the presentation is not necessary.
 
 [world population data]:  https://en.wikipedia.org/wiki/World_population_estimates
 
@@ -37,4 +42,4 @@ Here are some points you should consider:
 
 ## PART 3 - Group Reflection 
 Time: ~60 minutes, or as long as you like. 
-Take your analysis and ideas and discuss your priorities and all your designs. Can you find a consensus which visulisation is the best? Come up with one visualization that you agree is ideal. 
+Take your analysis and ideas and discuss your priorities and all your designs. Can you find a consensus which visualization is the best? Come up with one visualization that you agree is ideal. 
