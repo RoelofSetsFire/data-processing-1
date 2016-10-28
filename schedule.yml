@@ -1,6 +1,6 @@
 Week 1:
-    'Design workshop group A1 [Monday 11:00]':
-    'Design workshop group A2 [Monday 13:00]':
+    'Design workshop group B2 [Monday 11:00]':
+    'Design workshop group B1 [Monday 13:00]':
     'Design workshop deadline [next Monday 9:59]':
     'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
@@ -11,19 +11,19 @@ Week 1:
     'Homework: Scraping IMDB': '/homework/scraping'
 
 Week 2:
-    'Design workshop group A1 [Monday 11:00]':
-    'Design workshop group A2 [Monday 13:00]':
+    'Design workshop group B2 [Monday 11:00]':
+    'Design workshop group B1 [Monday 13:00]':
     'Design workshop deadline [next Monday 9:59]':
     'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
-    'Video lecture: Graphic design ': '/lectures/color'
+    'Video lecture: Color ': '/lectures/color'
     'Reading': '/readings/reading-4'
     'Design': '/design/design-2'
     'Homework: Line graph with Javascript': '/homework/javascript'
 
 Week 3:
-    'Design workshop group A1 [Monday 11:00]':
-    'Design workshop group A2 [Monday 13:00]':
+    'Design workshop group B2 [Monday 11:00]':
+    'Design workshop group B1 [Monday 13:00]':
     'Design workshop deadline [next Monday 9:59]':
     'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
@@ -35,8 +35,8 @@ Week 3:
     
     
 Week 4:
-    'Design workshop group A1 [Monday 11:00]':
-    'Design workshop group A2 [Monday 13:00]':
+    'Design workshop group B2 [Monday 11:00]':
+    'Design workshop group B1 [Monday 13:00]':
     'Design workshop deadline [next Monday 9:59]':
     'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
@@ -47,8 +47,8 @@ Week 4:
     'Homework': '/homework/d3-barchart'
 
 Week 5:
-    'Design workshop group A1 [Monday 11:00]':
-    'Design workshop group A2 [Monday 13:00]':
+    'Design workshop group B2 [Monday 11:00]':
+    'Design workshop group B1 [Monday 13:00]':
     'Design workshop deadline [next Monday 9:59]':
     'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
@@ -59,8 +59,8 @@ Week 5:
     'Homework: D3 Line Intro': '/homework/d3-line-intro'
     
 Week 6:
-    'Design workshop group A1 [Monday 11:00]':
-    'Design workshop group A2 [Monday 13:00]':
+    'Design workshop group B2 [Monday 11:00]':
+    'Design workshop group B1 [Monday 13:00]':
     'Design workshop deadline [next Monday 9:59]':
     'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
@@ -70,8 +70,8 @@ Week 6:
     'Homework: D3 line': '/homework/d3-line'
 
 Week 7:
-    'Design workshop group A1 [Monday 11:00]':
-    'Design workshop group A2 [Monday 13:00]':
+    'Design workshop group B2 [Monday 11:00]':
+    'Design workshop group B1 [Monday 13:00]':
     'Design workshop deadline [next Monday 9:59]':
     'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
