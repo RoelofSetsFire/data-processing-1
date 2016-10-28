@@ -29,7 +29,7 @@ Take a look at the population data.
 ## PART 2 - SKETCHING
 Time: ~40 minutes
 
-Design four alternative visual representations for representing the data and the uncertainty in the data. Consider different scales, both for time and for population numbers. You should design for an interactive system, i.e., you should not assume that you have to fit all content onto paper. 
+Design four alternative visual representations for representing the data and the uncertainty in the data. Consider different scales, both for time and for population numbers. You should design for an interactive system, i.e., you should not assume that you have to fit all content onto paper. Please take the theory from the video lecture on Graphic design into account.
 Here are some points you should consider: 
 
 * To get a feeling for the final visualization, try to draw the data to scale.
