@@ -50,8 +50,8 @@ Topics by week are:
 |    1 | design                     | 
 |    2 | visual variables, color    | 
 |    3 | process, cognition         | 
-|    4 | interaction                | 
-|    5 | networks & maps            | 
+|    4 | interaction, maps          | 
+|    5 | networks & trees           | 
 |    6 | storytelling           		|  
 
  
