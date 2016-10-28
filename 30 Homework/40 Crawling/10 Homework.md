@@ -1,7 +1,7 @@
 # Crawling
 
-In this homework you will get more experience scraping data from the web as
-well as answer questions on the readings.
+This is the bonus assignment. If you already finished the scraper and want to 
+get more experience scraping data from the web, go ahead and implement the web crawler!
 
 ## Web crawling & HTML scraping
 
