@@ -1,6 +1,6 @@
 #  Design 1: Population Data
 
-In this design workshop you will sketch multiple solutions to visualize the [world population data]. Submit one document as a group which contains the analysis, sketches and the reflection with the final visualisation.
+In this design workshop you will sketch multiple solutions to visualize the [world population data]. Submit one document as a group which contains the analysis, sketches and the reflection with the final visualization. Your sketches must be done **by hand** with **pen and paper**!
 
 [world population data]:  https://en.wikipedia.org/wiki/World_population_estimates
 
