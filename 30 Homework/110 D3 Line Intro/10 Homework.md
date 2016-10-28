@@ -4,11 +4,11 @@ In the assignment next week you will create a line graph based on your own datas
 In this assignment you will prepare your own dataset. 
 Your dataset should contain the following variables:
 
-1. time variable (example: data per month)
+1. time variable (eg.: data per month)
 
-2. at least three different variables for 1 time stamp (example: maximum temperature, minimum temperature, average temperature per month)
+2. at least three different variables for 1 time stamp (eg.: maximum temperature, minimum temperature, average temperature per month)
 
-3. this dataset should be dependent on one extra variable, which should have at least two values (example: two different years, two different cities)
+3. this dataset should be dependent on one extra variable, which should have at least two values (eg.: two different years, two different cities)
 
 Make sure that you put your data in JSON format correctly (the JSON format is compulsory).
 Optionally, you can use multiple data files. If you want to load several data files

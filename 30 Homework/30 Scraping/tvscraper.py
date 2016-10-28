@@ -2,9 +2,8 @@
 # Name:
 # Student number:
 '''
-This script scrapes IMDB and outputs a CSV file with highest ranking tv series.
+This script scrapes IMDB and outputs a CSV file with highest rated tv series.
 '''
-# IF YOU WANT TO TEST YOUR ATTEMPT, RUN THE test-tvscraper.py SCRIPT.
 import csv
 
 from pattern.web import URL, DOM
@@ -16,18 +15,18 @@ OUTPUT_CSV = 'tvseries.csv'
 
 def extract_tvseries(dom):
     '''
-    Extract a list of highest ranking TV series from DOM (of IMDB page).
+    Extract a list of highest rated TV series from DOM (of IMDB page).
 
     Each TV series entry should contain the following fields:
     - TV Title
-    - Ranking
+    - Rating
     - Genres (comma separated if more than one)
     - Actors/actresses (comma separated if more than one)
     - Runtime (only a number!)
     '''
 
     # ADD YOUR CODE HERE TO EXTRACT THE ABOVE INFORMATION ABOUT THE
-    # HIGHEST RANKING TV-SERIES
+    # HIGHEST RATED TV-SERIES
     # NOTE: FOR THIS EXERCISE YOU ARE ALLOWED (BUT NOT REQUIRED) TO IGNORE
     # UNICODE CHARACTERS AND SIMPLY LEAVE THEM OUT OF THE OUTPUT.
 
@@ -36,10 +35,10 @@ def extract_tvseries(dom):
 
 def save_csv(f, tvseries):
     '''
-    Output a CSV file containing highest ranking TV-series.
+    Output a CSV file containing highest rated TV-series.
     '''
     writer = csv.writer(f)
-    writer.writerow(['Title', 'Ranking', 'Genre', 'Actors', 'Runtime'])
+    writer.writerow(['Title', 'Rating', 'Genre', 'Actors', 'Runtime'])
 
     # ADD SOME CODE OF YOURSELF HERE TO WRITE THE TV-SERIES TO DISK
 
@@ -49,7 +48,7 @@ if __name__ == '__main__':
     html = url.download()
 
     # Save a copy to disk in the current directory, this serves as an backup
-    # of the original HTML, will be used in testing / grading.
+    # of the original HTML, will be used in grading.
     with open(BACKUP_HTML, 'wb') as f:
         f.write(html)
 

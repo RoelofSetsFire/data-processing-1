@@ -12,19 +12,19 @@ D3 functions.
 
 If you are running out of time finding your own data, please have a look here: [Happy Planet Index], [Better Life Index], [Quality of Life].
 
-[Happy Planet Index]: http://www.happyplanetindex.org/data/
+[Happy Planet Index]: http://happyplanetindex.org/
 [Better Life Index]: http://stats.oecd.org/Index.aspx?DataSetCode=BLI
 [Quality of Life]: http://www.numbeo.com/quality-of-life/rankings_by_country.jsp
 
 ## Step 2
-You dashboard must consist of an interactive map and another interactive visualization. You can reuse your map from the previous assignment but the second visualizations should be something new, that you have not implemented yet (if you choose for a barchart, it should be either stacked or grouped barchart; line plot is not permitted).
+Your dashboard must consist of an interactive map and another interactive visualization. You can reuse your map from the previous assignment but the second visualizations should be something new, that you have not implemented yet (if you choose for a barchart, it should be either stacked or grouped barchart; line plot is not permitted).
 
 Your map should encode one variable, for example in color.
 Your second interactive graph should represent another variable from the dataset and should be interactive as well (eg. add tooltip to scatterplot).
 If you would like to make another visualization instead of a map, discuss it with the instructors first.
 
 ## Step 3
-The two interactive visualizations should be connected with each other. That means that interaction on the map should cause an update of you second visualization (or other way around). You can, for example, select a country on the map and update your e.g. scatterplot accordingly (so that it shows data for the selected country).
+The two interactive visualizations should be connected with each other. That means that interaction on the map should cause an update of your second visualization (or other way around). You can, for example, select a country on the map and update your e.g. scatterplot accordingly (so that it shows data for the selected country).
 
 ## Step 4
 Add another interactive element to your visualization. You can either add a third visualization, an interactive table, or another html element, that adds interactivity to the dashboard (ex. dropdown menu to change a variable).  

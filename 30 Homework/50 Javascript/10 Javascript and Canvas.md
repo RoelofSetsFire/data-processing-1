@@ -1,4 +1,4 @@
-# Part 1: JavaScript 
+# JavaScript intro
 
 The homeworks of coming weeks are all individual assignment. 
 This week we will be working with JavaScript. JavaScript is the only programming language that is supported by
@@ -80,12 +80,12 @@ following snippet.
 
 	<textarea id="rawdata">
 	#date,maxtemp
-	2014/01/01,   99  
-	2014/01/02,  103 
-	2014/01/03,  122 
-	2014/01/04,   93  
-	2014/01/05,   84  
-	2014/01/06,  145 
+	20140101,   99  
+	20140102,  103 
+	20140103,  122 
+	20140104,   93  
+	20140105,   84  
+	20140106,  145 
 	...
 	</textarea>
 
@@ -95,14 +95,14 @@ script is also fine, but make sure that all the needed files are included.
 
 You can now load the data by writing some JavaScript that selects
 the text area (document.getElementById(...)) and then 
-accesses its content. The content should by split 
+accesses its content. The content should be split 
 into lines and then further split into two chunks, one for the date and
 one for the average temperature. Now create an array of data points 
 and use console.log(...) to see whether the data was in fact
 loaded. Before moving on, make sure that the dates are in fact JavaScript
 dates and the numbers JavaScript numbers. To convert date strings to
 JavaScript dates use the Date function:
-new Date('2014/01/01') (make sure that the date string
+new Date(*dateString*) (make sure that the *dateString*
 matches the example's formatting).
 
 ## The canvas-element
@@ -117,7 +117,7 @@ to at least draw lines, rectangles, circles and text (and how to rotate text).
 ## Transforming the data to screen coordinates
 
 The canvas-element provides its own coordinate system, you will have
-to transform you raw data to these coordinates to draw the graph. 
+to transform your raw data to these coordinates to draw the graph. 
 
 The position encodings for this graph only need linear transforms, one for the x-axis and one for the y-axis, of the following form:
 x<sub>screen</sub> = alpha * x<sub>data</sub> + beta 
@@ -157,7 +157,7 @@ to milliseconds since January 1st 1970. These milliseconds can
 then be transformed into days since the start of your data (so the x-axis
 would run from 1 through 365 or 366 days depending on the year you chose).
 
-Figure below shows you a very simple (and definitely not complete) version of the plot you have to create for this week. 
+Figure below shows you a simple example of a line plot for different dataset. It's definitely not complete, can you spot the missing elements? Include them in your version of the line plot for the average temperature in De Bilt. 
 ![figure1](screenshot.png)
 
 ## Extra credit
@@ -168,7 +168,7 @@ Figure below shows you a very simple (and definitely not complete) version of th
 
 ## Checks before submitting
 
-* Does your submission contain complete implementation of the temperature graph?
+* Does your graph contain all the elements of a clear and complete line graph?
 * Push your files on GitHub in the folder Javascript.
 
 [guidlines]: guidlines.pdf

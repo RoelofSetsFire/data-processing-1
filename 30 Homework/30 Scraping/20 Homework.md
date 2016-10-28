@@ -2,9 +2,9 @@
 
 In this assignment you will learn to use the Document Object Model (DOM) using
 Python via the Pattern library, in a few weeks you will also access the DOM
-from Javascript. We provide some scaffolding for the programming excercise in this homework.
+from Javascript. We provide some scaffolding for the programming exercise in this homework.
 
-* The IMDB highest ranking TV-series exercise: [tvscraper.py]
+* The IMDB highest rated TV-series exercise: [tvscraper.py]
 
 [tvscraper.py]: tvscraper.py
 
@@ -38,6 +38,7 @@ loads the correct IMDB address, makes a local backup of it (`tvseries.html`)
 and outputs a CSV file (`tvseries.csv`) that will contain only a header until
 you complete the implementation of the functions `extract_tvseries(dom)` and
 `save_csv(f, tvseries)`.
+If you want to check your `tvseries.csv` file in Excel on a Mac, add 'sep=,' as the first line of the file. This way the file is parsed correctly in columns.
 
 4. To help you validate your script we provide an example output CSV
 file [output.csv]. You should run the `tvscraper.py` script with the command 
@@ -53,7 +54,7 @@ from IMDB.
    an appropriate value when something is missing.
 
 [output.csv]: output.csv
-[preparations]: http://data.mprog.nl/homework/preparations
+[preparations]: http://dataf.mprog.nl/homework/preparations
 
 ### Building `scraper.py`
 
