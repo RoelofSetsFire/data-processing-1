@@ -9,17 +9,23 @@ in further software configuration. This homework will not be graded and this
 homework has no group reflection phase, however it is essential that you
 complete it timely since it will enable us to set up your accounts. 
 
+## Github
+
 First you will learn how to get started with Git in order to submit your homeworks.
 Please refer to this GitHub manual [Github_manual.pdf] and answer the questions before proceeding with this homework.
-Structure your repository as follows: make two folders Homework and Readings. In each folder you will weekly make a new folder with a week number and put your documents from that week in there. Specific instructions on what shout be commited each week are to be found in the assignment description.
-Please submit the URL of your repository underneath on this page.
+Structure your repository as follows: make two folders Homework and Readings. In each folder you will weekly make a new folder with a week number and put your documents from that week in there. Specific instructions on what shout be committed each week are to be found in the assignment description.
+Please **submit the URL of your repository** underneath on this page.
 
 [Github_manual.pdf]: Github_manual.pdf
 
-In this class we will be using Python as our language of choice. For those of
-you unfamiliar with it, we will be introducing python and the pattern library
-in the first two labs.
 
-In the meantime, feel free to browse the language’s vast documentation and
-tutorials. This problem will point you at how to set up Python and give you a
-hint of what’s to come.
+## Text editor and console
+
+Those of you who have followed Programming 1 and 2 are used to working with CS50's IDE. In this course we remove those training wheels. 
+This means you have to download and install a text editor on your own computer. Which text editor depends on your operating system and interface preference. Free text editors that use colors to highlight your code are for example [Sublime Text 2]  limitless trial for Windows/Mac/Linux) or[Notepad++].
+Besides a text editor you will also need to work with the command prompt or terminal. For Windows, type 'cmd' in the search bar if you don't know where to find it. For Mac, type 'terminal'. 
+
+[Sublime Text 2]: https://sublimetext.com/2
+[Notepad++]: https://notepad-plus-plus.org/ Windows
+
+

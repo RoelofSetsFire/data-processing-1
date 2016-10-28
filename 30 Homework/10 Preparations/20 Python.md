@@ -1,11 +1,12 @@
 # Installing Python and the pattern library
 
-About the version numbers of Python. There are currently two flavors of the
+In this course we will be working with Python to gather and process datasets. 
+There are currently two flavors of the
 Python language, Python 2 and Python 3. For this class (and currently in most
 science and business) Python 3 is not used. We require that you install version
 2.7.? of Python. (Note that there are real incompatibilities between Python 2
 and python 3, so installing the wrong one will break the most Python exercises
-in this course.)
+in this course).
 
 If you are a Windows user and have no pre-existing Python installation,
 we recommend that you install [Python(x, y)]. This distribution includes
