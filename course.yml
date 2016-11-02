@@ -3,6 +3,10 @@ course:
     short: DataProc
     submit: Data16F
 
+ask:
+    hands: true
+    slack: '#data'
+
 acknowledgements:
     - 'Based on CS171 from http://cs171.org/ -- Copyright 2011--2013, Hanspeter Pfister.'
 
