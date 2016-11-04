@@ -1,6 +1,5 @@
 # Design 3
 
-
 ##  Problem 1: Rainbow color map
 Find a rainbow color map visualization on the web (see [Reading 3] for reference). Please include a screenshot and link of the visualization.
 Briefly summarize its intended objective and audience. Does it fail to successfully convey information? If so, why? Is there a good reason for this specific visualization to use a rainbow color scheme?
@@ -16,16 +15,12 @@ Patterns and colors are essential to maps. Compare a search for Harvard Universi
 * Which map is an overall better visualization, and why?
 
 
-
 # Submit
-* Push one pdf containing answers to problem 1, 2 and 3 on Github. 
+* Push one pdf containing answers to problem 1 and 2 on Github. 
 * Do not forget to put your names in the file!
 * Cite the sources properly. 
 * Indicate which text are quotes (by. e.g. italicizing text and using quotation marks).
-* This is a group assignment and will be graded.
 
 
-[Confluence by Harshawardhan Nene and Kedar Vaidya]:  http://iibh.apphb.com/
-[critique.pdf]: critique.pdf
 [Reading 3]: /readings/reading-3
-[Reading 5]: /readings/reading-5
+

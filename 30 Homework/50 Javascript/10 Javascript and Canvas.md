@@ -163,6 +163,7 @@ Figure below shows you a simple example of a line plot for different dataset. It
 ## Extra credit
 * Create an x-axis that uses calendar dates (instead of days since the first date in the data set).
 * Loading the data from file (you will need XMLHTTPRequest).
+* Add interactivity to your plot [Javascript Interactivity]
 * Nice graphical presentation will be credited.
 
 
@@ -172,3 +173,4 @@ Figure below shows you a simple example of a line plot for different dataset. It
 * Push your files on GitHub in the folder Javascript.
 
 [guidlines]: guidlines.pdf
+[Javascript Interactivity]:/homework/interactivity

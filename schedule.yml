@@ -18,8 +18,8 @@ Week 2:
     'Design workshop deadline [next Monday 9:59]':
     'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
-    'Video lecture: Color ': '/lectures/color'
-    'Reading': '/readings/reading-4'
+    'Video lecture: Process ': '/lectures/process'
+    'Reading': '/readings/reading-2'
     'Design': '/design/design-2'
     'Homework: Line graph with Javascript': '/homework/javascript'
 
@@ -30,7 +30,8 @@ Week 3:
     'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
     'Video lecture: D3 ': '/labs/d3'
-    'Video lecture: Process ': '/lectures/process'
+    'Optional video: Color ': '/lectures/color'
+    'Reading': '/readings/reading-3'
     'Reading': '/readings/reading-d3'
     'Design': '/design/design-3'
     'Homework: SVG': '/homework/svg'
@@ -42,8 +43,7 @@ Week 4:
     'Design workshop deadline [next Monday 9:59]':
     'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
-    'Video lecture: Maps ': '/lectures/maps'
-    'Video lecture: Interaction ': '/lectures/interaction'
+    'Optional video: Trees and Networks ': '/lectures/trees-and-networks'
     'Design': '/design/design-4'
     'Reading': '/readings/reading-5'
     'Homework': '/homework/d3-barchart'
@@ -54,7 +54,8 @@ Week 5:
     'Design workshop deadline [next Monday 9:59]':
     'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
-    'Video lecture: Trees and Networks ': '/lectures/trees-and-networks'
+    'Optional video: Maps ': '/lectures/maps'
+    'Optional video: Interaction ': '/lectures/interaction'
     'Design': '/design/design-5'
     'Reading': '/readings/reading-6'
     'Homework: D3 map': '/homework/d3-map'
@@ -66,7 +67,6 @@ Week 6:
     'Design workshop deadline [next Monday 9:59]':
     'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
-    'Video lecture: Trees and Networks ': '/talks/storrytelling'
     'Design': '/design/design-6'
     'Reading': '/readings/reading-6'
     'Homework: D3 line': '/homework/d3-line'
@@ -77,5 +77,7 @@ Week 7:
     'Design workshop deadline [next Monday 9:59]':
     'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
+    'Video lecture: Storytelling ': '/talks/storytelling'
+    'Reading': '/readings/reading-7'
     'Design': '/design/design-7'
     'Homework': '/homework/d3-linked-views'
