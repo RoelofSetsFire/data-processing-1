@@ -1,4 +1,4 @@
-# Design 3 - Github Commit Graph
+# Design 4 - Github Commit Graph
 
 In this design workshop you will sketch multiple solutions to visualize the commit graph and the branches of a git repository. 
 Submit one document as a group which contains the analysis, sketches and the reflection with the final visualisation.

@@ -1,16 +1,9 @@
-# Design workshop
+# Design 3
 
-This is a group assignment and will be graded.
 
-## Problem 1: Design critique group reflection
-
-Take your analysis and ideas from the design critique of last week and discuss them with your group ([Confluence by Harshawardhan Nene and Kedar Vaidya]).
-
-* Can you find a consensus? 
-* Prepare one documents in which you in detail critique the visualisation as a group (max 2 pages). 
-* Comment on the color and interaction aspects (according to [Reading 4] and [Reading 5]).
-* Suggest improvements and refinements. 
-* Use the provided list of questions/points [critique.pdf] to help you structure your critique (not exhaustive, you can discuss more/other aspects if necessary). 
+##  Problem 1: Rainbow color map
+Find a rainbow color map visualization on the web (see [Reading 3] for reference). Please include a screenshot and link of the visualization.
+Briefly summarize its intended objective and audience. Does it fail to successfully convey information? If so, why? Is there a good reason for this specific visualization to use a rainbow color scheme?
 
 
 ## Problem 2: Patterns and colors in maps
@@ -22,8 +15,7 @@ Patterns and colors are essential to maps. Compare a search for Harvard Universi
 
 * Which map is an overall better visualization, and why?
 
-## Problem 3:
-Find a multiple linked views visualisation on the web (see [Reading 5] for reference). Please include a screenshot and link of the visualization. Briefly summarize its intended objective and audience. Discuss all the interactive elements and their role in the chosen visualisation.
+
 
 # Submit
 * Push one pdf containing answers to problem 1, 2 and 3 on Github. 
@@ -35,5 +27,5 @@ Find a multiple linked views visualisation on the web (see [Reading 5] for refer
 
 [Confluence by Harshawardhan Nene and Kedar Vaidya]:  http://iibh.apphb.com/
 [critique.pdf]: critique.pdf
-[Reading 4]: /readings/reading-4
+[Reading 3]: /readings/reading-3
 [Reading 5]: /readings/reading-5

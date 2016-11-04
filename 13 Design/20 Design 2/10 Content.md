@@ -1,19 +1,18 @@
-# Design workshop
+# Design 2
 
-## Workshop activity
-
-In this activity, you will critique a visualization and identify design
+## Problem 1: Design critique 
+In this assignment you will critique a visualization and identify design
 elements of visualizations that support analysis and communication: 
 
 * [The Ebb and Flow of Movies]
 
-Take 10-15 minutes to examine the visualisation on your own and briefly discuss it with your neighbour.
+Take 10-15 minutes to examine the visualization on your own and only then discuss it with your group.
 By the end of the activity you should feel ready to share your observations and questions
-with the class.
+in class and on paper!
+Prepare one document in which you in detail critique the visualization as a group (max 2 pages). 
+Use the provided list of questions/points [critique.pdf] to help you structure your critique (not exhaustive, you can discuss more/other aspects if necessary). 
 
-[The Ebb and Flow of Movies]: http://nyti.ms/1OUa2g
-
-Questions for discussion:
+Questions for discussion in class:
 
 * Who is the intended audience?
 * What tasks does the visualization enable?
@@ -22,29 +21,21 @@ Questions for discussion:
 * How do the visual elements and user interactions support the tasks?
 * Why do you like / dislike this visualization?
 
+## Problem 2: Questions corresponding to the readings
 
-## Problem 1: Design critique
-This is an individual assignment and will be graded pass/fail.
+Find a visualization not discussed in class or used in a homework and answer the following questions pertaining to that visualization. Attach the visualization as a screenshot in your submission.
 
-Write a short design critique (one page) of the following visualization: 
+* Consider Bertin's characterization of visual variables (position, size, shape, value, color, orientation, and texture). Pick 2 of Bertin's visual variables, and discuss them in relation to your visualization.
 
-* [Confluence by Harshawardhan Nene and Kedar Vaidya].
+* Ask yourself what the designer is trying to convey and think of three to four possible tasks this visualization should help you with. Does the visualization achieve any of your tasks? (To view an example, see Albert Cairo, pages 26-­28.)
 
-Use the provided list of questions/points [critique.pdf] to help you structure your critique. 
 
-##  Problem 2: Rainbow color map
-This is an individual assignment and will be graded pass/fail.
-
-Find a rainbow color map visualization on the web (see [Reading 4] for reference). Please include a screenshot and link of the visualization.
-Briefly summarize its intended objective and audience. Does it fail to successfully convey information? If so, why? Is there a good reason for this specific visualization to use a rainbow color scheme?
-
-# Submit
-* Submit a single pdf document containing your answers to problem 1 & 2.
+## Submit
+* Push a single pdf containing answers to problem 1 and 2 on Github.
 * Your answers can be either in English or in Dutch, whichever you prefer.
-* This is an indivisual assignment and will be graded pass/fail.
 
-[Confluence by Harshawardhan Nene and Kedar Vaidya]:  http://iibh.apphb.com/
+
 [critique.pdf]: critique.pdf
-[Reading 4]: /readings/reading-4
+[The Ebb and Flow of Movies]: http://www.nytimes.com/interactive/2008/02/23/movies/20080223_REVENUE_GRAPHIC.html?_r=0s
 
 

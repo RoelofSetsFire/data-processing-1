@@ -1,13 +1,9 @@
 # Reading 4
 
-* Colin Ware "Visual thinking for design", Chapter 2 ("What we can easily see") and Chapter 4 ("Color").
+Read the following paper and use it as inspiration for your design assignment.
 
-* D. Borland and R. M. Taylor II, "[Rainbow Color Map (Still) Considered
-  Harmful][1]", IEEE Computer Graphics and Applications, vol. 27, no. 2, pp.
-  14–17, 2007.
+* J. Heer, M. Bostock, and V. Ogievetsky, "[A tour through the visualization
+  zoo][2]", Commun. ACM, vol. 53, no. 6, pp. 59–67, Jun. 2010.
 
-[1]: cdn://excerpts/w4/Borland_Rainbow_Color_Map.pdf
-
-
-	
+[2]: cdn://excerpts/w6/Heer_tour_through_the_visualization_zoo.pdf	
 
