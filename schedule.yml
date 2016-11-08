@@ -43,9 +43,10 @@ Week 4:
     'Design workshop deadline [next Monday 9:59]':
     'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
+    'Optional video: Maps ': '/lectures/maps'
     'Optional video: Trees and Networks ': '/lectures/trees-and-networks'
     'Design': '/design/design-4'
-    'Reading': '/readings/reading-5'
+    'Reading': '/readings/reading-4'
     'Homework': '/homework/d3-barchart'
 
 Week 5:
@@ -53,11 +54,10 @@ Week 5:
     'Design workshop group B1 [Monday 13:00]':
     'Design workshop deadline [next Monday 9:59]':
     'Lab session [Wednesday 11:00 and Friday 11:00]':
-    'Lab homework deadline [Friday 23:59]':
-    'Optional video: Maps ': '/lectures/maps'
+    'Lab homework deadline [Friday 23:59]':    
     'Optional video: Interaction ': '/lectures/interaction'
     'Design': '/design/design-5'
-    'Reading': '/readings/reading-6'
+    'Reading': '/readings/reading-5'
     'Homework: D3 map': '/homework/d3-map'
     'Homework: D3 Line Intro': '/homework/d3-line-intro'
     
@@ -67,6 +67,7 @@ Week 6:
     'Design workshop deadline [next Monday 9:59]':
     'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
+    'Video lecture: Storytelling ': '/talks/storytelling'
     'Design': '/design/design-6'
     'Reading': '/readings/reading-6'
     'Homework: D3 line': '/homework/d3-line'
@@ -77,7 +78,5 @@ Week 7:
     'Design workshop deadline [next Monday 9:59]':
     'Lab session [Wednesday 11:00 and Friday 11:00]':
     'Lab homework deadline [Friday 23:59]':
-    'Video lecture: Storytelling ': '/talks/storytelling'
-    'Reading': '/readings/reading-7'
     'Design': '/design/design-7'
     'Homework': '/homework/d3-linked-views'
