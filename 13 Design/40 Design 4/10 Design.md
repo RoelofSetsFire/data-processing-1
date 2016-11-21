@@ -25,7 +25,7 @@ Time: 30 minutes
 Design two alternative visual representations for the Github Network. You should design for an interactive system, i.e., you should not assume that you have to fit all content onto paper. 
 You can refer to Heer's article [Reading 3] for the examples of network visualisations, browse [D3 website], and feel free to use any other sources.
 
-[Reading 3]: /readings/reading-3
+[Reading 3]: /readings/reading-4
 [D3 website]: https://github.com/mbostock/d3/wiki/Gallery
 
 Here are some questions to consider:
@@ -36,7 +36,7 @@ Here are some questions to consider:
 * Is a node-link diagram the appropriate representation? Or should you consider alternative graph representations?
 
 
-[Reading 1]: /readings/reading-1
+[Reading 1]: /readings/reading-2
 [Process]: /lectures/process
 
 
