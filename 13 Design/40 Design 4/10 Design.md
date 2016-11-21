@@ -23,20 +23,20 @@ Take a look at various Github Network Graphs. Here are two examples [1], [2].
 Time: 30 minutes
 
 Design two alternative visual representations for the Github Network. You should design for an interactive system, i.e., you should not assume that you have to fit all content onto paper. 
-You can refer to Heer's article [Reading 3] for the examples of network visualisations, browse [D3 website], and feel free to use any other sources.
+You can refer to Heer's article [Reading 4] for the examples of network visualisations, browse [D3 website], and feel free to use any other sources.
 
-[Reading 3]: /readings/reading-4
+[Reading 4]: /readings/reading-4
 [D3 website]: https://github.com/mbostock/d3/wiki/Gallery
 
 Here are some questions to consider:
 
-* Decide on which visual variable to use for which attributes of the visualizations. Consider the strengths and weaknesses of visual variables that were mentioned in Carpendale's article [Reading 1] (also briefly discussed in this week's lecture: [Process]). Use the strongest visual variable for the most important attributes of the data.
+* Decide on which visual variable to use for which attributes of the visualizations. Consider the strengths and weaknesses of visual variables that were mentioned in Carpendale's article [Reading 2] (also briefly discussed in this week's lecture: [Process]). Use the strongest visual variable for the most important attributes of the data.
 * Do you think it is necessary to represent every single commit as a separate node? Could you think of ways to aggregate this?
 * Do you think that every contributor needs a “row”, as on the default network view on github? Could you think of a smarter way to summarize those? 
 * Is a node-link diagram the appropriate representation? Or should you consider alternative graph representations?
 
 
-[Reading 1]: /readings/reading-2
+[Reading 2]: /readings/reading-2
 [Process]: /lectures/process
 
 
