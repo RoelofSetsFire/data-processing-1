@@ -57,7 +57,7 @@ You can find the detailed instructions on how to set up D3 [here][1].
 
 [1]: https://github.com/mbostock/d3/wiki
 
-*  Download the latest version of D3 [here][2]. Or, to link directly to the latest release, copy this snippet into your html file:
+*  Download the version 3 of D3 [here][2]. Or, to link directly to the latest release, copy this snippet into your html file:
 
       `<script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>`
 
@@ -86,7 +86,7 @@ that all need to be available before your program can run look into
 
 * Create a barchart.html file with a title of your data visualization, include/link to the D3 library and include the barchart.js where you will write the rest of your code.
 
-* Load your JSON dataset (from previous assignment) using D3. Print the data to the console using console.log(). This will allow you to check whether your data is loaded correctly. 
+* Load your JSON dataset (from Intro) using D3. Print the data to the console using console.log(). This will allow you to check whether your data is loaded correctly. 
 
 [JSON format]: http://www.w3schools.com/json/
 [ex 1]:http://recurial.com/programming/understanding-callback-functions-in-javascript/
@@ -97,7 +97,7 @@ that all need to be available before your program can run look into
 
 ##Part 2: Interactive barchart
 
-Read [Part 3] of the barchart tutorial (you might want to read [Part 2] of this tutorial as well, if you haven't done so yet) and reproduce the barchart using your own data that you prepared last week.
+Read [Part 3] of the barchart tutorial (you might want to read [Part 2] of this tutorial as well, if you haven't done so yet) and reproduce the barchart using your own data that you prepared this week (Intro).
 As for interaction, your bars should change color while hovering over them (just like in the example in [Part 3]).
 Additionally you should display the data value for the chosen bar above it (on mouse hover). You can either just print the text or use a d3-tip. 
 
