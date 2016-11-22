@@ -57,7 +57,7 @@ You can find the detailed instructions on how to set up D3 [here][1].
 
 [1]: https://github.com/mbostock/d3/wiki
 
-*  Download the version 3 of D3 [here][2]. Or, to link directly to the latest release, copy this snippet into your html file:
+*  Download the version 3 of D3 [here][2]. Or, to link directly to the release 3, copy this snippet into your html file:
 
       `<script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>`
 
