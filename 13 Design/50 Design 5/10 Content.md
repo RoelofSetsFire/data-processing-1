@@ -84,9 +84,9 @@ However your 3 minutes pitch should be enough to sell your project.
 
 
 
-[Albert Cairo]: '/talks/storytelling'
-[Reading 5]: 'readings/reading-5'
-[critique]: 'design/design-2/critique.pdf'
+[Albert Cairo]: /talks/storytelling
+[Reading 5]: readings/reading-5
+[critique]: design/design-2/critique.pdf
 [Aantal mensen met bijstand blijft groeien in Nederland]: http://www.parool.nl/binnenland/aantal-mensen-met-bijstand-blijft-groeien-in-nederland~a4253810/
 
 [Nieuwe hotels blijven maar komen in Amsterdam]: http://www.parool.nl/amsterdam/nieuwe-hotels-blijven-maar-komen-in-amsterdam~a4253875/
