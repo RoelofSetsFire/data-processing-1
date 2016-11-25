@@ -62,9 +62,13 @@ Refer to the talk of [Albert Cairo] for background information on storytelling a
 Pitch your narrative supported by your sketches in a 3 minutes video. 
 Your sketches should be visible and you should go through them telling the story. 
 Here are some examples of presenting the story supported by the visualizations: 
+
 * [Swine flu alert]
+
 * [Crisis narrows China UK gap]
+
 * [Storytelling by Robert Kosara]
+
 * [Wealth Inequality in America]
 
 Your task is really hard as you do not have real data nor real visualizations. But don't worry that unlike in the examples you do not have advanced and fancy graphics. Your task is to 'sell' your potential story so that you can implement it in the future! 
@@ -84,9 +88,9 @@ However your 3 minutes pitch should be enough to sell your project.
 
 
 
-[Albert Cairo]: /talks/storytelling
-[Reading 5]: readings/reading-5
-[critique]: design/design-2/critique.pdf
+[Albert Cairo]: https://dataf.mprog.nl/talks/storytelling
+[Reading 5]: https://dataf.mprog.nl/readings/reading-5
+[critique]: https://dataf.mprog.nl/design/design-2/critique.pdf
 [Aantal mensen met bijstand blijft groeien in Nederland]: http://www.parool.nl/binnenland/aantal-mensen-met-bijstand-blijft-groeien-in-nederland~a4253810/
 
 [Nieuwe hotels blijven maar komen in Amsterdam]: http://www.parool.nl/amsterdam/nieuwe-hotels-blijven-maar-komen-in-amsterdam~a4253875/
