@@ -8,7 +8,7 @@ of inhabitants, the GDP, or the population density.
 D3 contains an add-on called datamaps which you can get at
 <http://datamaps.github.com>. Datamaps will replace your svg map for this
 problem. Check out its various examples of usage, including
-<http://bl.ocks.org/markmarkoh/4127667>. You could use  the same data as for the previous assignment, but this time using D3 and datamaps. Specifically, you will need to
+<http://bl.ocks.org/markmarkoh/4127667>. You could use  the same data as for the previous map assignment, but this time using D3 and datamaps. Specifically, you will need to
 adapt your data format to be compatible with that expected by datamaps. For
 example, if you were to modify the example at 
 <http://bl.ocks.org/markmarkoh/4127667>, you will need to figure out the 
